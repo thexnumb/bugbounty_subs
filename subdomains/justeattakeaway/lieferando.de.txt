@@ -170,8 +170,6 @@ bim.dev.lieferando.de
 binary-signals-admincovervalet.dev.lieferando.de
 blockccatadyen.profile.opencovidalatina.dev.lieferando.de
 blog.lieferando.de
-blogfr.lieferando.de
-blogtesting.lieferando.de
 bm.dev.lieferando.de
 bmonsori-qawem3-harrismycfouncover.dev.lieferando.de
 bmrk.dev.lieferando.de
@@ -280,7 +278,6 @@ covidien.uncover.web1.dev.lieferando.de
 cpeb4-customtobaccovidalatina.staging.lieferando.de
 cpg.d1-uncover.dev.lieferando.de
 creative.uncover.dev.lieferando.de
-creatives-direct.lieferando.de
 creatives.lieferando.de
 crmuncover.clarocr.dev.lieferando.de
 croissantencustomtobaccovidalatina.staging.lieferando.de
@@ -337,7 +334,6 @@ dgarcia-gps-1.shopuncover.v3.dev.lieferando.de
 dgarcia-menu-uncover.dev.lieferando.de
 dietze-schell.dev.lieferando.de
 dining.lieferando.de
-discount.lieferando.de
 dispatch.dev.lieferando.de
 dkcloud.dev.lieferando.de
 dlorente-appscs.uncover.dev.lieferando.de
@@ -447,12 +443,10 @@ fwuncover.dev.lieferando.de
 g-admin-api.dev.lieferando.de
 ga.dev5uncover.dev.lieferando.de
 galbanell-piur-113-uncover.dev.lieferando.de
-gelbeseiten.lieferando.de
 gen.dev.lieferando.de
 genroe.staging.lieferando.de
 gestioncovervalet.dev.lieferando.de
 geuncover.dev.lieferando.de
-gewinnspiel.lieferando.de
 gfadm.uncover.dev.lieferando.de
 gh-uncover.dev.lieferando.de
 ginzametrics-uncover.dev.lieferando.de
@@ -462,10 +456,8 @@ give.uncover.dev.lieferando.de
 giving.uncover.staging.lieferando.de
 global-uncover.dev.lieferando.de
 goldankaufuncover.dev.lieferando.de
-goodlife.lieferando.de
 gr.dev.lieferando.de
 graph-uncover.dev.lieferando.de
-groupon.lieferando.de
 gsmauncover.dev.lieferando.de
 gutenmorgenuncover.dev.lieferando.de
 gutschein.lieferando.de
@@ -508,7 +500,6 @@ if-rss-uncover.dev.lieferando.de
 if.lieferando.de
 iframeuncover.dev.lieferando.de
 ilifesaver.dev.lieferando.de
-image.update.lieferando.de
 imagematching.uncover.dev.lieferando.de
 impulseuncover.dev.lieferando.de
 in.uncover.v3.dev.lieferando.de
@@ -624,7 +615,6 @@ mdzz-uncover.dev.lieferando.de
 media.cdn.uncover.staging.lieferando.de
 media.zen-uncover.staging.lieferando.de
 mediauncover.cmn.dev.lieferando.de
-megatron.lieferando.de
 members.dev.lieferando.de
 merchants-uncover.staging.lieferando.de
 messages-app-uncover.dev.lieferando.de
@@ -684,7 +674,6 @@ neckermann-webuncover.staging.lieferando.de
 nesta-uncover.a.dev.lieferando.de
 netlock2-uncover.dev.lieferando.de
 netpromoteruncover.staging.lieferando.de
-neukunde.lieferando.de
 newarkschools-uncover.dev.lieferando.de
 newmatchedbets-uncover.staging.lieferando.de
 news.lieferando.de
@@ -693,8 +682,6 @@ nfr.staging.lieferando.de
 nimcalluncover.dev.lieferando.de
 nl.staging.lieferando.de
 nl.uncover.staging.lieferando.de
-node2.lieferando.de
-node4.lieferando.de
 northshore.dev.lieferando.de
 notalone-uncover.dev.lieferando.de
 nsk.dev.lieferando.de
@@ -757,7 +744,6 @@ opencovr.dev.lieferando.de
 opencovrn.dev.lieferando.de
 openiduncover.dev.lieferando.de
 ops.dev.lieferando.de
-order.lieferando.de
 orderandwin.lieferando.de
 orderrouter.uncover.dev.lieferando.de
 orders.lieferando.de
@@ -805,7 +791,6 @@ pos.uncover.dev.lieferando.de
 posapi-cf.customtobaccovidalatina.staging.lieferando.de
 postgres.uncover.dev.lieferando.de
 powertronuncover.dev.lieferando.de
-pp.lieferando.de
 pppuncover.dev.lieferando.de
 praemienshop.lieferando.de
 preferencesuncover.dev.lieferando.de
@@ -857,7 +842,6 @@ rabobank-uncover.dev.lieferando.de
 ras.dev.lieferando.de
 recipes-uncover.dev.lieferando.de
 recruitment.uncover.dev.lieferando.de
-redeem-giftcards.lieferando.de
 redirect-uncover.ci0.dev.lieferando.de
 redmine.uncover.dev.lieferando.de
 redmonuncover.staging.lieferando.de
@@ -1735,7 +1719,6 @@ voot.opencovadim-alpha.dev.lieferando.de
 vr-uncover.dev.lieferando.de
 vtwincatalog-uncover.com.dev.lieferando.de
 vy2c.staging.lieferando.de
-vz.lieferando.de
 w12.dev.lieferando.de
 w8.uncover.dev.lieferando.de
 wabootuncover.dev.lieferando.de
@@ -1774,11 +1757,9 @@ www.chita-uncover.dev.lieferando.de
 www.cpg.d1-uncover.dev.lieferando.de
 www.forum-uncover.dev.lieferando.de
 www.global-uncover.dev.lieferando.de
-www.gmx.lieferando.de
 www.host-uncover.staging.lieferando.de
 www.hybrid-uncover.dev.lieferando.de
 www.lieferando.de
-www.maennergruppe.lieferando.de
 www.mkuncover.dev.lieferando.de
 www.mobileuncover.staging.lieferando.de
 www.moodle.uncover.dev.lieferando.de

@@ -20,7 +20,6 @@ cloud.update.10bis.co.il
 comp.10bis.co.il
 connect.10bis.co.il
 d.ns.email.10bis.co.il
-deliveryservice.10bis.co.il
 deliveryservice.dev.10bis.co.il
 e.ns.email.10bis.co.il
 email.10bis.co.il
@@ -57,11 +56,4 @@ trans.10bis.co.il
 update.10bis.co.il
 view.update.10bis.co.il
 www.10bis.co.il
-www.backoffice.10bis.co.il
-www.comp.10bis.co.il
-www.gateway.10bis.co.il
-www.login.10bis.co.il
-www.reshomeapi.10bis.co.il
-www.staging.10bis.co.il
-www.www2.10bis.co.il
 www2.10bis.co.il

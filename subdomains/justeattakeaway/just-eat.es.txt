@@ -70,8 +70,6 @@ forums.just-eat.es
 fr.just-eat.es
 frontend.office.stag.clops.just-eat.es
 games.just-eat.es
-go-portal.just-eat.es
-go-tracker.just-eat.es
 grc2go.just-eat.es
 groups.just-eat.es
 guia.just-eat.es
@@ -116,7 +114,6 @@ ku1720.just-eat.es
 labaguala.just-eat.es
 lasabrosapizzadonerkebab.just-eat.es
 legacysalesitemmanagement.just-eat.es
-live-orders.just-eat.es
 live-reporting.just-eat.es
 local.just-eat.es
 mail.just-eat.es

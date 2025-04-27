@@ -32,6 +32,7 @@ samson.yourdelivery.de
 service.yourdelivery.de
 stage.yourdelivery.de
 staging.yourdelivery.de
+static.yourdelivery.de
 stats.yourdelivery.de
 support.yourdelivery.de
 ticker.yourdelivery.de

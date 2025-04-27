@@ -13,6 +13,7 @@
 1zw.avira-free-antiviruscourses.pr.dev.www.stamp.frontend.office.prod.clops.pyszne.pl
 1zw.courses.pr.dev-avira-free-antivirus.www.stamp.frontend.office.prod.clops.pyszne.pl
 1zw.courses.pr.dev.www.stampantivirus.frontend.office.prod.clops.pyszne.pl
+252fwww.pyszne.pl
 25b-www.antivirus.stamp.frontend.office.prod.clops.pyszne.pl
 31b61wwantivirus.stamp.frontend.office.prod.clops.pyszne.pl
 33-166www-avira-free-antivirus.stamp.frontend.office.prod.clops.pyszne.pl
@@ -290,6 +291,7 @@ lawantivirus-www.stamp.frontend.office.prod.clops.pyszne.pl
 le-gyros.wroclaw.pyszne.pl
 lepww.avira-free-antivirusstamp.frontend.office.prod.clops.pyszne.pl
 littlerockadmin.www-avira-free-antivirus.stamp.frontend.office.prod.clops.pyszne.pl
+live-orders.pyszne.pl
 local.pyszne.pl
 localhost.pyszne.pl
 locall.pyszne.pl
