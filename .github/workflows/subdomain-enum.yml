@@ -68,6 +68,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update subdomains [automated]"
-            git remote set-url origin https://x-access-token:${GH_PAT}@github.com/thexnumb/thexrecon_private.git
+            git remote set-url origin https://x-access-token:${GH_PAT}@github.com/thexnumb/bugbounty_subs.git
             git push origin main
           fi
