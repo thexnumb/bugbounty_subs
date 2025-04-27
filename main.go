@@ -113,8 +113,6 @@ func processDomain(domain, program string, wg *sync.WaitGroup, lock *sync.Mutex)
 		}
 	}
 
-	// (You can add AbuseIPDB and Subdomain Center HTTP fetches later if you want)
-
 	// Save results
 	lock.Lock()
 	defer lock.Unlock()
@@ -142,47 +140,61 @@ func processDomain(domain, program string, wg *sync.WaitGroup, lock *sync.Mutex)
 	fmt.Printf("[+] %d subdomains written for %s\n", len(final), domain)
 }
 
-func mergeAllSubdomains() {
-	var all []string
+func mergeSubdomainsPerProgram() {
 	subdir := "subdomains"
 
-	err := filepath.Walk(subdir, func(path string, info os.FileInfo, err error) error {
-		if strings.HasSuffix(path, ".txt") && !strings.HasSuffix(path, "all_subs.txt") {
-			lines, err := readLines(path)
-			if err == nil {
-				all = append(all, lines...)
-			}
+	entries, err := os.ReadDir(subdir)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "[!] Error reading subdomains directory: %v\n", err)
+		return
+	}
+
+	for _, entry := range entries {
+		if !entry.IsDir() {
+			continue
 		}
-		return nil
-	})
-	if err != nil {
-		fmt.Fprintf(os.Stderr, "[!] Error walking subdomains: %v\n", err)
-		return
-	}
+		programPath := filepath.Join(subdir, entry.Name())
 
-	unique := make(map[string]struct{})
-	for _, sub := range all {
-		unique[sub] = struct{}{}
-	}
+		var all []string
 
-	var final []string
-	for sub := range unique {
-		final = append(final, sub)
-	}
-	sort.Strings(final)
+		err := filepath.Walk(programPath, func(path string, info os.FileInfo, err error) error {
+			if strings.HasSuffix(path, ".txt") && !strings.HasSuffix(path, "all_subs.txt") {
+				lines, err := readLines(path)
+				if err == nil {
+					all = append(all, lines...)
+				}
+			}
+			return nil
+		})
+		if err != nil {
+			fmt.Fprintf(os.Stderr, "[!] Error walking %s: %v\n", programPath, err)
+			continue
+		}
 
-	outfile := filepath.Join(subdir, "all_subs.txt")
-	f, err := os.Create(outfile)
-	if err != nil {
-		fmt.Fprintf(os.Stderr, "[!] Error writing all_subs.txt: %v\n", err)
-		return
-	}
-	defer f.Close()
+		unique := make(map[string]struct{})
+		for _, sub := range all {
+			unique[sub] = struct{}{}
+		}
 
-	for _, sub := range final {
-		f.WriteString(sub + "\n")
+		var final []string
+		for sub := range unique {
+			final = append(final, sub)
+		}
+		sort.Strings(final)
+
+		outfile := filepath.Join(programPath, "all_subs.txt")
+		f, err := os.Create(outfile)
+		if err != nil {
+			fmt.Fprintf(os.Stderr, "[!] Error writing %s: %v\n", outfile, err)
+			continue
+		}
+		defer f.Close()
+
+		for _, sub := range final {
+			f.WriteString(sub + "\n")
+		}
+		fmt.Printf("[+] Merged %d unique subdomains into %s\n", len(final), outfile)
 	}
-	fmt.Printf("[+] Merged %d unique subdomains into all_subs.txt\n", len(final))
 }
 
 func main() {
@@ -212,5 +224,5 @@ func main() {
 
 	wg.Wait()
 	fmt.Println("[*] All programs processed.")
-	mergeAllSubdomains()
+	mergeSubdomainsPerProgram()
 }
