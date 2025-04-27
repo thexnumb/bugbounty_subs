@@ -1,0 +1,73 @@
+name: Subdomain Enumeration
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Every day at midnight
+  workflow_dispatch:      # Allow manual trigger
+
+jobs:
+  enumerate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'  # (use latest stable Go)
+
+      - name: Install Required Tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y postgresql-client curl jq
+          
+          go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+          go install github.com/projectdiscovery/chaos-client/cmd/chaos@latest
+          go install github.com/lc/gau/v2/cmd/gau@latest
+          go install github.com/tomnomnom/unfurl@latest
+          
+          echo "${HOME}/go/bin" >> $GITHUB_PATH
+
+      - name: Configure Subfinder and Chaos
+        env:
+          CHAOS_KEY: ${{ secrets.CHAOS_KEY }}
+          SUBFINDER_CONFIG: ${{ secrets.SUBFINDER_CONFIG }}
+        run: |
+          if [ -n "$SUBFINDER_CONFIG" ]; then
+            mkdir -p ~/.config/subfinder
+            echo "$SUBFINDER_CONFIG" > ~/.config/subfinder/config.yaml
+          fi
+          
+          if [ -n "$CHAOS_KEY" ]; then
+            mkdir -p ~/.config/chaos
+            echo "$CHAOS_KEY" > ~/.config/chaos/config.yaml
+          fi
+
+      - name: Build Go Subdomain Enumerator
+        run: |
+          go build -o subenum main.go
+
+      - name: Run Subdomain Enumeration
+        run: |
+          ./subenum
+
+      - name: Commit and Push Changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git config --global user.name "thexnumb"
+          git config --global user.email "thexnumb@gmail.com"
+          
+          git add subdomains/
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update subdomains [automated]"
+            git remote set-url origin https://x-access-token:${GH_PAT}@github.com/thexnumb/thexrecon_private.git
+            git push origin main
+          fi
