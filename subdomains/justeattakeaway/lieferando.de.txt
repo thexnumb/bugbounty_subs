@@ -110,7 +110,6 @@ architekt.dev.lieferando.de
 archives.dev.lieferando.de
 arete.dev.lieferando.de
 areteuncover.dev.lieferando.de
-assets.lieferando.de
 assets1.dev.lieferando.de
 asureti.ipad.dev.lieferando.de
 athenauncover.dev.lieferando.de
@@ -420,6 +419,7 @@ fwuncover.dev.lieferando.de
 g-admin-api.dev.lieferando.de
 ga.dev5uncover.dev.lieferando.de
 galbanell-piur-113-uncover.dev.lieferando.de
+gelbeseiten.lieferando.de
 gen.dev.lieferando.de
 genroe.staging.lieferando.de
 gestioncovervalet.dev.lieferando.de
@@ -437,6 +437,7 @@ gr.dev.lieferando.de
 graph-uncover.dev.lieferando.de
 gsmauncover.dev.lieferando.de
 gutenmorgenuncover.dev.lieferando.de
+gutschein.lieferando.de
 guywithnose-dev.dev.lieferando.de
 hackett-101uncover.dev.lieferando.de
 harrowgreen.staging.lieferando.de
@@ -494,6 +495,7 @@ intranet-uncover.dev.lieferando.de
 invitations.uncover.dev.lieferando.de
 ipa.uncover.dev.lieferando.de
 ipad.dev.lieferando.de
+iphoneapp.lieferando.de
 iplay-uncover.dev.lieferando.de
 iplayuncover.dev.lieferando.de
 iq.covid19uncover.dev.lieferando.de
@@ -530,6 +532,7 @@ kr-uncover.dev.lieferando.de
 krishna-ranga-betauncover.dev.lieferando.de
 kubedashuncover.dev.lieferando.de
 kumiaouncover.dev.lieferando.de
+l.news.lieferando.de
 labweek.uncover.dev.lieferando.de
 lb.staging.lieferando.de
 lbsuncover.staging.lieferando.de
@@ -645,6 +648,7 @@ nfr.staging.lieferando.de
 nimcalluncover.dev.lieferando.de
 nl.staging.lieferando.de
 nl.uncover.staging.lieferando.de
+node2.lieferando.de
 northshore.dev.lieferando.de
 notalone-uncover.dev.lieferando.de
 nsk.dev.lieferando.de
@@ -800,11 +804,13 @@ quickbooks.covid1996-uncover.dev.lieferando.de
 quickbooks.uncover.12covidien.dev.lieferando.de
 quickbooks.uncover.dev.lieferando.de
 quote.dev.lieferando.de
+r.lieferando.de
 rabbitmq.dev.lieferando.de
 rabobank-uncover.dev.lieferando.de
 ras.dev.lieferando.de
 recipes-uncover.dev.lieferando.de
 recruitment.uncover.dev.lieferando.de
+redeem-giftcards.lieferando.de
 redmine.uncover.dev.lieferando.de
 redmonuncover.staging.lieferando.de
 refactoring-listing-js.uncover.dev.lieferando.de

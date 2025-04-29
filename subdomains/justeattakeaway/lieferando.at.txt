@@ -1,8 +1,6 @@
-0-oweche--okta-auth1-spring.lieferando.at
 007243.lieferando.at
 02-express-nano.lieferando.at
-04.antares.0-virus-4.lieferando.at
-10b.lieferando.at
+051fevernote5.simplycommunities.lieferando.at
 12covidien-ris.lieferando.at
 12covidien.lieferando.at
 12covidien.uncover-app3.lieferando.at
@@ -16,22 +14,18 @@
 3675_add_plugin_page-mta.covid19.lieferando.at
 38b65.avira-free-antivirus.lieferando.at
 38b65losvirus.lieferando.at
-48.37379462646373.lieferando.at
 4testlav-essential-antivirus.en.lieferando.at
 72.139.lieferando.at
 a.lieferando.at
-a2zbanglamusic.lieferando.at
 abawebfiduciaire.lieferando.at
 acc-shop-14016.lieferando.at
 acc-shop-tour6.lieferando.at
 acc-shop.lieferando.at
 accounts-rtb-qydc.lieferando.at
 acp.lieferando.at
-ad.lieferando.at
 admin.lieferando.at
 admincomputer-virus-verwijderen.lieferando.at
 aeevents.lieferando.at
-affiliate.lieferando.at
 afforda10levaccines.lieferando.at
 affordablevaccines.lieferando.at
 affordablevaccinespull-posapi.lieferando.at
@@ -40,7 +34,6 @@ ajax.quarter-virus-restaurant.lieferando.at
 alibabas-pizza-mta.covid19.lieferando.at
 alpha-quarter-virus-restaurant.lieferando.at
 always.coronanachrichten.lieferando.at
-analytics.brampton.lieferando.at
 anti-virus.lieferando.at
 antivirus-38b65.cloud.lieferando.at
 antivirus-38b65.lieferando.at
@@ -168,6 +161,7 @@ device3170979-27382af1-local.lieferando.at
 device3220068-b76d0949-local.lieferando.at
 digilander.lieferando.at
 dns1.banking.nwolb.lieferando.at
+document-test.simplycommunities.lieferando.at
 dt-recs.lieferando.at
 ducm.cloud.lieferando.at
 e2010b.lieferando.at
@@ -206,7 +200,6 @@ fluvaccines-cloud.lieferando.at
 fluvaccines-service.lieferando.at
 fluvaccines.lieferando.at
 flwyd.lieferando.at
-foodwiki.lieferando.at
 fooxx.lieferando.at
 forum.lieferando.at
 forums.lieferando.at
@@ -223,11 +216,13 @@ frontend.office.stag.clops.lieferando.at
 futbol137.lieferando.at
 games.lieferando.at
 getavirus-com.lieferando.at
+gig-on-demand.simplycommunities.lieferando.at
 glencove.fooxx.lieferando.at
 gothedistance.lieferando.at
 grc2go.lieferando.at
 groups.lieferando.at
 guestportal-6.lieferando.at
+gustestlicense.simplycommunities.lieferando.at
 h2.lieferando.at
 h3.lieferando.at
 h6.lieferando.at
@@ -256,7 +251,7 @@ in2publish-foreigncovervalet.zerovirusescovideo.lieferando.at
 info.lieferando.at
 informatik.lieferando.at
 inst.lieferando.at
-internal.lieferando.at
+int-ws1-v-qa1.simplycommunities.lieferando.at
 internal.quarter-virus.lieferando.at
 internalquarter-virus.lieferando.at
 ip-51-118.lieferando.at
@@ -282,6 +277,7 @@ l.euw-staging-hhsvaccines.lieferando.at
 ldap-zerovirusescovideo.lieferando.at
 live-orders.lieferando.at
 liveherpesvaccine.files.lieferando.at
+llau7ofzpz-dsn.simplycommunities.lieferando.at
 local.lieferando.at
 locationpanelwithbugszerovirusescovideo.lieferando.at
 loncov5.lieferando.at
@@ -344,6 +340,7 @@ nano-1.lieferando.at
 nb-119.lieferando.at
 new.lieferando.at
 news.lieferando.at
+newsletter-ru.simplycommunities.lieferando.at
 newsletter.lieferando.at
 newvaccineletter.lieferando.at
 nn.lieferando.at
@@ -364,6 +361,7 @@ origin-cw.lieferando.at
 origin.lieferando.at
 overlap-computer-virus-verwijderencomputer-virus-verwijderen.lieferando.at
 oxley.lieferando.at
+p163-fmipweb.simplycommunities.lieferando.at
 page.mobile-help.lieferando.at
 panda-free-antivirus.lieferando.at
 pandemic0105.blog.lieferando.at
@@ -386,6 +384,7 @@ pp.lieferando.at
 praemienshop.lieferando.at
 princetonresearch.lieferando.at
 productdelivery.lieferando.at
+productionapporovaccine.lieferando.at
 provincia.lieferando.at
 psql04.fish4brand.lieferando.at
 pull-posapi-affordablevaccines.lieferando.at
@@ -411,13 +410,16 @@ regione.lieferando.at
 restaurant.lieferando.at
 restaurants.lieferando.at
 restricted-02.p05cd03.lieferando.at
+rfqa-cloud-8.simplycommunities.lieferando.at
 runjtrekwindows.lieferando.at
 s.lieferando.at
 s4orovaccine.lieferando.at
+sac-feedback.simplycommunities.lieferando.at
 sapporovaccine-de-cdn.lieferando.at
 sapporovaccine.lieferando.at
 sapporovaccineagentmail.lieferando.at
 sapporovaccinecourier-app.lieferando.at
+sapporovaccinemanager.lieferando.at
 sc-enoc.lieferando.at
 schedule-mta.covid19.lieferando.at
 schmeckt-wie-sommer.lieferando.at
@@ -539,7 +541,6 @@ vw2008ex01.ivemsamxl.lieferando.at
 w244203.ppp.lieferando.at
 web.lieferando.at
 webmail.lieferando.at
-webproxy.2.zfnodezsq0eage6s.04-hhsvgwines.0-virus-4.lieferando.at
 weilerwww.lieferando.at
 wenku.lieferando.at
 westeuropehhsvaccines.lieferando.at
@@ -551,11 +552,9 @@ www.anti-virus.lieferando.at
 www.antivirus1.lieferando.at
 www.backsoon.lieferando.at
 www.bbgr5.lieferando.at
-www.cupcakegalaxy.lieferando.at
 www.cvs.portali-dir.lieferando.at
 www.cvs.portali.lieferando.at
 www.glencove.fooxx.lieferando.at
-www.in2crmreplicatie.lieferando.at
 www.lieferando.at
 www.nirvanasevasamiti.lieferando.at
 www.notes.lieferando.at
@@ -589,6 +588,7 @@ xroads.lieferando.at
 yellowfevervaccine-courier-app.lieferando.at
 yellowfevervaccine-lb.lieferando.at
 yellowfevervaccine.lieferando.at
+ymoglrupds-2.simplycommunities.lieferando.at
 zerovirus-east-22s.lieferando.at
 zeroviruses.lieferando.at
 zeroviruses2019.lieferando.at
@@ -601,3 +601,4 @@ zerovirusescovideo-vaccine.lieferando.at
 zerovirusescovideo.besok-grebbestad.lieferando.at
 zerovirusescovideo.lieferando.at
 zerovirusteast-16s.lieferando.at
+zoomdv251vmrf.simplycommunities.lieferando.at
