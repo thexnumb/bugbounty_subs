@@ -1,8 +1,3 @@
-0-aws-okta-mfa-ack-beanosnts.bistro.sk
-0-documassets-okta-mfa-ack-beanosnts-growingupnyc.bistro.sk
-0-documassets-okta-mfa-ack-beanosnts.correo.bistro.sk
-0-documassets-okta-mfa-ack-beanosnts.train.bistro.sk
-0-documassets-okta-mfa-ack-beanosnts.us-w.bistro.sk
 acc-shop.bistro.sk
 admin.bistro.sk
 api.bistro.sk
@@ -27,7 +22,6 @@ restaurants.bistro.sk
 s.bistro.sk
 shop.bistro.sk
 test-shop.bistro.sk
-update.bistro.sk
 vianocne-prekvapenia.bistro.sk
 web-components.bistro.sk
 www.bistro.sk
