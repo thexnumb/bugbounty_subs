@@ -1,23 +1,11 @@
-00-ebayassets.customtobaccovidalatina.staging.lieferando.de
 0288uncover.dev.lieferando.de
 1012.dev.lieferando.de
 104uncover.dev.lieferando.de
 1133.uncover.dev.lieferando.de
-12covidien.ginzametrics-uncover.dev.lieferando.de
-140.shopcovidien-uncover.dev.lieferando.de
 140.uncover.dev.lieferando.de
 1415.uncover.dev.lieferando.de
-15.uncover.dev.lieferando.de
 1528.dev.lieferando.de
-15uncover.staging.lieferando.de
-16-hsh-1054.dev.lieferando.de
-16-jur-1021uncover.staging.lieferando.de
-16-uncover.dev.lieferando.de
-16-uncover.staging.lieferando.de
-16.dev.lieferando.de
 1626.uncover.dev.lieferando.de
-16uncover.dev.lieferando.de
-17.dev.lieferando.de
 1936uncover.dev.lieferando.de
 1mother.dev.lieferando.de
 2015.uncover.dev.lieferando.de
@@ -27,15 +15,11 @@
 2058.dev.lieferando.de
 2089-uncover.dev.lieferando.de
 2871-fix-404-redirect-uncover.ci0.dev.lieferando.de
-2a-z.frontend.office.prod.clops.lieferando.de
-2fwww.lieferando.de
 3d.dev.lieferando.de
 515-uncover.dev.lieferando.de
-54.dev.lieferando.de
 5528.uncover.dev.lieferando.de
 55b558c7-siteuncover.dev.lieferando.de
 56.staging.lieferando.de
-58.dev.lieferando.de
 59bf893buncover.dev.lieferando.de
 5a2-uncover.dev.lieferando.de
 5uncover.dev.lieferando.de
@@ -46,7 +30,6 @@
 7713-sbs-main-page.dev.lieferando.de
 7829uncover.dev.lieferando.de
 867.dev.lieferando.de
-89-uncover.dev.lieferando.de
 a.dev.lieferando.de
 a1uncover.dev.lieferando.de
 a2.dev.lieferando.de
@@ -63,7 +46,6 @@ acl-proxy.a.hsbcuncover.staging.lieferando.de
 actionuncover.dev.lieferando.de
 acwuncover.dev.lieferando.de
 ad.dev.lieferando.de
-admin-api.dev.lieferando.de
 admin.cron-uncover-update.dev.lieferando.de
 admin.es-colors-uncover.dev.lieferando.de
 admin.filter-not-paid-uncover.dev.lieferando.de
@@ -80,7 +62,6 @@ ae.dev.lieferando.de
 afichet.uncover.dev.lieferando.de
 afrancov3.dev.lieferando.de
 afrancovm02.dev.lieferando.de
-afw.uncoverd10.dev.lieferando.de
 agarcia-orders2.gen8.uncover.v3.dev.lieferando.de
 agarcia-orders2uncover.gen8.v3.dev.lieferando.de
 agarcia-orders3.uncover.dev.lieferando.de
@@ -100,7 +81,6 @@ apex-kassaui.dev.lieferando.de
 api-uncover.staging.lieferando.de
 api-uncover.systesting22.dev.lieferando.de
 api.claroecuncover.dev.lieferando.de
-api.ebscovideos.uncoverwoollie.dev.lieferando.de
 api.lieferando.de
 api.merchants-uncover.staging.lieferando.de
 api.p.uncover.dev.lieferando.de
@@ -112,10 +92,8 @@ api.uncoverwoollie.dev.lieferando.de
 apidocuncover.staging.lieferando.de
 apm-uncover.dev.lieferando.de
 apollouncover.dev.lieferando.de
-apotheken.uncover.dev.lieferando.de
 app-uncover.staging.lieferando.de
 app.frontend.prod.clops.lieferando.de
-app.lieferando.de
 apply.staging.lieferando.de
 apps-uncover.dev.lieferando.de
 appstoreuncover.dev.lieferando.de
@@ -130,7 +108,6 @@ arete.dev.lieferando.de
 areteuncover.dev.lieferando.de
 assets.lieferando.de
 assets1.dev.lieferando.de
-asureti.ipad.dev.lieferando.de
 athenauncover.dev.lieferando.de
 atorres-pedidos.shop.uncover.v3.dev.lieferando.de
 atorres-pedidosuncover.dev.lieferando.de
@@ -153,7 +130,6 @@ baeumig.dev.lieferando.de
 bakerscobs.uncover.dev.lieferando.de
 bakersnz.dev.lieferando.de
 balonnebeaconuncover.api.staging.lieferando.de
-bastion-profile.opencovidalatina.dev.lieferando.de
 bc-uncover.dev.lieferando.de
 bccuncover.staging.lieferando.de
 be-uncover.dev.lieferando.de
@@ -169,7 +145,6 @@ bfg-uncovers.staging.lieferando.de
 biblioplanets.uncovergate.dev.lieferando.de
 bim.dev.lieferando.de
 binary-signals-admincovervalet.dev.lieferando.de
-blockccatadyen.profile.opencovidalatina.dev.lieferando.de
 blog.lieferando.de
 blogfr.lieferando.de
 blogtesting.lieferando.de
@@ -178,10 +153,8 @@ bmonsori-qawem3-harrismycfouncover.dev.lieferando.de
 bmrk.dev.lieferando.de
 booking-cn.staging.lieferando.de
 booking-jp.staging.lieferando.de
-booking-jp12covidien.staging.lieferando.de
 bosh.uncover.staging.lieferando.de
 bouncover.dev.lieferando.de
-bouncovercovidhhsvaccines96.dev.lieferando.de
 boutiquechairs-uncover.dev.lieferando.de
 boutiquechairsuncover.dev.lieferando.de
 boykottlieferandouncover.dev.lieferando.de
@@ -211,7 +184,6 @@ carten.uncover.dev.lieferando.de
 categories-uncover.dev.lieferando.de
 category-fulltext-queries-refactoring.dev.lieferando.de
 cb-uncover.dev.lieferando.de
-cc.lieferando.de
 cccuncover.dev.lieferando.de
 cdn.dev.lieferando.de
 cdn4.uncover.dev.lieferando.de
@@ -231,7 +203,6 @@ chita-uncover.dev.lieferando.de
 chris.uncover.dev.lieferando.de
 ci0.dev.lieferando.de
 ci0uncover.dev.lieferando.de
-civi.12covidien-uncover.dev.lieferando.de
 civi.uncover.dev.lieferando.de
 cizek-b2b.uncover.dev.lieferando.de
 clarocr.dev.lieferando.de
@@ -247,7 +218,6 @@ cmpuncover.dev.lieferando.de
 cms.daikincomfort.com.uncover.dev.lieferando.de
 cms.dev.lieferando.de
 cn.adder.uncover.dev.lieferando.de
-colin.lieferando.de
 collectoruncover.staging.lieferando.de
 colorsuncover.dev.lieferando.de
 columns.dev.lieferando.de
@@ -268,23 +238,13 @@ contests.uncover.dev.lieferando.de
 cookie.uncover.dev.lieferando.de
 core-uncover.dev.lieferando.de
 core.staging.lieferando.de
-cornerpizza-customtobaccovidalatina.staging.lieferando.de
 countdown-media.uncover.dev.lieferando.de
 courtierweb10.uncover.dev.lieferando.de
 courtierweb70.dev.lieferando.de
-covid1959bf893buncover.dev.lieferando.de
-covid1996electrode.dev.lieferando.de
-covideo.vm03uncover.dev.lieferando.de
-covidhhsvaccines96sg1-uncover.dev.lieferando.de
-covidien.services.dev.lieferando.de
-covidien.uncover.web1.dev.lieferando.de
-cpeb4-customtobaccovidalatina.staging.lieferando.de
-cpg.d1-uncover.dev.lieferando.de
 creative.uncover.dev.lieferando.de
 creatives-direct.lieferando.de
 creatives.lieferando.de
 crmuncover.clarocr.dev.lieferando.de
-croissantencustomtobaccovidalatina.staging.lieferando.de
 cron-mail-update.dev.lieferando.de
 cron-uncover-update.dev.lieferando.de
 crown-uncover.dev.lieferando.de
@@ -294,11 +254,7 @@ cs.dev.lieferando.de
 css.uncover.staging.lieferando.de
 customers-uncover.dev.lieferando.de
 customers.dev.lieferando.de
-customtobaccovidalatina-alladin.staging.lieferando.de
-customtobaccovidalatina-mgcdealsapi-uncover.dev.lieferando.de
-customtobaccovidalatina-popup.staging.lieferando.de
 customtobaccovidalatina.staging.lieferando.de
-customtobaccovidalatina.tconnect5.staging.lieferando.de
 cv.dev.lieferando.de
 cvchuncover.dev.lieferando.de
 cw-api.prod.clops.lieferando.de
@@ -321,7 +277,6 @@ deliverybackbone2.dev.lieferando.de
 delta-uncover.dev.lieferando.de
 demo.dev.lieferando.de
 denbosch.uncover.staging.lieferando.de
-denekamp.profile.opencovidalatina.dev.lieferando.de
 design.stage-uncover.dev.lieferando.de
 detail-zoom-image-uncover.dev.lieferando.de
 dev-59539e76.dev.lieferando.de
@@ -363,8 +318,6 @@ earlypay-uncover.staging.lieferando.de
 earthnew-uncover.staging.lieferando.de
 earthnew.uncover.staging.lieferando.de
 eb-blog.uncover.dev.lieferando.de
-ebscovideos-38b65uncover-m.nsk.dev.lieferando.de
-ebscovideosd10.dev.lieferando.de
 ecom.uncover.dev.lieferando.de
 economyglass.dev.lieferando.de
 edms.dev.lieferando.de
@@ -393,13 +346,11 @@ evasion-musicuncover.dev.lieferando.de
 event-uncover.dev.lieferando.de
 events.lieferando.de
 expert.uncover.dev.lieferando.de
-expert.zerovirusescovideo-uncover.dev.lieferando.de
 ext1.dev.lieferando.de
 extensions-uncover.dev.lieferando.de
 external.dev.lieferando.de
 extra.uncover.dev.lieferando.de
 f14z.dev.lieferando.de
-f5onyrx31s.lieferando.de
 fabrika.uncover.dev.lieferando.de
 fahrer.lieferando.de
 faileduncover.dev.lieferando.de
@@ -512,13 +463,11 @@ ilifesaver.dev.lieferando.de
 image.update.lieferando.de
 imagematching.uncover.dev.lieferando.de
 impulseuncover.dev.lieferando.de
-in.uncover.v3.dev.lieferando.de
 in2publish-foreign.dev.lieferando.de
 in2publish-foreigncovervalet.dev.lieferando.de
 inbox.uncover.staging.lieferando.de
 infrastructure.on-premise-uncover.staging.lieferando.de
 infrastructureuncover.dev.lieferando.de
-inl.shop.uncover.v3.dev.lieferando.de
 innovixuncover.staging.lieferando.de
 insulet.dev.lieferando.de
 insurersuncover.dev.lieferando.de
@@ -534,7 +483,6 @@ ipad.dev.lieferando.de
 iphoneapp.lieferando.de
 iplay-uncover.dev.lieferando.de
 iplayuncover.dev.lieferando.de
-iq.covid19uncover.dev.lieferando.de
 iq.uncover.dev.lieferando.de
 it.iframeuncover.dev.lieferando.de
 janssencovervalet.dev.lieferando.de
@@ -569,7 +517,6 @@ krishna-ranga-betauncover.dev.lieferando.de
 kubedashuncover.dev.lieferando.de
 kumiaouncover.dev.lieferando.de
 l.news.lieferando.de
-l6v0hsmuej.lieferando.de
 labweek.uncover.dev.lieferando.de
 lb.staging.lieferando.de
 lbsuncover.staging.lieferando.de
@@ -594,14 +541,12 @@ lt.uncover-iframe.dev.lieferando.de
 lucien-frelin.dev.lieferando.de
 lucy.dev.lieferando.de
 luncoverngpage.insulet.dev.lieferando.de
-lyuncover.dev.lieferando.de
 m.lieferando.de
 m.uncover.dev.lieferando.de
 m.uncover.northshore.dev.lieferando.de
 magec.sandbox.uncover.staging.lieferando.de
 magenta-uncover.dev.lieferando.de
 mail.dev.lieferando.de
-mail.lieferando.de
 mail.uncover.lb.staging.lieferando.de
 manager.staging.lieferando.de
 mansworld.dev.lieferando.de
@@ -615,10 +560,6 @@ marchesa.dev.lieferando.de
 martink.dev.lieferando.de
 martinuncover.dev.lieferando.de
 marykay-uncover.staging.lieferando.de
-max1.lieferando.de
-max2.lieferando.de
-max3.lieferando.de
-max4.lieferando.de
 mds-uncover.dev.lieferando.de
 mds.dev.lieferando.de
 mdzz-uncover.dev.lieferando.de
@@ -654,7 +595,6 @@ mobiletyping.dev.lieferando.de
 mobileuncover.staging.lieferando.de
 mobileview-uncover.dev.lieferando.de
 mobiuncover.f14z.dev.lieferando.de
-moodle.uncover.dev.lieferando.de
 mos-uncover.dev.lieferando.de
 mta.update.lieferando.de
 mta2.update.lieferando.de
@@ -709,7 +649,6 @@ ogiol-croconaw.uncover.v3.dev.lieferando.de
 ogiol-rowlet.uncover-outlet.v3.dev.lieferando.de
 ogiol-rowlet.uncoveroutlet.v3.dev.lieferando.de
 ohioballot.dev.lieferando.de
-oidc.opencov20-zerovirusescovideo.dev.lieferando.de
 oidc.opencov20.dev.lieferando.de
 oidc.opencovolunteers.dev.lieferando.de
 oidc.opencovoxpopulidev.dev.lieferando.de
@@ -720,7 +659,6 @@ on-premise-uncover.platform.staging.lieferando.de
 on-premise-uncover.staging.lieferando.de
 on-premise.staging.lieferando.de
 on-premise.uncovere.staging.lieferando.de
-on-premise.unhermesvere.staging.lieferando.de
 on-premiseuncover.dev.lieferando.de
 on-premiseuncover.staging.lieferando.de
 on-uncover.staging.lieferando.de
@@ -803,7 +741,6 @@ pomuncover.dev.lieferando.de
 portal.lieferando.de
 portal1-uncover.dev.lieferando.de
 pos.uncover.dev.lieferando.de
-posapi-cf.customtobaccovidalatina.staging.lieferando.de
 postgres.uncover.dev.lieferando.de
 powertronuncover.dev.lieferando.de
 pp.lieferando.de
@@ -849,18 +786,14 @@ qa.staging.lieferando.de
 qa.sys01.uncover.staging.lieferando.de
 qa.uncovermobile.staging.lieferando.de
 qa1.uncover.dev.lieferando.de
-quickbooks.covid1996-uncover.dev.lieferando.de
-quickbooks.uncover.12covidien.dev.lieferando.de
 quickbooks.uncover.dev.lieferando.de
 quote.dev.lieferando.de
-r.lieferando.de
 rabbitmq.dev.lieferando.de
 rabobank-uncover.dev.lieferando.de
 ras.dev.lieferando.de
 recipes-uncover.dev.lieferando.de
 recruitment.uncover.dev.lieferando.de
 redeem-giftcards.lieferando.de
-redirect-uncover.ci0.dev.lieferando.de
 redmine.uncover.dev.lieferando.de
 redmonuncover.staging.lieferando.de
 refactoring-listing-js.uncover.dev.lieferando.de
@@ -956,7 +889,6 @@ splash.dev.lieferando.de
 sport-uncover.dev.lieferando.de
 ss6.dev.lieferando.de
 stag.clops.lieferando.de
-stage-colin.lieferando.de
 stage-uncover.dev.lieferando.de
 stage.lieferando.de
 staging.app.uncover.dev.lieferando.de
@@ -1004,7 +936,6 @@ taouncover.dev.lieferando.de
 taxuncover.dev.lieferando.de
 tbiuncover.dev.lieferando.de
 tdm-uncover.dev.lieferando.de
-tealium.lieferando.de
 techinfo.dev.lieferando.de
 techinfouncover.dev.lieferando.de
 terminologyuncover.dev.lieferando.de
@@ -1041,7 +972,6 @@ tqavgn-bmo22-uncover.dev.lieferando.de
 tqavgn1-uncover.dev.lieferando.de
 tracker.uncover.dev.lieferando.de
 transactionsuncover.staging.lieferando.de
-trial-2a.frontend.office.stag.clops.lieferando.de
 trial-uncover.dev.lieferando.de
 trial.dev.lieferando.de
 trianglenetwork.uncover.dev.lieferando.de
@@ -1114,7 +1044,6 @@ uncover-co.uk.dev.lieferando.de
 uncover-cobrowse-na.dev.lieferando.de
 uncover-comcast-spotlight.dev.lieferando.de
 uncover-comfort.dev.lieferando.de
-uncover-coronanachrichten.jmesa-sizes.dev.lieferando.de
 uncover-crm-pme.dev.lieferando.de
 uncover-cron-mail-update.dev.lieferando.de
 uncover-crossevaluation.dev.lieferando.de
@@ -1305,7 +1234,6 @@ uncover.academy.dev.lieferando.de
 uncover.ad.dev.lieferando.de
 uncover.adpa2.dev.lieferando.de
 uncover.ae.dev.lieferando.de
-uncover.afw.d10.dev.lieferando.de
 uncover.agarcia.dev.lieferando.de
 uncover.ageas-api.dev.lieferando.de
 uncover.agrar.dev.lieferando.de
@@ -1349,7 +1277,6 @@ uncover.dispatch.dev.lieferando.de
 uncover.dockerlogs.dev.lieferando.de
 uncover.dontsettleforabadjob.dev.lieferando.de
 uncover.economyglass.dev.lieferando.de
-uncover.ecovida-takeda.dev.lieferando.de
 uncover.edms.dev.lieferando.de
 uncover.electrode.dev.lieferando.de
 uncover.eli.dev.lieferando.de
@@ -1370,7 +1297,6 @@ uncover.gen.dev.lieferando.de
 uncover.genroe.staging.lieferando.de
 uncover.gr.dev.lieferando.de
 uncover.guywithnose-dev.dev.lieferando.de
-uncover.harrowgreen.staging.lieferando.de
 uncover.heritage.dev.lieferando.de
 uncover.hkg.booking-jp.staging.lieferando.de
 uncover.howto.dev.lieferando.de
@@ -1403,7 +1329,6 @@ uncover.mapibdx.dev.lieferando.de
 uncover.marc.dev.lieferando.de
 uncover.marchesa.dev.lieferando.de
 uncover.mds.dev.lieferando.de
-uncover.members.dev.lieferando.de
 uncover.mg.dev.lieferando.de
 uncover.midem.dev.lieferando.de
 uncover.mijnwindcertificaat.dev.lieferando.de
@@ -1412,7 +1337,6 @@ uncover.myadm.dev.lieferando.de
 uncover.myholiday.dev.lieferando.de
 uncover.myvirgo.dev.lieferando.de
 uncover.nfr.staging.lieferando.de
-uncover.northshore.dev.lieferando.de
 uncover.numeric.dev.lieferando.de
 uncover.oauth2.dev.lieferando.de
 uncover.oecd.dev.lieferando.de
@@ -1448,9 +1372,7 @@ uncover.sec.dev.lieferando.de
 uncover.shib.staging.lieferando.de
 uncover.shop.blinkuitgevers.nl.staging.lieferando.de
 uncover.shop.v3.dev.lieferando.de
-uncover.solutions.staging.lieferando.de
 uncover.sp13-01.dev.lieferando.de
-uncover.sponsor.rpw.dev.lieferando.de
 uncover.ss6.dev.lieferando.de
 uncover.staging.lieferando.de
 uncover.status.dev.lieferando.de
@@ -1466,7 +1388,6 @@ uncover.sweden.dev.lieferando.de
 uncover.takeda.dev.lieferando.de
 uncover.techinfo.dev.lieferando.de
 uncover.termite.dev.lieferando.de
-uncover.test.erp-12covidien.staging.lieferando.de
 uncover.test.erp.staging.lieferando.de
 uncover.thq-1651.dev.lieferando.de
 uncover.thq-1906.dev.lieferando.de
@@ -1485,7 +1406,6 @@ uncover.voip.dev.lieferando.de
 uncover.vy2c.staging.lieferando.de
 uncover.wall.dev.lieferando.de
 uncover.web1.dev.lieferando.de
-uncover.webanalytics.staging.lieferando.de
 uncover.webservice.dev.lieferando.de
 uncover.western.dev.lieferando.de
 uncover.ws.chat.dev.lieferando.de
@@ -1547,7 +1467,6 @@ uncoverdomani.dev.lieferando.de
 uncoverduplicit.dev.lieferando.de
 uncovere-proxy.platform.staging.lieferando.de
 uncovere.staging.lieferando.de
-uncoverebscovideos-38b65.lucien-frelin.dev.lieferando.de
 uncoverechonews.dev.lieferando.de
 uncoverelb.staging.lieferando.de
 uncoverelectron.dev.lieferando.de
@@ -1723,7 +1642,6 @@ veuncover.dev.lieferando.de
 vidalatina.uncover.dev.lieferando.de
 videosolid-uncover.dev.lieferando.de
 viessmann-uncover.dev.lieferando.de
-view.firewallcovidien.uncover.dev.lieferando.de
 view.uncover.dev.lieferando.de
 view.update.lieferando.de
 villa.uncover.dev.lieferando.de
@@ -1823,9 +1741,7 @@ yiannis.dev.lieferando.de
 yijiaa.uncover.dev.lieferando.de
 yourvotingrightsuncover.dev.lieferando.de
 yunyouxiuncover.dev.lieferando.de
-z135oxrnc2.lieferando.de
 za.primary.uncover.staging.lieferando.de
 zen-uncover.staging.lieferando.de
 zen.staging.lieferando.de
-zerovirusescovideopae-uncover.dev.lieferando.de
 zeus.uncover.dev.lieferando.de

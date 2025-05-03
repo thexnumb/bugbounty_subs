@@ -309,7 +309,6 @@ apachetemplebar.just-eat.ie
 api.just-eat.ie
 app.just-eat.ie
 apro--coinbase-ctlergrill.just-eat.ie
-aromapizza-galway.just-eat.ie
 athicos.just-eat.ie
 auth.just-eat.ie
 authsmtp.e.just-eat.ie
@@ -332,7 +331,6 @@ blog.just-eat.ie
 blogs.just-eat.ie
 bookmarks.just-eat.ie
 brandmanagement.just-eat.ie
-cafemilano.just-eat.ie
 canvas.just-eat.ie
 cdn.just-eat.ie
 cftest-customermanagement.just-eat.ie
@@ -362,13 +360,11 @@ couriers.just-eat.ie
 cp.just-eat.ie
 cs.just-eat.ie
 cse.just-eat.ie
-culletonstraditionalfishandchips-kilkenny.just-eat.ie
 customermanagement.just-eat.ie
 d3b732c7325add3769c9a915.just-eat.ie
 d68133003c87425b92d3756fd9ea8174.just-eat.ie
 d6bb41754b1f60c448ddbb241acf14c91133.just-eat.ie
 d91481617c4746d4b7bd5d2332377c92.just-eat.ie
-daatatandoori.just-eat.ie
 dd.just-eat.ie
 de.just-eat.ie
 delhidarbar.just-eat.ie
@@ -391,11 +387,9 @@ e.just-eat.ie
 email.e.just-eat.ie
 emails.just-eat.ie
 emawebadminls.just-eat.ie
-emperorcity.just-eat.ie
 en.just-eat.ie
 es.just-eat.ie
 ess-dive-coinbase.just-eat.ie
-eternalchinesetakeaway.just-eat.ie
 events.just-eat.ie
 extrahelpings.just-eat.ie
 f99002238932f5229853c186.just-eat.ie
@@ -408,7 +402,6 @@ ff.just-eat.ie
 finerice.just-eat.ie
 forum.just-eat.ie
 forums.just-eat.ie
-fourstar-galway.just-eat.ie
 fr.just-eat.ie
 fragrancecity-donnycarney.just-eat.ie
 francescos.just-eat.ie
@@ -418,7 +411,6 @@ frontend.office.stag.clops.just-eat.ie
 frontpagechef--coinbase-ctl.just-eat.ie
 games.just-eat.ie
 gate.just-eat.ie
-giannis-dublin1.just-eat.ie
 giftcards.just-eat.ie
 giftcardsmanagement.just-eat.ie
 golden-pizza-ennis.just-eat.ie
@@ -489,9 +481,6 @@ k4.just-eat.ie
 k5.just-eat.ie
 k8s-devs--coinbase-ctl.just-eat.ie
 kashmir.just-eat.ie
-kebabhouse-portarlington.just-eat.ie
-kebabhut-galway.just-eat.ie
-kitchen-legend.just-eat.ie
 kk.just-eat.ie
 koh.just-eat.ie
 kpmgfaircall.just-eat.ie
@@ -500,7 +489,6 @@ legacypaycodes.just-eat.ie
 lennoxscarrigtwohill.just-eat.ie
 letseatin-sandyford.just-eat.ie
 liberosballinteer.just-eat.ie
-limeleafletterkenny.just-eat.ie
 link.just-eat.ie
 lite.just-eat.ie
 live-reporting.just-eat.ie
@@ -531,7 +519,6 @@ mariostuam.just-eat.ie
 marschrincondelaempanadagalleganese.just-eat.ie
 math.just-eat.ie
 maven.just-eat.ie
-maximus-maynooth.just-eat.ie
 mbox.e.just-eat.ie
 mdomainadminschinese.just-eat.ie
 meakongsantry.just-eat.ie
@@ -590,9 +577,7 @@ optimus-hub.just-eat.ie
 orderandwin.just-eat.ie
 ordermanagement.just-eat.ie
 ordermanagementapi.just-eat.ie
-ordermanagementweb.just-eat.ie
 orderpad-paaemner-login.just-eat.ie
-orderpad-partner-login.just-eat.ie
 orderpadconfigurationweb.just-eat.ie
 orders.just-eat.ie
 orientalexpress-dunlaoghaire.app.just-eat.ie
@@ -632,8 +617,6 @@ post.e.just-eat.ie
 posta.just-eat.ie
 pp.just-eat.ie
 prfotoadmin.just-eat.ie
-primokilkenny.just-eat.ie
-primokilkenny.www.just-eat.ie
 print.just-eat.ie
 printadmin-cas.just-eat.ie
 printadmin.just-eat.ie
@@ -657,7 +640,6 @@ red.news.just-eat.ie
 red.newsletter.just-eat.ie
 regione.just-eat.ie
 relay.e.just-eat.ie
-remixennis.just-eat.ie
 restaurantcapabilities.just-eat.ie
 restaurantevents.just-eat.ie
 restaurantmanagement.just-eat.ie
@@ -665,7 +647,6 @@ restaurantmenumanager.just-eat.ie
 restaurants.just-eat.ie
 resume.just-eat.ie
 revellos.just-eat.ie
-rhapsody.just-eat.ie
 ridewith.just-eat.ie
 riverkingchinese.just-eat.ie
 rootsweb.just-eat.ie
@@ -686,16 +667,13 @@ siteadminatiositeadminaltakeawayawards.just-eat.ie
 sites.just-eat.ie
 slovari.just-eat.ie
 spiceheaven.just-eat.ie
-spiceinnindianrestaurant.just-eat.ie
 spicybite-dublin1.just-eat.ie
 ss.just-eat.ie
 staging.just-eat.ie
 support.just-eat.ie
-swordsgarden-ongar.just-eat.ie
 symposium.just-eat.ie
 taste-the-summer.just-eat.ie
 taste.just-eat.ie
-tastybites-naul.just-eat.ie
 tastychina-dundalk.just-eat.ie
 test-exchange.just-eat.ie
 test-paadmner.just-eat.ie
@@ -718,7 +696,6 @@ user.just-eat.ie
 users.just-eat.ie
 v6.just-eat.ie
 varnish.just-eat.ie
-vinewexford.just-eat.ie
 vpn1-printadmin.just-eat.ie
 vsix.just-eat.ie
 w.just-eat.ie
@@ -740,15 +717,11 @@ www.magickebab.just-eat.ie
 www.marschinese.just-eat.ie
 www.mayurindianrestaurant.just-eat.ie
 www.mayurindianrestaurant.www.just-eat.ie
-www.mingcourt.just-eat.ie
 www.noodlebox.just-eat.ie
 www.orientalexpress-dunlaoghaire.app.just-eat.ie
 www.paetner.just-eat.ie
-www.partner.just-eat.ie
 www.partner.www.just-eat.ie
-www.pizzasncreambray.just-eat.ie
 www.print.just-eat.ie
-www.punjabihouse.just-eat.ie
 www.rhapsody.just-eat.ie
 www.taktai.just-eat.ie
 www.www.just-eat.ie
@@ -765,7 +738,6 @@ www7b.just-eat.ie
 wylam.just-eat.ie
 xroads.just-eat.ie
 yigarden.just-eat.ie
-yumichinesetakeaway.just-eat.ie
 zenweiton-noc.just-eat.ie
 zenweiton.just-eat.ie
 zipcbeanosdeadmin.just-eat.ie

@@ -107,7 +107,6 @@
 0.0uncovtconnect2r-okta-auth2pp01.0.0.0.0.0.0.0.justeat.it
 0.32665419642590261060-0.0.0uncover-okta-auth2pp01.0.0.repo0.0.0.0.0.justeat.it
 0.acc0.0.0.feeds.justeat.it
-0.adm.0.0.0-coinbase.justeat.it
 0.avsmanagement.0.0.justeat.it
 0.email0.0.0.0.0.0.justeat.it
 0.frontpage-0.justeat.it
@@ -544,7 +543,6 @@ web.justeat.it
 webmail.justeat.it
 wenku.justeat.it
 ww5.justeat.it
-www.ablink.orders.justeat.it
 www.connect.justeat.it
 www.guida.www.justeat.it
 www.justeat.it

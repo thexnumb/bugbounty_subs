@@ -1,4 +1,3 @@
-api-sf.dev.scoober.com
 api.dev.scoober.com
 api.internal.scoober.com
 api.scoober.com
