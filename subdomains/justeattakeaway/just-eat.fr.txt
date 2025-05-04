@@ -1,4 +1,5 @@
 ablink.emails.just-eat.fr
+ablink.orders.just-eat.fr
 acc-shop.just-eat.fr
 api.just-eat.fr
 app.just-eat.fr
@@ -15,6 +16,7 @@ cloud.update.just-eat.fr
 cms.just-eat.fr
 commandes.just-eat.fr
 corporate.just-eat.fr
+crl.microsoft.comwww.just-eat.fr
 email.just-eat.fr
 emails.just-eat.fr
 events.just-eat.fr
@@ -30,6 +32,7 @@ load.just-eat.fr
 m.just-eat.fr
 mailing.just-eat.fr
 maintenance.just-eat.fr
+msdn.com.frontend.office.prod.clops.just-eat.fr
 mta.email.just-eat.fr
 mta.update.just-eat.fr
 noel-extraordinaire.just-eat.fr
@@ -45,6 +48,7 @@ qa.just-eat.fr
 red.info.just-eat.fr
 red.news.just-eat.fr
 red.newsletter.just-eat.fr
+restapi.just-eat.fr
 restaurant.just-eat.fr
 restaurants.just-eat.fr
 restaurateurs.just-eat.fr
