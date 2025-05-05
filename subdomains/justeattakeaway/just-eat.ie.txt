@@ -273,7 +273,6 @@ abmail.tpeorders.just-eat.ie
 abmalennoxscarrigtwohilll.emalennoxscarrigtwohillls.just-eat.ie
 ac.just-eat.ie
 acc-shop.just-eat.ie
-accenturecomdev.just-eat.ie
 access.just-eat.ie
 acp.just-eat.ie
 admin.just-eat.ie
@@ -290,7 +289,6 @@ ajindalchineseandkoreanjindalchineseandkoreaness2.just-eat.ie
 aladdinkebabs.just-eat.ie
 alcazargort.just-eat.ie
 allitaliana.just-eat.ie
-almuretto-castlebar.just-eat.ie
 ambergrill.just-eat.ie
 american-food-fare.just-eat.ie
 anatolia.just-eat.ie
@@ -327,7 +325,6 @@ beachview.just-eat.ie
 bengalspice.just-eat.ie
 bennysd1.just-eat.ie
 beta.just-eat.ie
-bianconiranelagh.just-eat.ie
 bio.just-eat.ie
 bip.just-eat.ie
 blog.just-eat.ie
@@ -335,7 +332,6 @@ blogs.just-eat.ie
 bookmarks.just-eat.ie
 brandmanagement.just-eat.ie
 cafemilano.just-eat.ie
-camile.just-eat.ie
 canvas.just-eat.ie
 cdn.just-eat.ie
 cftest-customermanagement.just-eat.ie
@@ -345,9 +341,7 @@ chinapalaceathenry.just-eat.ie
 chinatower.just-eat.ie
 chinatowerrestaurant.just-eat.ie
 chinesetaste.just-eat.ie
-chopstickscork.just-eat.ie
 class.just-eat.ie
-click.email.just-eat.ie
 cloud.update.just-eat.ie
 club.just-eat.ie
 cn.just-eat.ie
@@ -408,7 +402,6 @@ feastfromeast.just-eat.ie
 feature.just-eat.ie
 feeds.just-eat.ie
 feisgarden.just-eat.ie
-fellinis-blackrock.just-eat.ie
 ferike.just-eat.ie
 ff.just-eat.ie
 finerice.just-eat.ie
@@ -422,7 +415,6 @@ freudquotes.just-eat.ie
 frontend.office.prod.clops.just-eat.ie
 frontend.office.stag.clops.just-eat.ie
 frontpagechef--coinbase-ctl.just-eat.ie
-frymacs-foynes.just-eat.ie
 games.just-eat.ie
 gate.just-eat.ie
 giannis-dublin1.just-eat.ie
@@ -545,7 +537,6 @@ meakongsantry.just-eat.ie
 members.just-eat.ie
 menulegacyeditor.just-eat.ie
 metropizza.just-eat.ie
-milanos-dundalk.just-eat.ie
 milanostakeaway.just-eat.ie
 monicas-40th-birthda.just-eat.ie
 mpk.just-eat.ie
@@ -610,7 +601,6 @@ orionemails.just-eat.ie
 out.e.just-eat.ie
 outmail.e.just-eat.ie
 p2020o--coinbase-ctl.just-eat.ie
-paetner.just-eat.ie
 parter.just-eat.ie
 partner-centre.just-eat.ie
 partner-offers-module.just-eat.ie
@@ -663,7 +653,6 @@ punjabhouse-dundalk.just-eat.ie
 punjabhousedundalk.just-eat.ie
 punjabkebabhouse.just-eat.ie
 pup.just-eat.ie
-quiz.just-eat.ie
 red.news.just-eat.ie
 red.newsletter.just-eat.ie
 regione.just-eat.ie
@@ -706,7 +695,6 @@ swordsgarden-ongar.just-eat.ie
 symposium.just-eat.ie
 taste-the-summer.just-eat.ie
 taste.just-eat.ie
-tasteofspice-cork.www.just-eat.ie
 tastybites-naul.just-eat.ie
 tastychina-dundalk.just-eat.ie
 test-exchange.just-eat.ie
@@ -720,7 +708,6 @@ top100newsletter.just-eat.ie
 topplacement.just-eat.ie
 treatmas.just-eat.ie
 tribunale.just-eat.ie
-tulsewestport.www.just-eat.ie
 u.just-eat.ie
 um.just-eat.ie
 uni.just-eat.ie
@@ -742,7 +729,6 @@ woktowalk-tallaght.just-eat.ie
 ww5.just-eat.ie
 www.allens.just-eat.ie
 www.aqpachepizzaglanmire.just-eat.ie
-www.blog.just-eat.ie
 www.chinakitchend14.just-eat.ie
 www.daatatandoori.just-eat.ie
 www.fengshou.just-eat.ie
@@ -750,9 +736,6 @@ www.flamingwok.just-eat.ie
 www.francescos.just-eat.ie
 www.jasminehouse-tipperary.app.just-eat.ie
 www.just-eat.ie
-www.just-eat.iewww.just-eat.ie
-www.kingfishersligo.just-eat.ie
-www.linkee-artane.just-eat.ie
 www.magickebab.just-eat.ie
 www.marschinese.just-eat.ie
 www.mayurindianrestaurant.just-eat.ie

@@ -236,7 +236,6 @@ cftest-customermanagement.justeat.it
 class.justeat.it
 click.email.justeat.it
 click.update.justeat.it
-cloud.justeat.it
 cloud.update.justeat.it
 club.justeat.it
 cn.justeat.it
@@ -443,7 +442,6 @@ one-web-worker-test.justeat.it
 orderandwin.justeat.it
 ordermanagement.justeat.it
 ordermanagementapi.justeat.it
-orderpad-partner-login.justeat.it
 orderpadconfigurationweb.justeat.it
 out.e.justeat.it
 out.justeat.it

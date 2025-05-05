@@ -495,6 +495,7 @@ intranet-uncover.dev.lieferando.de
 invitations.uncover.dev.lieferando.de
 ipa.uncover.dev.lieferando.de
 ipad.dev.lieferando.de
+iphoneapp.lieferando.de
 iplay-uncover.dev.lieferando.de
 iplayuncover.dev.lieferando.de
 iq.covid19uncover.dev.lieferando.de
@@ -647,6 +648,7 @@ nfr.staging.lieferando.de
 nimcalluncover.dev.lieferando.de
 nl.staging.lieferando.de
 nl.uncover.staging.lieferando.de
+node2.lieferando.de
 northshore.dev.lieferando.de
 notalone-uncover.dev.lieferando.de
 nsk.dev.lieferando.de

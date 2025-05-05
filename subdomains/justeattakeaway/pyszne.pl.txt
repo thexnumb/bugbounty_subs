@@ -29,7 +29,6 @@
 2025.dev.pyszne.pl
 2130.dev.pyszne.pl
 223-avira-free-antivirus.test.staging.pyszne.pl
-252fwww.pyszne.pl
 25b-www.antivirus.stamp.frontend.office.prod.clops.pyszne.pl
 3-uncover.dev.pyszne.pl
 3000-uncover.dev.pyszne.pl
@@ -60,6 +59,7 @@
 7starhdmovies.in.testavira-free-antivirus.staging.pyszne.pl
 9.dev.pyszne.pl
 928.www.stamp.antivirus.frontend.office.prod.clops.pyszne.pl
+a-la-turka.wroclaw.pyszne.pl
 a.dev.pyszne.pl
 a2zavira-free-antivirus.test.staging.pyszne.pl
 academicos-test.staging.pyszne.pl
@@ -126,6 +126,7 @@ alexfortin-uncover.dev.pyszne.pl
 alexruncover.dev.pyszne.pl
 alpha-uncover.dev.pyszne.pl
 altiafof-uncover.dev.pyszne.pl
+alyki.wroclaw.pyszne.pl
 am.staging.pyszne.pl
 am.uncover.dev.pyszne.pl
 amalia.uncover.dev.pyszne.pl
@@ -1278,6 +1279,7 @@ bhc.uncover.dev.pyszne.pl
 bi.avira-free-antivirustest.staging.pyszne.pl
 bi.testavira-free-antivirus.staging.pyszne.pl
 biblioteca.antivirus.aq.test.staging.pyszne.pl
+biesiadowo.wroclaw.pyszne.pl
 bigsur.dev.pyszne.pl
 billups.dev.pyszne.pl
 biodiver.bio.antivirustest.staging.pyszne.pl
@@ -1394,6 +1396,7 @@ ci-antivirus.test.staging.pyszne.pl
 ci.antivirus.frontend.office.prod.clops.pyszne.pl
 ci0uncover.dev.pyszne.pl
 citadel.uncover.dev.pyszne.pl
+city-kebab.wroclaw.pyszne.pl
 ck.antivirus-test.staging.pyszne.pl
 ck.test-avira-free-antivirus.staging.pyszne.pl
 ckeavira-free-antivirus.test.staging.pyszne.pl
@@ -1491,6 +1494,7 @@ d58c18fc-2c48-4d68-b99d-a7f61bf85ad1.probe-avira-free-antivirus.performancewww.s
 d58c18fc-2c48-4d68-b99d-a7f61bf85ad1.probeavira-free-antivirus.performancewww.stamp.frontend.office.prod.clops.pyszne.pl
 d5uncover.dev.pyszne.pl
 d7.dev.pyszne.pl
+dalida.wroclaw.pyszne.pl
 damn-nfo-antivirus.en.test.staging.pyszne.pl
 danashousekeeping.uncover.dev.pyszne.pl
 danawww.avira-free-antivirus.ar.test.staging.pyszne.pl
@@ -1509,6 +1513,8 @@ daytonk12.v2.avira-free-antivirus.staging.pyszne.pl
 dbadmin-uncover.staging.pyszne.pl
 dcfc-c-d-bd-afbfad.staging.pyszne.pl
 dcl6-phx-antivirus.fr90725.frontend.office.prod.clops.pyszne.pl
+della-casa-kubiel.wroclaw.pyszne.pl
+della-casa.wroclaw.pyszne.pl
 della-casaavira-free-antivirus.ar.test.staging.pyszne.pl
 dema-www-antivirus.stamp.frontend.office.prod.clops.pyszne.pl
 demotest.staging.pyszne.pl
@@ -1545,6 +1551,7 @@ dmu.dev.pyszne.pl
 dnd-antivirus.test.staging.pyszne.pl
 do-avira-free-antivirus.test.staging.pyszne.pl
 do.test.antivirus.staging.pyszne.pl
+dobre-klimaty.wroclaw.pyszne.pl
 docentitest.staging.pyszne.pl
 docker-registry.dev.pyszne.pl
 dockerdemo-uncover.dev.pyszne.pl
@@ -1638,6 +1645,7 @@ erotaiken-test.staging.pyszne.pl
 es7.testavira-free-antivirus.staging.pyszne.pl
 etg.antivirustest.staging.pyszne.pl
 etg.test-avira-free-antivirus.staging.pyszne.pl
+etna-pizza.wroclaw.pyszne.pl
 etsk.avira-free-antivirus.www.stamp.frontend.office.prod.clops.pyszne.pl
 eu3.avira-free-antivirus.stamp.frontend.office.prod.clops.pyszne.pl
 europe-avira-free-antivirus.ar.test.staging.pyszne.pl
@@ -1810,6 +1818,7 @@ gpauncover.dev.pyszne.pl
 gps-uncover.dev.pyszne.pl
 grades.cs.avira-free-antivirus.staging.pyszne.pl
 granny-avira-free-antivirus.ar.test.staging.pyszne.pl
+greenbar.wroclaw.pyszne.pl
 groundwork.staging.pyszne.pl
 gta-san-andreas-liberty-city.en.antivirus-test.staging.pyszne.pl
 gta-san-andreas-liberty-city.en.antivirustest.staging.pyszne.pl
@@ -1823,6 +1832,9 @@ gumstix.avira-free-antivirus8.x6.test.staging.pyszne.pl
 gvo-avira-free-antivirus.test.staging.pyszne.pl
 gw.staging.pyszne.pl
 gymportalen.staging.pyszne.pl
+gyros-bar-papu.wroclaw.pyszne.pl
+gyros-hot.wroclaw.pyszne.pl
+gyros-hut.wroclaw.pyszne.pl
 h-frontendww-avira-free-antivirus.ar.test.staging.pyszne.pl
 h1.uncover.dev.pyszne.pl
 h81.www.stamp.avira-free-antivirus.frontend.office.prod.clops.pyszne.pl
@@ -2006,6 +2018,7 @@ k-11.dev.pyszne.pl
 k8s.uncover.dev.pyszne.pl
 kaes-uncover.dev.pyszne.pl
 kamikubojibika.avira-free-antivirus-la.test.staging.pyszne.pl
+karmazyn-bis.wroclaw.pyszne.pl
 karmazyn.avira-free-antivirus.ar.test.staging.pyszne.pl
 keba-uncover.dev.pyszne.pl
 kemp.pyszne.pl
@@ -2032,10 +2045,14 @@ kouichi.staging.pyszne.pl
 kouichi541-com.www.stamp.antivirus.frontend.office.prod.clops.pyszne.pl
 kouichi541-com.www.stampantivirus.frontend.office.prod.clops.pyszne.pl
 kplus.ub-avira-free-antivirus.test.staging.pyszne.pl
+krakow.piotr.pyszne.pl
 krakow.pyszne.pl
 kubiel.avira-free-antivirus.ar.test.staging.pyszne.pl
 kuttyweb.antivirus.com.test.staging.pyszne.pl
 kuttyweb.comantivirus.test.staging.pyszne.pl
+l.news.pyszne.pl
+la-donna-cannone.wroclaw.pyszne.pl
+la-trattoria.wroclaw.pyszne.pl
 lab.dev.pyszne.pl
 laboral.fi.antivirustest.staging.pyszne.pl
 laboral.fi.testavira-free-antivirus.staging.pyszne.pl
@@ -2053,6 +2070,7 @@ lb.opencovpn.dev.pyszne.pl
 lccurator-uncover.dev.pyszne.pl
 ldap.opencovandersat.dev.pyszne.pl
 ldap.opencovictor.dev.pyszne.pl
+le-gyros.wroclaw.pyszne.pl
 learnchile-uncover.dev.pyszne.pl
 legends-test.staging.pyszne.pl
 lepww.avira-free-antivirusstamp.frontend.office.prod.clops.pyszne.pl
@@ -2162,7 +2180,6 @@ microsoft-office-file-converter-pack.staging.pyszne.pl
 microsoft-visio-test.staging.pyszne.pl
 microsoft-visio.en.avira-free-antivirus.test.staging.pyszne.pl
 microsoft-visio.en.avira-free-antivirus.test.staging.pyszne.plmmmgooo1.antivirus-www.stamp.frontend.office.prod.clops.pyszne.pl
-microsoft-visio.stamp.frontend.office.prod.clops.pyszne.pl
 microsoft-visioavira-free-antivirus.ar.test.staging.pyszne.pl
 middleware.dev.pyszne.pl
 mihye5575.avira-free-antiviruswww.stamp.frontend.office.prod.clops.pyszne.pl
@@ -2223,6 +2240,7 @@ music-mp-download-free-copyleft-avira-free-antivirus.ar.test.staging.pyszne.pl
 mutants.staging.pyszne.pl
 mvm-qmri--test.staging.pyszne.pl
 mvnuncover.dev.pyszne.pl
+my.pyszne.pl
 my.uncover.mlinzmayer.dev.pyszne.pl
 myadm-uncover.dev.pyszne.pl
 myhaccp.staging.pyszne.pl
@@ -2261,6 +2279,7 @@ netstorageantivirus.www.stamp.frontend.office.prod.clops.pyszne.pl
 netstorageavira-free-antivirus.ar.test.staging.pyszne.pl
 news.ar.antivirus.test.staging.pyszne.pl
 news.hr.avira-free-antivirustest.staging.pyszne.pl
+news.pyszne.pl
 newsletter.pyszne.pl
 nextgenuncover.dev.pyszne.pl
 nfb-apiuncover.dev.pyszne.pl
@@ -2269,6 +2288,7 @@ nigramercato.cdncovervalet.dev.pyszne.pl
 nl.staging.pyszne.pl
 nlontainer-avira-free-antivirus.ar.test.staging.pyszne.pl
 nlontainer.avira-free-antivirus.ar.test.staging.pyszne.pl
+nocna-pizza.wroclaw.pyszne.pl
 nordkalotten.dev.pyszne.pl
 northamerica-test.staging.pyszne.pl
 not4you.dev.pyszne.pl
@@ -2298,6 +2318,7 @@ oilriggeduncover.dev.pyszne.pl
 ojrxplorer-www.avira-free-antivirus.ar.test.staging.pyszne.pl
 olimpiadi.antivirusdm.test.staging.pyszne.pl
 olimpiadiantivirus.dm.test.staging.pyszne.pl
+olimpico.wroclaw.pyszne.pl
 olimpicoavira-free-antivirus.ar.test.staging.pyszne.pl
 olx-pl.antivirus.ru.test.staging.pyszne.pl
 oncovervalet.onhost.lukas.dev.pyszne.pl
@@ -2319,9 +2340,11 @@ opencovol.dev.pyszne.pl
 opencovoltage.dev.pyszne.pl
 opencovoyage.dev.pyszne.pl
 opencovpn.dev.pyszne.pl
+order.pyszne.pl
 orderandwin.pyszne.pl
 orders.uncover.dev.pyszne.pl
 oretokushuugakuryokouero-avira-free-antivirus.ar.test.staging.pyszne.pl
+orient-express.wroclaw.pyszne.pl
 origin-cw.pyszne.pl
 origin-m.staging.pyszne.pl
 origin.pyszne.pl
@@ -2344,6 +2367,7 @@ paint-net-avira-free-antivirus.de.test.staging.pyszne.pl
 paint-net.de.avira-free-antivirustest.staging.pyszne.pl
 paint-net.de.testavira-free-antivirus.staging.pyszne.pl
 paint-net.staging.pyszne.pl
+palmira.wroclaw.pyszne.pl
 pandp.dev.pyszne.pl
 panoramaavira-free-antivirus.fee.test.staging.pyszne.pl
 panoramacafe.dev.pyszne.pl
@@ -2408,6 +2432,7 @@ phpmyadmin.uncover.jino.dev.pyszne.pl
 phstl-g-reception-mfp-bw.avira-free-antivirus.ar.test.staging.pyszne.pl
 picasa.avira-free-antivirus.ar.test.staging.pyszne.pl
 pics.pyszne.pl
+pierogarnia-kubiel.wroclaw.pyszne.pl
 pierogarnia.staging.pyszne.pl
 pillerwww.avira-free-antivirusstamp.frontend.office.prod.clops.pyszne.pl
 pillerwww.stampantivirus.frontend.office.prod.clops.pyszne.pl
@@ -2415,13 +2440,26 @@ pims-uncover.dev.pyszne.pl
 pims.dev.pyszne.pl
 pims.uncover.dev.pyszne.pl
 pinboards.dev.pyszne.pl
+piotr.pyszne.pl
 pipa-combateavira-free-antivirus.br.test.staging.pyszne.pl
 pishvaz-m57www.antivirusstamp.frontend.office.prod.clops.pyszne.pl
 pishvazavira-free-antivirus.ar.test.staging.pyszne.pl
+pizza-queens.wroclaw.pyszne.pl
+pizzeria-bonita-2.wroclaw.pyszne.pl
+pizzeria-bonita.wroclaw.pyszne.pl
+pizzeria-bonita.wroclaw.tarara.pyszne.pl
+pizzeria-emostro.wroclaw.pyszne.pl
 pizzeria-etna-test.staging.pyszne.pl
+pizzeria-etna.wroclaw.pyszne.pl
+pizzeria-marco.wroclaw.pyszne.pl
 pizzeria-olala-test.staging.pyszne.pl
+pizzeria-olala.wroclaw.pyszne.pl
 pizzeria-pod-strusiem-test.staging.pyszne.pl
+pizzeria-pod-strusiem.wroclaw.pyszne.pl
 pizzeria-roma.avira-free-antivirus.ar.test.staging.pyszne.pl
+pizzeria-roma.wroclaw.pyszne.pl
+pizzeria-taormina.wroclaw.pyszne.pl
+pizzeria-venecja.wroclaw.pyszne.pl
 pl.iframe-uncover.dev.pyszne.pl
 plants-vs-zombies-garden-warfare.en.antivirus.staging.pyszne.pl
 plantsavira-free-antivirus.ar.test.staging.pyszne.pl
@@ -2432,6 +2470,7 @@ plinten.dev.pyszne.pl
 plot-uncover.dev.pyszne.pl
 pns.uncover.dev.pyszne.pl
 po-schodkach.avira-free-antivirus.ar.test.staging.pyszne.pl
+po-schodkach.wroclaw.pyszne.pl
 poc.uncover.dev.pyszne.pl
 pochi.ir.avira-free-antivirus.test.staging.pyszne.pl
 point-blank-strike-avira-free-antivirus.br.test.staging.pyszne.pl
@@ -2442,6 +2481,7 @@ pop.dev.pyszne.pl
 portable.avira-free-antivirus.ar.test.staging.pyszne.pl
 portal.rc.avira-free-antivirusfas.test.staging.pyszne.pl
 portfolio.staging.pyszne.pl
+poznan.pyszne.pl
 pp2.www.stampavira-free-antivirus.frontend.office.prod.clops.pyszne.pl
 ppsspp.antivirus-fr.test.staging.pyszne.pl
 ppsspp.en.antivirustest.staging.pyszne.pl
@@ -2468,6 +2508,8 @@ prodtest.uncover.dev.pyszne.pl
 profesional.uncovermaster.dev.pyszne.pl
 projectc-uncover.dev.pyszne.pl
 prometheus.servicesuncover.dev.pyszne.pl
+pronto-pizza-2.wroclaw.pyszne.pl
+pronto-pizza.wroclaw.pyszne.pl
 pronto.staging.pyszne.pl
 prowin.dev.pyszne.pl
 proxy.staging.pyszne.pl
@@ -2485,6 +2527,7 @@ qa.mobile-uncover.staging.pyszne.pl
 qauncover.staging.pyszne.pl
 qdwww.antivirus.stamp.frontend.office.prod.clops.pyszne.pl
 qko.antivirus.frontend.office.prod.clops.pyszne.pl
+quattro-cafe.wroclaw.pyszne.pl
 quattrotest.staging.pyszne.pl
 queens.wroclaw.wwwavira-free-antivirus.stamp.frontend.office.prod.clops.pyszne.pl
 r33tq287ww.avira-free-antivirusstamp.frontend.office.prod.clops.pyszne.pl
@@ -2503,6 +2546,7 @@ recargas.frontend-www.stamp-avira-free-antivirus.frontend.office.prod.clops.pysz
 recargas.frontend-www.stamp.antivirus.frontend.office.prod.clops.pyszne.pl
 recovery-uncover.dev.pyszne.pl
 recruitingapp-5254.antivirus.de.test.staging.pyszne.pl
+redeem-giftcards.pyszne.pl
 redir-test.staging.pyszne.pl
 refactoring.dev.pyszne.pl
 refugeakashi.x.antivirustest.staging.pyszne.pl
@@ -2521,6 +2565,7 @@ reporting-uncover.dev.pyszne.pl
 reqman.dev.pyszne.pl
 researchers2.avira-free-antivirus.ao.test.staging.pyszne.pl
 restauracja-vanilla.avira-free-antivirus.ar.test.staging.pyszne.pl
+restauracja-vanilla.wroclaw.pyszne.pl
 restauracja.pyszne.pl
 restaurant.pyszne.pl
 restaurants.pyszne.pl
@@ -2637,6 +2682,9 @@ sony-vegas-pro-32-bit.avira-free-antivirus.en.test.staging.pyszne.pl
 sony-vegas-pro-32-bit.en-antivirus.test.staging.pyszne.pl
 soostore.antiviruswww.stamp.frontend.office.prod.clops.pyszne.pl
 soostoretest.staging.pyszne.pl
+sopranos.wroclaw.pyszne.pl
+sopranos.wroclaw.tarara.pyszne.pl
+sopranos.wroclaw.test.pyszne.pl
 sorin-avira-free-antivirus.frontend.office.prod.clops.pyszne.pl
 soudanrindou.o.antivirustest.staging.pyszne.pl
 soudanrindou.o.test-avira-free-antivirus.staging.pyszne.pl
@@ -2660,10 +2708,12 @@ spotify.avira-free-antivirus.ar.test.staging.pyszne.pl
 spotlight.staging.pyszne.pl
 spotlightantivirus.itc.test.staging.pyszne.pl
 springer-pizza.avira-free-antivirus.ar.test.staging.pyszne.pl
+springer-pizza.wroclaw.pyszne.pl
 spss-64bits.tr.avira-free-antivirus-test.staging.pyszne.pl
 spss-64bits.tr.test-antivirus.staging.pyszne.pl
 spss-64bits.tr.test.avira-free-antivirus.staging.pyszne.pl
 spss-64bits.travira-free-antivirus.test.staging.pyszne.pl
+sql.pyszne.pl
 sqladmin.uncover.dev.pyszne.pl
 square-instapic.br.antivirus.test.staging.pyszne.pl
 sr.dev.pyszne.pl
@@ -2680,6 +2730,7 @@ stack.uncover.dev.pyszne.pl
 stag.clops.pyszne.pl
 stage-resantivirus.www.stamp.frontend.office.prod.clops.pyszne.pl
 stage.dev.pyszne.pl
+stage.pyszne.pl
 stage2.dev.pyszne.pl
 stage2.uncover.dev.pyszne.pl
 stageww.stamp.antivirus.frontend.office.prod.clops.pyszne.pl
@@ -2760,6 +2811,7 @@ tags.pyszne.pl
 taipingyangmaoye.staging.pyszne.pl
 tally.dev.pyszne.pl
 tap.dev.pyszne.pl
+tarara.pyszne.pl
 tas.dev.pyszne.pl
 tasks.uncover.dev.pyszne.pl
 te-buildkituncover.dev.pyszne.pl
@@ -2794,7 +2846,6 @@ test-horror.staging.pyszne.pl
 test-hosting.staging.pyszne.pl
 test-inappbillingservice.staging.pyszne.pl
 test-jingle-keyboard.staging.pyszne.pl
-test-kouichi.staging.pyszne.pl
 test-leonardofrances.staging.pyszne.pl
 test-little.staging.pyszne.pl
 test-mathms.staging.pyszne.pl
@@ -2830,6 +2881,8 @@ test-vidmate.staging.pyszne.pl
 test-webcfg.staging.pyszne.pl
 test-wowavtrwww.staging.pyszne.pl
 test-yandere-simulator.staging.pyszne.pl
+test.pyszne.pl
+test.shop.pyszne.pl
 test.sklep.pyszne.pl
 test.staging.pyszne.pl
 test.uncover.dev.pyszne.pl
@@ -2858,6 +2911,7 @@ testgcompany.staging.pyszne.pl
 testguitar-rig.staging.pyszne.pl
 testhosting-www.staging.pyszne.pl
 testindiaapps.staging.pyszne.pl
+testing.pyszne.pl
 testing.staging.pyszne.pl
 testkamikubojibika.staging.pyszne.pl
 testlanguage.staging.pyszne.pl
@@ -3581,6 +3635,10 @@ wrocladz-antivirus.www.stamp.frontend.office.prod.clops.pyszne.pl
 wrocladz.antivirus-www.stamp.frontend.office.prod.clops.pyszne.pl
 wroclaw-avira-free-antivirus.ar.test.staging.pyszne.pl
 wroclaw-www-test.staging.pyszne.pl
+wroclaw.piotr.pyszne.pl
+wroclaw.pyszne.pl
+wroclaw.tarara.pyszne.pl
+wroclaw.test.pyszne.pl
 wts.dev.pyszne.pl
 wwe-windows--avira-free-antivirus.ar.test.staging.pyszne.pl
 wwe-windows-10.en.avira-free-antivirus.test.staging.pyszne.pl

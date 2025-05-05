@@ -154,6 +154,7 @@ prod-partneres-green.webui.cms.just-eat.com
 prod-partneres.webui.cms.just-eat.com
 prod-partnerfr-green.webui.cms.just-eat.com
 prod-partnerfr.webui.cms.just-eat.com
+prod-partnerie-blue.cms.just-eat.com
 prod-partnerie-stage.cms.just-eat.com
 prod-partnerit-green.webui.cms.just-eat.com
 prod-partnerit-stage-green-westeurope.cms.just-eat.com
