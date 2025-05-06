@@ -1,7 +1,5 @@
 acc-shop.bistro.sk
-admin.bistro.sk
 api.bistro.sk
-assets.bistro.sk
 cmpv2.bistro.sk
 couriers-staging.bistro.sk
 couriers.bistro.sk
@@ -16,8 +14,6 @@ orderandwin.bistro.sk
 partner-hub.bistro.sk
 pay.bistro.sk
 play.bistro.sk
-rest.bistro.sk
-restauracia.bistro.sk
 restaurants.bistro.sk
 s.bistro.sk
 shop.bistro.sk

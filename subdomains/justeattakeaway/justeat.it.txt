@@ -208,7 +208,6 @@ ac.justeat.it
 access.justeat.it
 acp.justeat.it
 admin.justeat.it
-allbione.justeat.it
 anticapizzeriaal22.justeat.it
 antispam.e.justeat.it
 antispam.justeat.it
@@ -294,7 +293,6 @@ h3.justeat.it
 h4.justeat.it
 h6.justeat.it
 h7.justeat.it
-handle.www.justeat.it
 help.justeat.it
 hermes.e.justeat.it
 hermes.justeat.it
@@ -320,7 +318,6 @@ insights.justeat.it
 inst.justeat.it
 internet.e.justeat.it
 internet.justeat.it
-invite.www.justeat.it
 ipe.justeat.it
 it-brandmanagement.justeat.it
 it-deliveryserviceexternalapi.justeat.it
@@ -340,7 +337,6 @@ kiwi.justeat.it
 kk.justeat.it
 kokorosushibar.justeat.it
 ku1720.justeat.it
-kuriyasushichinathaiviet.justeat.it
 kursk.justeat.it
 kvm2.justeat.it
 kz.justeat.it
@@ -448,11 +444,7 @@ out.justeat.it
 outmail.justeat.it
 owa.justeat.it
 paelleriaalcampanile.justeat.it
-pages.email.justeat.it
 partner-centre.justeat.it
-partner-offers-module.justeat.it
-partner-restaurantclaims.justeat.it
-partner-stampcards.justeat.it
 partner-status.justeat.it
 partner.justeat.it
 partnerblog.justeat.it
@@ -461,7 +453,6 @@ passport.justeat.it
 pay.justeat.it
 pbrand.e.justeat.it
 pbrand.justeat.it
-pcmoduleinvoices.justeat.it
 pcs.justeat.it
 people.justeat.it
 performance.justeat.it
@@ -476,7 +467,6 @@ polloepatate.justeat.it
 pop.justeat.it
 pop3.e.justeat.it
 pop3.justeat.it
-portal.justeat.it
 post.e.justeat.it
 posta.e.justeat.it
 posta.justeat.it
@@ -550,17 +540,13 @@ vip.justeat.it
 vmail.justeat.it
 vnet.justeat.it
 vps.justeat.it
-w.justeat.it
 web.justeat.it
 webmail.justeat.it
 wenku.justeat.it
-ww.justeat.it
 ww5.justeat.it
-wws.justeat.it
 www.ablink.orders.justeat.it
 www.connect.justeat.it
 www.guida.www.justeat.it
-www.handle.www.justeat.it
 www.justeat.it
 www.kingkebab-genova.justeat.it
 www.mrjohnny.justeat.it
@@ -568,7 +554,6 @@ www.partner.justeat.it
 www.prestopizza.justeat.it
 www.ww.justeat.it
 www.www.justeat.it
-www1.justeat.it
 www2s.justeat.it
 www2u.justeat.it
 www4b.justeat.it

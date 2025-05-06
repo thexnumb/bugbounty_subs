@@ -223,7 +223,6 @@ fatimasauthenticindian.just-eat.co.uk
 favourite-chicken-ribs.just-eat.co.uk
 feature.just-eat.co.uk
 figaropizzab63.just-eat.co.uk
-fishchipndip.just-eat.co.uk
 flamesbalti-wf11.just-eat.co.uk
 flamesbangra2.just-eat.co.uk
 flameskebabse18.just-eat.co.uk
@@ -304,7 +303,6 @@ indiaocean-bs6.just-eat.co.uk
 info.just-eat.co.uk
 insidetrack.just-eat.co.uk
 insights.just-eat.co.uk
-invite.www.just-eat.co.uk
 ipresenter.just-eat.co.uk
 iriscc.just-eat.co.uk
 ise.just-eat.co.uk
@@ -494,6 +492,7 @@ o1515.abmail.emails.just-eat.co.uk
 o1515managementapi.just-eat.co.uk
 o1811.abmail.orders.just-eat.co.uk
 o1909.abmail.emails.just-eat.co.uk
+o1910.abmail.emails.just-eat.co.uk
 o2136.abmail.orders.just-eat.co.uk
 obento-bs1.just-eat.co.uk
 oca.just-eat.co.uk
@@ -682,6 +681,7 @@ signatures-analysis-w10.just-eat.co.uk
 singapore-rg1.just-eat.co.uk
 sinley.just-eat.co.uk
 sizzlers-ph2.just-eat.co.uk
+smartgateway-production.just-eat.co.uk
 smartgateway.just-eat.co.uk
 sopranos-ls14.just-eat.co.uk
 spc.just-eat.co.uk
@@ -787,20 +787,14 @@ www.deliciouspizza.just-eat.co.uk
 www.dial-a-pizza-co15.just-eat.co.uk
 www.dreamtaste.just-eat.co.uk
 www.easterneyerm3.just-eat.co.uk
-www.eatalias.just-eat.co.uk
 www.everestinn.just-eat.co.uk
 www.george.just-eat.co.uk
-www.goa-northampton.just-eat.co.uk
 www.hengyun-fy8.just-eat.co.uk
-www.indianoceanyork.just-eat.co.uk
 www.jaipurspice.just-eat.co.uk
-www.jaipurspiceyork.just-eat.co.uk
 www.just-eat.co.uk
 www.khansindian-tn31.just-eat.co.uk
-www.kingsransom.just-eat.co.uk
 www.kohinoor-krispy.just-eat.co.uk
 www.luckyhousene6.just-eat.co.uk
-www.mahabharat.just-eat.co.uk
 www.mail.just-eat.co.uk
 www.monett.just-eat.co.uk
 www.norwich-amigos.just-eat.co.uk
@@ -811,13 +805,10 @@ www.pizza-man-food.just-eat.co.uk
 www.pizzanapolenaidle.just-eat.co.uk
 www.punjab.just-eat.co.uk
 www.rajbari-tewkesbury.just-eat.co.uk
-www.sw17-takeaway.just-eat.co.uk
-www.sweetmandarin.just-eat.co.uk
 www.tiffinrasoi-cf63.just-eat.co.uk
 www.tunstallpizzeriaandkebabhousest6.just-eat.co.uk
 www.victoriakebab.just-eat.co.uk
 www.wokscooking.just-eat.co.uk
-www.www.just-eat.co.uk
 www01.just-eat.co.uk
 wwwha.just-eat.co.uk
 wwww.just-eat.co.uk
