@@ -24,7 +24,6 @@ it-invoicingmanagement.justeat-int.com
 it-pcmoduleitemavailability-i18n-production.justeat-int.com
 logging-app.justeat-int.com
 menu-globalmenucdn.justeat-int.com
-menupublisherapi.justeat-int.com
 monitoring-i18n-production.justeat-int.com
 monitoringweb-i18n-production.justeat-int.com
 notificationstatusapi-i18n-production.justeat-int.com
@@ -44,6 +43,5 @@ restaurantcapabilities.justeat-int.com
 restauranteventsapi.justeat-int.com
 restaurantfeesapi.justeat-int.com
 reviewmanagement.justeat-int.com
-sitebuilder.all.justeat-int.com
 smartgateway-i18n-production.justeat-int.com
 smartgatewaycdn-i18n-production.justeat-int.com

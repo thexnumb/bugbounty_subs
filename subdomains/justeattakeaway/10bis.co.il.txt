@@ -4,6 +4,7 @@
 10bis-spa-server-release-candidate-dev.10bis.co.il
 10bis-spa-server-release-candidate-staging.10bis.co.il
 10bis-spa-server.10bis.co.il
+10bis.co.il
 a.ns.email.10bis.co.il
 acc-shop.10bis.co.il
 afdverify.10bis.co.il

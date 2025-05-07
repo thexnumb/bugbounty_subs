@@ -176,7 +176,6 @@ build.uncoverlocal.dev.lieferando.de
 buildkit-utopia.dev.lieferando.de
 bullhorn2016-uncover.dev.lieferando.de
 bupauncover.dev.lieferando.de
-business.lieferando.de
 buyiq.uncover.dev.lieferando.de
 c2.dev.lieferando.de
 c3s.dev.lieferando.de
@@ -381,7 +380,6 @@ fastly.lieferando.de
 faucet.dev.lieferando.de
 favoritos-uncover.dev.lieferando.de
 fdhomeuncover.staging.lieferando.de
-feature.lieferando.de
 feeds-uncover.dev.lieferando.de
 feeds.dev.lieferando.de
 fields.dev.lieferando.de
@@ -437,6 +435,7 @@ gr.dev.lieferando.de
 graph-uncover.dev.lieferando.de
 gsmauncover.dev.lieferando.de
 gutenmorgenuncover.dev.lieferando.de
+gutschein.lieferando.de
 guywithnose-dev.dev.lieferando.de
 hackett-101uncover.dev.lieferando.de
 harrowgreen.staging.lieferando.de
@@ -539,7 +538,6 @@ ldap.opencovnext.dev.lieferando.de
 ldap.opencovolt.dev.lieferando.de
 libeo.dev.lieferando.de
 lisa-uncover.staging.lieferando.de
-live-orders.lieferando.de
 lix.dev.lieferando.de
 loadbalancer.uncover.dev.lieferando.de
 loblaws-uncover.dev.lieferando.de
@@ -640,7 +638,6 @@ netpromoteruncover.staging.lieferando.de
 newarkschools-uncover.dev.lieferando.de
 newmatchedbets-uncover.staging.lieferando.de
 news.lieferando.de
-newsletter.lieferando.de
 nfr.staging.lieferando.de
 nimcalluncover.dev.lieferando.de
 nl.staging.lieferando.de
@@ -860,7 +857,6 @@ sbsuncover.dev.lieferando.de
 scampillo-rtduncover.shop.v3.dev.lieferando.de
 schedule-uncover.dev.lieferando.de
 schemauncover.staging.lieferando.de
-schmeckt-wie-sommer.lieferando.de
 schneider-electric.dev.lieferando.de
 schooltoolbox.uncover.dev.lieferando.de
 schuelerhilfeuncover.dev.lieferando.de
@@ -886,7 +882,6 @@ slaughterhouse-uncover.dev.lieferando.de
 smtp-uncover.dev.lieferando.de
 smurf3uncover.dev.lieferando.de
 snow-uncover.dev.lieferando.de
-so-schmeckt-der-sommer.lieferando.de
 soauncover.dev.lieferando.de
 solutions.staging.lieferando.de
 sonybravia-uncover.dev.lieferando.de
@@ -941,7 +936,6 @@ system.uncover.ras.dev.lieferando.de
 systesting22.dev.lieferando.de
 t3trunk.uncover.dev.lieferando.de
 t3v62-uncover.dev.lieferando.de
-tags.lieferando.de
 takeda.dev.lieferando.de
 taouncover.dev.lieferando.de
 taxuncover.dev.lieferando.de

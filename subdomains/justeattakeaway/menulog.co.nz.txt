@@ -360,7 +360,6 @@ d1obano33cp37t.menulog.co.nz
 d365imums2021ac8fcf2224954c5bdevret.menulog.co.nz
 d726d7fe-dac1-4467-a127-4a270d55a295.menulog.co.nz
 databasetemavadatabaselabdatabaseldatabasety.menulog.co.nz
-ddpg.menulog.co.nz
 dev1-orders.menulog.co.nz
 devops-nz-stage-blue-euwest1.menulog.co.nz
 devtathenaqa-partnerdk-stage-green-euwest1.menulog.co.nz
@@ -373,7 +372,6 @@ dry5wfw8wlkb3vywqx0ktlxd0.menulog.co.nz
 e1bda8ecead285077b318efc4c3cc1d0.menulog.co.nz
 e4b19576a272cb882a84d42312411118.menulog.co.nz
 earchiveails.menulog.co.nz
-eatoutnz.menulog.co.nz
 ec2-18-222-24-180.menulog.co.nz
 ecdc.menulog.co.nz
 eedaa0964fa03ad6ef54689f089fdf95.menulog.co.nz
@@ -417,13 +415,12 @@ mbt-fw2-bloomberg.menulog.co.nz
 mc4-r-00107fe06db9.menulog.co.nz
 mcjp2q0rtfp7kqwfh.menulog.co.nz
 menulegacyeditor.menulog.co.nz
-menulog.co.nz
 mta.email.menulog.co.nz
 my-orders.menulog.co.nz
 neonartner-details.menulog.co.nz
 newguard.menulog.co.nz
 nz-deliveryserviceexternalapi.menulog.co.nz
-nz.menulog.co.nz
+o1518.abmail.emails.menulog.co.nz
 o1518topplacementmanagement.menulog.co.nz
 o1810.abmail.orders.menulog.co.nz
 obackenddebackends.menulog.co.nz
@@ -445,17 +442,11 @@ orjet-xp-dashboarders.menulog.co.nz
 parbroadcast-ipner-sbroadcast-ipampcards.menulog.co.nz
 partner-centre.menulog.co.nz
 partner-offers-module.menulog.co.nz
-partner-restaurantclaims.menulog.co.nz
-partner-stampcards.menulog.co.nz
-partner-status.menulog.co.nz
 partner.menulog.co.nz
-partnercenter.menulog.co.nz
-partnercentre.menulog.co.nz
 partnercentreaccountmanagement.menulog.co.nz
 partnercentredeliverymanagementapiails.menulog.co.nz
 partneressentials.menulog.co.nz
 partnermanagement.menulog.co.nz
-partneroffers.menulog.co.nz
 partnersignup.menulog.co.nz
 partnprod-ie-stage-blue-euwest1r-stampcards.menulog.co.nz
 partnsshr-offsshrs.menulog.co.nz
@@ -464,7 +455,6 @@ pays.menulog.co.nz
 pcmoduleinvoices.menulog.co.nz
 performance.menulog.co.nz
 play.menulog.co.nz
-portal.menulog.co.nz
 print.menulog.co.nz
 printadmin.menulog.co.nz
 printapi.menulog.co.nz
