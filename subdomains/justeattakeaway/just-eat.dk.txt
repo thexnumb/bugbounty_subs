@@ -471,6 +471,7 @@ www.citysandwich.just-eat.dk
 www.citysandwich2.just-eat.dk
 www.ckeckpoint.just-eat.dk
 www.ckh.just-eat.dk
+www.columbia.just-eat.dk
 www.corleone.just-eat.dk
 www.cornergrill.just-eat.dk
 www.cornerpizza.just-eat.dk
@@ -906,6 +907,7 @@ www.romabirkeroed.just-eat.dk
 www.romakbhn.just-eat.dk
 www.roskilde.just-eat.dk
 www.royal-chicken2640.just-eat.dk
+www.royal-chicken3400.just-eat.dk
 www.rudsvedbypizza.just-eat.dk
 www.sabropizza.just-eat.dk
 www.sakaki.just-eat.dk

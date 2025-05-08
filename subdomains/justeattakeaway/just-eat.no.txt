@@ -36,7 +36,6 @@ events.just-eat.no
 exchange.just-eat.no
 express-grill.just-eat.no
 expresspizza-molde.just-eat.no
-frontend.office.prod.clops.just-eat.no
 frontend.office.stag.clops.just-eat.no
 ftp.just-eat.no
 fusion-restaurant.just-eat.no

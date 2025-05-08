@@ -238,6 +238,7 @@ cftest-customermanagement.justeat.it
 class.justeat.it
 click.email.justeat.it
 click.update.justeat.it
+cloud.justeat.it
 cloud.update.justeat.it
 club.justeat.it
 cn.justeat.it
@@ -279,7 +280,6 @@ ff.justeat.it
 forum.justeat.it
 forums.justeat.it
 fr.justeat.it
-frontend.office.stag.clops.justeat.it
 games.justeat.it
 gate.e.justeat.it
 gate.justeat.it
@@ -439,11 +439,10 @@ news.justeat.it
 nn.justeat.it
 o1555.abmail.emails.justeat.it
 offline.justeat.it
-one-web-staging.justeat.it
-one-web-worker-test.justeat.it
 orderandwin.justeat.it
 ordermanagement.justeat.it
 ordermanagementapi.justeat.it
+orderpad-partner-login.justeat.it
 orderpadconfigurationweb.justeat.it
 out.e.justeat.it
 out.justeat.it

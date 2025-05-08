@@ -252,6 +252,7 @@ ab5163a5-fab1-48a5-94aa-b9ed114de0d3.menulog.com.au
 abbackupsail.ebackupsails.menulog.com.au
 abbeta177.menulog.com.au
 abc164ail.menulog.com.au
+abcdestudareaprender.menulog.com.au
 abconsumer18nail.econsumer18nails.menulog.com.au
 abdeliveryareamanagement-pail.menulog.com.au
 abdeltebreail.edeltebreails.menulog.com.au
@@ -424,11 +425,13 @@ blogedit.menulog.com.au
 blogs.menulog.com.au
 bogouyazhouguanfangbaijiale.menulog.com.au
 bogouyulechengxinyuhaoma.menulog.com.au
+bookings.menulog.com.au
 bookmarks.menulog.com.au
 bookmein.menulog.com.au
 box.menulog.com.au
 brandmanagement.menulog.com.au
 brazil.menulog.com.au
+bst-73ab74b5-b35a-4c4a-b0c8-a8aac3ef96b6-1.menulog.com.au
 buyaustralian.menulog.com.au
 campuses.menulog.com.au
 canvas.menulog.com.au
@@ -462,6 +465,7 @@ details.menulog.com.au
 dev-area.menulog.com.au
 dev.insidetrack.menulog.com.au
 dev.menulog.com.au
+device1997356-47597772.menulog.com.au
 devicehub.menulog.com.au
 digilander.menulog.com.au
 dodo.menulog.com.au
@@ -482,6 +486,7 @@ exchange.menulog.com.au
 extern.menulog.com.au
 ezunyulecheng.menulog.com.au
 f6aca10cdd7847b188478eb6b82378b3.menulog.com.au
+fakesubdomain343434.menulog.com.au
 feature.menulog.com.au
 feeds.menulog.com.au
 ff.menulog.com.au
@@ -527,6 +532,7 @@ images.menulog.com.au
 imap1.menulog.com.au
 imap2.menulog.com.au
 importd.menulog.com.au
+infiniterewards.menulog.com.au
 info.menulog.com.au
 infolab.menulog.com.au
 informatik.menulog.com.au
@@ -578,6 +584,7 @@ mbox.menulog.com.au
 mc8b8jgl--c6d4trjfjs9j1wpckm.menulog.com.au
 members.menulog.com.au
 menulegacyeditor.menulog.com.au
+menulog.com.au
 menuserv.menulog.com.au
 metrics.menulog.com.au
 mobile.menulog.com.au
@@ -627,6 +634,7 @@ orvipgvipn.menulog.com.au
 out.menulog.com.au
 outmail.menulog.com.au
 p.menulog.com.au
+p198.menulog.com.au
 partner-centre.menulog.com.au
 partner-details.menulog.com.au
 partner-offers.menulog.com.au
@@ -693,6 +701,7 @@ service-mom.menulog.com.au
 service-momp2.menulog.com.au
 service.menulog.com.au
 shop.menulog.com.au
+sites.menulog.com.au
 slovari.menulog.com.au
 smtp01.menulog.com.au
 smtp1.menulog.com.au
@@ -727,6 +736,7 @@ treatyoself.menulog.com.au
 tribunale.menulog.com.au
 tubevideobangla.menulog.com.au
 u.menulog.com.au
+uat-fr-stage-green-westeuropes153.menulog.com.au
 uemedgenta.menulog.com.au
 um.menulog.com.au
 uni.menulog.com.au
@@ -749,9 +759,20 @@ webcam-help.menulog.com.au
 webmail.menulog.com.au
 webwombat.menulog.com.au
 wenku.menulog.com.au
+ww.menulog.com.au
 ww5.menulog.com.au
+www.affiliate.menulog.com.au
+www.connect.menulog.com.au
+www.couriers.menulog.com.au
+www.crm.menulog.com.au
+www.help.menulog.com.au
+www.images.menulog.com.au
+www.m.menulog.com.au
 www.menulog.com.au
+www.partner.menulog.com.au
+www.resources.menulog.com.au
 www.service-iphone.menulog.com.au
+www.ww.menulog.com.au
 www1.menulog.com.au
 www2s.menulog.com.au
 www2u.menulog.com.au
