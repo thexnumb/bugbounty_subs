@@ -81,6 +81,7 @@
 15xfa220s6td3np3a4ku51kq-wpengine.menulog.co.nz
 1648e32b8a71fc2ef54400194a3edebe.menulog.co.nz
 1670268259225015721-2yy638brg7e62.menulog.co.nz
+1672021759354192510-8f737h85tne4.menulog.co.nz
 1672166979168403158-311dzfv0cwhwv.menulog.co.nz
 1672426683621712211-jvewkmpyycj4.menulog.co.nz
 1672935715374603566-2u0uae72bztuj.menulog.co.nz
@@ -199,6 +200,7 @@
 589018d1-7fa1-448b-aa2f-b87df701070a.static.pub.menulog.co.nz
 5a11a7045a1d7ded892a1edb495cf147.safeframe.menulog.co.nz
 5abc31d8be40f1556f06c4be--reactjs.menulog.co.nz
+5abec378ce8411ff408fc72ce1fdf6a2.safeframe.menulog.co.nz
 5c0e98493b75d234edd3-73370b41c17c8d5c4aaf1185f1ce54dd.ssl.cf1.menulog.co.nz
 5c141d4525553ef398f0daa50131c9f1e2af3921.menulog.co.nz
 5ca4ae95-cf39-413a-b39a-64359b413cd2.menulog.co.nz
@@ -278,7 +280,6 @@ a865b44ef4eed66c52e38efdccc748770.profile.mel50.menulog.co.nz
 a943b9d9d4b859238c10caf986b5b54a9.profile.iad53.menulog.co.nz
 a98f34775d499524ed308242f72164576.profile.mia3-c3.menulog.co.nz
 aa2e039b-49a6-4fe4-81db-5f177a053430.sync.menulog.co.nz
-aad.webpaypaymentgateway.menulog.co.nz
 aada3808877242589c4b18011d770776-925ef7492fcb.cdn.menulog.co.nz
 ab261a24ea3039c9e1057f2494bd9affc.profile.ewr50.menulog.co.nz
 ab28a9c4350ef57fbb2a585f.menulog.co.nz
@@ -288,7 +289,6 @@ ablink.emails.menulog.co.nz
 abmail.epcmoduleinvoices.menulog.co.nz
 abmail.mailman.menulog.co.nz
 abmail.oprometheus-proddeprometheus-prods.menulog.co.nz
-abmail.orders.menulog.co.nz
 abmail.ordie-searchwebrs.menulog.co.nz
 abmail.qa-partnernoblog-bluemails.menulog.co.nz
 abmail.qa-techblog-blue-euwest1s.menulog.co.nz
@@ -300,10 +300,8 @@ academyofcreativecoaching.menulog.co.nz
 acc-all-accountapi-production.menulog.co.nz
 acc-ballybrickentakeaway.menulog.co.nz
 acc-shop.menulog.co.nz
-accesexternefdn.webpaypaymentgateway.menulog.co.nz
 access.menulog.co.nz
 acd9f09f590c810d1eb065618121ddbd.safeframe.menulog.co.nz
-activesync.menulog.co.nz
 ad.menulog.co.nz
 adac47bb-3aa5-4e58-b531-7c9e41379189.sync.menulog.co.nz
 add1dfa627372d36b792c7bcaa8fec4ec.profile.sea-m.menulog.co.nz
@@ -338,7 +336,6 @@ cftest-customermanagement.menulog.co.nz
 cftest-hotels--coinbase-avs.menulog.co.nz
 cftest-legacysalesitempro--coinbase-avsdb.menulog.co.nz
 cftest-pro--coinbase-usps--c-sfdc-samlspsso.menulog.co.nz
-click.email.menulog.co.nz
 cnb.menulog.co.nz
 coinbase-offers-br.menulog.co.nz
 coinbaseapi.restaurantawards.menulog.co.nz
@@ -351,7 +348,6 @@ coinbasegamecredittests.analytics.us-e.menulog.co.nz
 coinbasegamecredittests.outmailus-e.menulog.co.nz
 coinbasegamecredittests.us-e.courses.menulog.co.nz
 coinbasehttp.menulog.co.nz
-commvault.webpaypaymentgateway.menulog.co.nz
 connect.menulog.co.nz
 corieroachefitness.menulog.co.nz
 couriers.menulog.co.nz
@@ -385,20 +381,15 @@ ec2-18-222-24-180.menulog.co.nz
 ecdc.menulog.co.nz
 eedaa0964fa03ad6ef54689f089fdf95.menulog.co.nz
 eki-net-com.menulog.co.nz
-elpalaciodehierro.kubernetes-partner-offers.menulog.co.nz
 emails.menulog.co.nz
-eu-beta-ns.menulog.co.nz
 events.menulog.co.nz
-ewebwebpaypaymentgateway.pro--coinbase-ctl.menulog.co.nz
 expressroutebvtgatewaymanager.menulog.co.nz
 externalorders.menulog.co.nz
 f55b8207a4900e42313d5593d1cd29a4.menulog.co.nz
 facebook-album-browser-master.menulog.co.nz
 fb4b7fc2c0315e6b9cf1f6704fb0eaff.menulog.co.nz
 feature.menulog.co.nz
-frontend.office.stag.clops.menulog.co.nz
 gai-automaticsessionmanagementtests.menulog.co.nz
-gapfactory.menulog.co.nz
 help.menulog.co.nz
 i-0fcadd64000504cbc.menulog.co.nz
 insidetqa-chfr-stageack.menulog.co.nz
@@ -440,9 +431,7 @@ o1810.abmail.orders.menulog.co.nz
 obackenddebackends.menulog.co.nz
 offdaatatandoorirs.menulog.co.nz
 offers.menulog.co.nz
-offline.menulog.co.nz
 one-web-staging.menulog.co.nz
-one-web-worker-test.menulog.co.nz
 opaymentsapidepaymentsapis.menulog.co.nz
 or2020ers.menulog.co.nz
 ordermanagement.menulog.co.nz
@@ -489,7 +478,6 @@ restaurantmanagement.menulog.co.nz
 restaurantmenumanager.menulog.co.nz
 rgm.menulog.co.nz
 sapphire.menulog.co.nz
-secure2.webpaypaymentgateway.menulog.co.nz
 shop.menulog.co.nz
 signeds.menulog.co.nz
 smp-restaurantsignupapi-production.menulog.co.nz
@@ -505,7 +493,6 @@ uat-es-stage-green-westeuropey-orders.menulog.co.nz
 uk-helpchatbotails.menulog.co.nz
 uk-searchliteails.menulog.co.nz
 update.menulog.co.nz
-view.email.menulog.co.nz
 vmg.menulog.co.nz
 vpn.menulog.co.nz
 w3nsw3detrack.menulog.co.nz

@@ -17,7 +17,6 @@ img.news.just-eat.it
 img.newsletter.just-eat.it
 info.just-eat.it
 interno.it-paymentsweb-api-migration-production.just-eat.it
-it-paypaymententsweb-paymentigrationn-production.just-eat.it
 mta.email.it-geodataapi-i18-production-smp.just-eat.it
 mta.email.it-paymentsweb-api-migrationn.just-eat.it
 mta.email.just-eat.it

@@ -157,7 +157,6 @@ gimme.infra-dev.just-data.io
 gimme.infra.just-data.io
 gke-ingress.infra-dev.just-data.io
 gke-ingress2.infra-dev.just-data.io
-global-marketing-landing-page.just-data.io
 grafana.dev.just-data.io
 grafana.infra-dev.just-data.io
 grafana.infra.just-data.io
@@ -260,7 +259,6 @@ pipeline-orchestrator-api.qa.just-data.io
 pipeline-orchestrator-ui.dev.just-data.io
 pipeline-orchestrator-ui.qa.just-data.io
 prefect.dev.just-data.io
-preprod.just-data.io
 prometheus-ui.dev.just-data.io
 prometheus-ui.infra-dev.just-data.io
 prometheus-ui.infra.just-data.io
@@ -283,7 +281,6 @@ pushgateway.just-data.io
 pushgateway.qa.just-data.io
 qa-dr.just-data.io
 qa.just-data.io
-rovi-test.infra-dev.just-data.io
 schema-registry.dev.just-data.io
 schema-registry.just-data.io
 schema-registry.qa.just-data.io
