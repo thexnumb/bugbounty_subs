@@ -39,7 +39,6 @@ imap.eat.ch
 img.news.eat.ch
 img.newsletter.eat.ch
 lists.eat.ch
-live-orders.eat.ch
 m.eat.ch
 mail.eat.ch
 mail2.eat.ch
@@ -70,7 +69,6 @@ printadmin.eat.ch
 printapi.eat.ch
 prometheus.eat.ch
 red.news.eat.ch
-red.newsletter.eat.ch
 restaurant.eat.ch
 restaurants.eat.ch
 rewards.eat.ch
