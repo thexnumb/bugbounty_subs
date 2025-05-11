@@ -1,3 +1,13 @@
 _dc-mx.8d7bf9c31c3c.status-takeaway.com
+adesso01.status-takeaway.com
+akamai-inputs-healthtensor.status-takeaway.com
+akamai-inputs-p3-group.status-takeaway.com
 api.status-takeaway.com
+bg-preprod-ask.status-takeaway.com
+numeral-dashboard-production.status-takeaway.com
+panotour-ba2ghrf.status-takeaway.com
+pile-o-files.status-takeaway.com
+privacyverification.status-takeaway.com
+shopbybrand.status-takeaway.com
+toyota-screen.status-takeaway.com
 www.status-takeaway.com

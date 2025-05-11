@@ -223,7 +223,6 @@ autodiscover.justeat.it
 baidu.justeat.it
 barracuda.e.justeat.it
 barracuda.justeat.it
-beta.justeat.it
 bip.justeat.it
 blog.justeat.it
 blogs.justeat.it
@@ -277,7 +276,6 @@ ff.justeat.it
 forum.justeat.it
 forums.justeat.it
 fr.justeat.it
-frontend.office.stag.clops.justeat.it
 games.justeat.it
 gate.e.justeat.it
 gate.justeat.it
@@ -348,7 +346,6 @@ land.justeat.it
 lartebianca.justeat.it
 launch.justeat.it
 lb1.justeat.it
-le-sorprese-di-natale.justeat.it
 legacy.justeat.it
 legacysalesitemmanagement.justeat.it
 live-reporting.justeat.it
@@ -433,9 +430,6 @@ newmail.justeat.it
 news.justeat.it
 nn.justeat.it
 o1555.abmail.emails.justeat.it
-offline.justeat.it
-one-web-staging.justeat.it
-one-web-worker-test.justeat.it
 orderandwin.justeat.it
 ordermanagement.justeat.it
 ordermanagementapi.justeat.it

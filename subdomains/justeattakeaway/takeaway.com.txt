@@ -104,6 +104,8 @@ aws-mx-a.takeaway.com
 aws-mx-b.takeaway.com
 aws-mx-c.takeaway.com
 aws-mx-d.takeaway.com
+aws-mx-e.takeaway.com
+aws-mx-f.takeaway.com
 aws-pmm.takeaway.com
 backend.feature.test.staging.takeaway.com
 backup-reports.takeaway.com
@@ -140,6 +142,7 @@ bc-3508_filter_pos_systems_on_system_type.tbb.takeaway.feature.test.staging.take
 bc-3522_survey_builder.utils.takeaway.feature.test.staging.takeaway.com
 bc-3542.tbb.takeaway.feature.test.staging.takeaway.com
 bc-3623_fix_update_version.utils.takeaway.feature.test.staging.takeaway.com
+be.takeaway.com
 befr-shop.takeaway.com
 benl-shop.takeaway.com
 beta-befr-shop.takeaway.com
@@ -414,6 +417,7 @@ cw-api.takeaway.com
 cw-logs.takeaway.com
 database_test.tbb.takeaway.feature.test.staging.takeaway.com
 db-problems-test.orders.ordersbackend.feature.test.staging.takeaway.com
+de.takeaway.com
 december-surprises.takeaway.com
 dekemvriiski-iznenadi.takeaway.com
 delivery-api.prod.clops.takeaway.com
@@ -999,7 +1003,9 @@ loyaltyshop.takeaway.com
 lp-api.takeaway.com
 lsissue.version2.takeaway.feature.test.staging.takeaway.com
 lu-shop.takeaway.com
+m.fr.takeaway.com
 m.takeaway.com
+m.uk.takeaway.com
 mail.takeaway.com
 mailfix.version2.takeaway.feature.test.staging.takeaway.com
 maillogofix.version2.takeaway.feature.test.staging.takeaway.com
@@ -1029,7 +1035,13 @@ movdiscountbug.version2.takeaway.feature.test.staging.takeaway.com
 mt2.takeaway.com
 mt3.takeaway.com
 mta.connect.takeaway.com
+mta.update.takeaway.com
 mta2.connect.takeaway.com
+mta3.connect.takeaway.com
+mta4.connect.takeaway.com
+mta5.connect.takeaway.com
+mta6.connect.takeaway.com
+mta7.connect.takeaway.com
 multi-polygon-support.tbb.takeaway.feature.test.staging.takeaway.com
 multi-polygon_scoober-logs.tbb.takeaway.feature.test.staging.takeaway.com
 mvp_1_customerservice.version2.takeaway.feature.test.staging.takeaway.com
@@ -1096,6 +1108,7 @@ ns2.takeaway.com
 ns3.takeaway.com
 nsadmin.takeaway.com
 o475.ptr7918.jobalerts.takeaway.com
+o476.ptr7587.careeralerts.takeaway.com
 ocsp.takeaway.com
 officeassignment-tarek.version2.takeaway.feature.test.staging.takeaway.com
 okta-auth1.takeaway.com
@@ -1262,6 +1275,7 @@ takeaway.dev.staging.takeaway.com
 takeaway.out.takeaway.com
 takeaway.test7.staging.takeaway.com
 taste-the-summer.takeaway.com
+tbb.takeaway.com
 tbb.takeaway.dev.staging.takeaway.com
 tbb.takeaway.develop.test.staging.takeaway.com
 tbb.takeaway.feature.test7.staging.takeaway.com
@@ -1375,12 +1389,14 @@ workday.takeaway.com
 workscouncil.takeaway.com
 worldline-external-order-api.takeaway.com
 wstest.takeaway.com
+www.be.takeaway.com
 www.brand.takeaway.com
 www.careers.takeaway.com
 www.corporate.takeaway.com
 www.scooberwebshop.takeaway.com
 www.takeaway.com
 www.takeaway.out.takeaway.com
+www.uk.takeaway.com
 www.vietnam.out.takeaway.com
 xp_gitlab.version2.takeaway.feature.test.staging.takeaway.com
 xray.takeaway.com
