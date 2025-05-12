@@ -1,3 +1,2 @@
-assets.aquafina.com
 policy.aquafina.com
 www.aquafina.com

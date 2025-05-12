@@ -271,6 +271,7 @@ m.pyszne.pl
 mail.wwwantivirus.www.frontend.office.prod.clops.pyszne.pl
 mail08avira-free-antivirus.na1.frontend.office.prod.clops.pyszne.pl
 meganetww.stamp-avira-free-antivirus.frontend.office.prod.clops.pyszne.pl
+microsoft-visio.en.avira-free-antivirus.test.staging.pyszne.plmmmgooo1.antivirus-www.stamp.frontend.office.prod.clops.pyszne.pl
 mihye5575.avira-free-antiviruswww.stamp.frontend.office.prod.clops.pyszne.pl
 mmmgooo1.antivirus-www.stamp.frontend.office.prod.clops.pyszne.pl
 mmmgooo1.www-avira-free-antivirus.stamp.frontend.office.prod.clops.pyszne.pl
@@ -425,6 +426,7 @@ www-avira-free-antivirus.v1-7.docswww.stamp.frontend.office.prod.clops.pyszne.pl
 www-php.www.antivirusstamp.frontend.office.prod.clops.pyszne.pl
 www.pyszne.pl
 www4-4.techavira-free-antivirus.frontend.office.prod.clops.pyszne.pl
+x.news.pyszne.pl
 xteenman-www.stampantivirus.frontend.office.prod.clops.pyszne.pl
 yczww.antivirusstamp.frontend.office.prod.clops.pyszne.pl
 zavira-free-antivirus.frontend.office.prod.clops.pyszne.pl
