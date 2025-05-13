@@ -128,6 +128,7 @@ architekt.dev.lieferando.de
 archives.dev.lieferando.de
 arete.dev.lieferando.de
 areteuncover.dev.lieferando.de
+assets.lieferando.de
 assets1.dev.lieferando.de
 asureti.ipad.dev.lieferando.de
 athenauncover.dev.lieferando.de
@@ -682,6 +683,7 @@ nfr.staging.lieferando.de
 nimcalluncover.dev.lieferando.de
 nl.staging.lieferando.de
 nl.uncover.staging.lieferando.de
+node2.lieferando.de
 northshore.dev.lieferando.de
 notalone-uncover.dev.lieferando.de
 nsk.dev.lieferando.de
