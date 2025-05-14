@@ -1,2 +1,3 @@
 policy.drinkevolve.com
+shop.drinkevolve.com
 www.drinkevolve.com

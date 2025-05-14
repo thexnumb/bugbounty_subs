@@ -31,6 +31,7 @@
 4mtoto.sabra.com
 4slot-depo-shopepay.sabra.com
 500x.sabra.com
+535.sabra.com
 5k-aja.sabra.com
 5k-slot.sabra.com
 5k.sabra.com
@@ -174,7 +175,6 @@ asia777vip.sabra.com
 asia88-login.sabra.com
 asia88-vip.sabra.com
 asia88.sabra.com
-asia88i.sabra.com
 asiabet.sabra.com
 asiabet88-resmi.sabra.com
 asiabetpro.sabra.com
@@ -192,6 +192,7 @@ astr0138.sabra.com
 ationglemahsyahwat.sabra.com
 aura4d.sabra.com
 auraslot88.id.sabra.com
+autodiscover.sabra.com
 autogacor-deltabet88.edu.sabra.com
 autowd-wd100-mutubet88.edu.sabra.com
 aw8slot.sabra.com
@@ -391,7 +392,6 @@ btn4d.lato.sabra.com
 btn4d.login.sabra.com
 btn4d.sabra.com
 btn4dvip.sabra.com
-bts24kol.sabra.com
 bukit4d.sabra.com
 bum-bum.sabra.com
 bunker.sabra.com
@@ -448,6 +448,7 @@ copet-anto.sabra.com
 cordor-epicwin88.edu.sabra.com
 corgacorr.sabra.com
 cornelius.crumplesnoot.sabra.com
+cr.sabra.com
 crystallite.sabra.com
 cs-lady.sabra.com
 csbr.sabra.com
@@ -497,7 +498,6 @@ demoslotzeus.sabra.com
 depo-10k.sabra.com
 depo-25-bonus-25.sabra.com
 depo-25-bonus25.sabra.com
-depo-25bonus-25.sabra.com
 depo.sabra.com
 depo20-bonus20.sabra.com
 depo25-acg.sabra.com
@@ -516,6 +516,7 @@ deposit-10-bonus-25.sabra.com
 depositmaxwin.wk.sabra.com
 deposlot.sabra.com
 depou10k.sabra.com
+dev.sabra.com
 dewa-4d.sabra.com
 dewa-slot88.sabra.com
 dewa.sabra.com
@@ -593,7 +594,6 @@ edmtogel.sabra.com
 emangbolehh.sabra.com
 emas138.sabra.com
 emasqq.sabra.com
-empeo.sabra.com
 emperor33login.sabra.com
 epicgilgamesh.sabra.com
 esmeralda.egglebert.sabra.com
@@ -608,6 +608,7 @@ fafaslot.sabra.com
 fajartoto-god.sabra.com
 faktagacor1.sabra.com
 fantasyonline.sabra.com
+farmingdale.sabra.com
 fin4d.sabra.com
 fingacor.sabra.com
 fl-slotdemo.sabra.com
@@ -1123,7 +1124,6 @@ macauslot88.sabra.com
 macauslot88go.sabra.com
 macauslotvip.sabra.com
 magnolia.muffintop.sabra.com
-maha168.sabra.com
 mahjong-ways-2-anti-lelet.sabra.com
 mahjong-ways-2.sabra.com
 mahjongways.sabra.com
@@ -1440,6 +1440,7 @@ pink.sabra.com
 pinkgummy3.sabra.com
 pion.a.sabra.com
 pirate.sabra.com
+pk10ftp01.sabra.com
 pkv-games.sabra.com
 pkv-terpercaya.sabra.com
 pkv.games.sabra.com
@@ -1553,6 +1554,7 @@ ratu89.sabra.com
 raves.sabra.com
 rbmaxwin.sabra.com
 receh88.sabra.com
+recipeswww.sabra.com
 redslot88.sabra.com
 reginald.razzleberry.sabra.com
 remyquie0.sabra.com
@@ -1649,10 +1651,8 @@ semutmerah.sabra.com
 senang77.sabra.com
 sendokbaiksc.sabra.com
 seo-gacor.sabra.com
-seo-gembul.sabra.com
 seo-mendadak.sabra.com
 seo-slotdemopragmatic.sabra.com
-seo.gembul.sabra.com
 seo.slot77.sabra.com
 seo.slotthailand.sabra.com
 seo16n.sabra.com
@@ -1675,6 +1675,8 @@ sersanbet.sabra.com
 server-luar.ac.id.sabra.com
 server-luar.go.id.sabra.com
 server-luar.sch.id.sabra.com
+server1.sabra.com
+server27.sabra.com
 servicedesk.sabra.com
 seven4d-situspastijp.sabra.com
 sevendays.sabra.com
@@ -2052,7 +2054,6 @@ slotbri-sl.sabra.com
 slotbsi.sabra.com
 slotcuan.sabra.com
 slotdana-jpterus.sabra.com
-slotdana-luckyneko.sabra.com
 slotdana.sabra.com
 slotdana5000.sabra.com
 slotdanagacor.sabra.com
@@ -2101,7 +2102,6 @@ slotgaransi100-rz.sabra.com
 slotgaransikekalahan-100.sabra.com
 slotgaransikekalahan.sabra.com
 slotgaransikekalahan100.sabra.com
-slotgaransikekalahan100.seomager.sabra.com
 slotgaransirsy.sabra.com
 slotgatotkaca.sabra.com
 slotgopay.sabra.com
@@ -2320,7 +2320,6 @@ uang618live-garansi-kekalahan-100.sabra.com
 uang618live-slot-garansi-kekalahan.sabra.com
 uang618site-slot-garansi-kekalahan100.sabra.com
 uang618top.sabra.com
-uang77.id.sabra.com
 uang88-maxwinn.sabra.com
 ucoknababan.sabra.com
 ugbet88.sabra.com
@@ -2351,12 +2350,14 @@ viral4d.sabra.com
 viral88.sabra.com
 viralbet-gacor.sabra.com
 viralslot.sabra.com
+virus.sabra.com
 visa288-live-casino-terpercaya.sabra.com
 visa288-situs-judi-onoine.sabra.com
 visitorbet.sabra.com
 visitorbett.sabra.com
 vnx388.sabra.com
 vnxmorslotdeposit1000.sabra.com
+w.sabra.com
 w69-daftar-ng69.sabra.com
 w69.sabra.com
 w69vip.sabra.com
@@ -2406,10 +2407,28 @@ ww.superslot.sabra.com
 wwe.empeo.sabra.com
 www-kktoto.sabra.com
 www-nobitabet.sabra.com
+www.asia88i.sabra.com
+www.bts24kol.sabra.com
+www.citrix.sabra.com
+www.depo-25bonus-25.sabra.com
+www.empeo.sabra.com
 www.expe01.sabra.com
+www.ipsec-va.sabra.com
+www.judi-mpo.sabra.com
+www.maha168.sabra.com
+www.mail.sabra.com
+www.mpo.sabra.com
+www.portal.sabra.com
 www.qlik.sabra.com
 www.sabra.com
+www.sabrarubrik.sabra.com
 www.securemail.sabra.com
+www.seo-gembul.sabra.com
+www.seo.gembul.sabra.com
+www.slotdana-luckyneko.sabra.com
+www.slotgaransikekalahan100.seomager.sabra.com
+www.uang77.id.sabra.com
+wwww.sabra.com
 xiooxiochi.sabra.com
 yakin-page-one.sabra.com
 yakin77-slots.sabra.com
