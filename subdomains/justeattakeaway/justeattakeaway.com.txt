@@ -25,6 +25,7 @@ image.ridewith.justeattakeaway.com
 just-eat-takeaway-bonus-scheme.justeattakeaway.com
 kitchen.justeattakeaway.com
 newsroom.justeattakeaway.com
+nullcareers.justeattakeaway.com
 partner-hub.justeattakeaway.com
 pay.justeattakeaway.com
 rest.api.justeattakeaway.com

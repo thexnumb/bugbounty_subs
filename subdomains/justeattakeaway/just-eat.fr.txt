@@ -1,4 +1,3 @@
-ablink.emails.just-eat.fr
 ablink.orders.just-eat.fr
 acc-shop.just-eat.fr
 api.just-eat.fr
@@ -7,7 +6,6 @@ awards.just-eat.fr
 beta.just-eat.fr
 click.email.just-eat.fr
 click.update.just-eat.fr
-cloud.email.just-eat.fr
 cloud.update.just-eat.fr
 commandes.just-eat.fr
 corporate.just-eat.fr
@@ -16,7 +14,6 @@ email.just-eat.fr
 events.just-eat.fr
 frontend.office.prod.clops.just-eat.fr
 frontend.office.stag.clops.just-eat.fr
-image.email.just-eat.fr
 img.info.just-eat.fr
 img.news.just-eat.fr
 img.newsletter.just-eat.fr
