@@ -4,7 +4,6 @@ api-staging.justeattakeaway.com
 api.justeattakeaway.com
 beta.justeattakeaway.com
 betaq4.justeattakeaway.com
-brand.justeattakeaway.com
 careers.justeattakeaway.com
 click.connect.justeattakeaway.com
 click.hello.justeattakeaway.com
@@ -22,10 +21,8 @@ enterpriseenrollment.justeattakeaway.com
 features.api.justeattakeaway.com
 image.connect.justeattakeaway.com
 image.ridewith.justeattakeaway.com
-just-eat-takeaway-bonus-scheme.justeattakeaway.com
 kitchen.justeattakeaway.com
 newsroom.justeattakeaway.com
-nullcareers.justeattakeaway.com
 partner-hub.justeattakeaway.com
 pay.justeattakeaway.com
 rest.api.justeattakeaway.com
@@ -35,7 +32,6 @@ shop.justeattakeaway.com
 staging.justeattakeaway.com
 talentlink.justeattakeaway.com
 tech.justeattakeaway.com
-techaway.justeattakeaway.com
 view.connect.justeattakeaway.com
 view.ridewith.justeattakeaway.com
 www.careers.justeattakeaway.com

@@ -23,6 +23,7 @@ deja-vu.just-eat.no
 dominos-pizza-bogerud.just-eat.no
 dominos-pizza-grunerlokka.just-eat.no
 e.just-eat.no
+endpoint.just-eat.no
 events.just-eat.no
 express-grill.just-eat.no
 expresspizza-molde.just-eat.no
@@ -57,6 +58,9 @@ norma-grill.just-eat.no
 nydalen-sushi.just-eat.no
 nye-papa-rosa.just-eat.no
 nyeoppsalpizza.just-eat.no
+o1517.abmail.emails.just-eat.no
+order.just-eat.no
+origin.just-eat.no
 paradis-pizza.just-eat.no
 partner.just-eat.no
 peking-garden.just-eat.no
@@ -100,6 +104,7 @@ test-shop.just-eat.no
 toro-toro-loren.just-eat.no
 toro-toro.just-eat.no
 travbanen-pizza.just-eat.no
+update.just-eat.no
 village-pizza.just-eat.no
 vitis-vinifera.just-eat.no
 www.just-eat.no

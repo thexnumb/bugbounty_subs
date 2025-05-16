@@ -1,4 +1,3 @@
-252fwww.fritolay.com
 account.fritolay.com
 autodiscover.fritolay.com
 autodiscover.intl.fritolay.com
@@ -9,8 +8,10 @@ cr.fritolay.com
 dcs.fritolay.com
 domino2.fritolay.com
 dreamsite.fritolay.com
+em.fritolay.com
 emplyee.fritolay.com
 fritomail.fritolay.com
+image.em.fritolay.com
 kelly.fritolay.com
 loyalty.fritolay.com
 newton.yorinoriintl.fritolay.com
