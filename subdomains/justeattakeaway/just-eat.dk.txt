@@ -52,7 +52,6 @@ burger-king.just-eat.dk
 byensbedstepizza.just-eat.dk
 cafecastro.just-eat.dk
 caihong.just-eat.dk
-canvas.just-eat.dk
 carlitos.just-eat.dk
 cesmerestaurant.just-eat.dk
 cetini.just-eat.dk
@@ -74,15 +73,12 @@ demo.just-eat.dk
 den-sorte-gryde.just-eat.dk
 dinos-pizza.just-eat.dk
 diva2000.just-eat.dk
-dk-orderpadlite.just-eat.dk
-dk-publicweb-haproxy-i18n-production.just-eat.dk
 dognpizza.just-eat.dk
 dsushi.just-eat.dk
 e.just-eat.dk
 editor.www.just-eat.dk
 eiffel.just-eat.dk
 eleven2eleven1.just-eat.dk
-endpoint.just-eat.dk
 events.just-eat.dk
 evitapizza.just-eat.dk
 express.just-eat.dk
@@ -187,16 +183,10 @@ nagosushi.just-eat.dk
 nhg.just-eat.dk
 nordmarksgrill.just-eat.dk
 npv.just-eat.dk
-o1507.abmail.emails.just-eat.dk
-old.just-eat.dk
-order.just-eat.dk
-orders.just-eat.dk
-origin.just-eat.dk
 palermopizza5000.just-eat.dk
 pantani.just-eat.dk
 papas-koekken.just-eat.dk
 pappas5700.just-eat.dk
-partner-ordertime.just-eat.dk
 partner.just-eat.dk
 partnerblog.just-eat.dk
 partnerwww.just-eat.dk
@@ -231,14 +221,10 @@ pizzavenedig.just-eat.dk
 pizzavenezia.just-eat.dk
 play.just-eat.dk
 portal.just-eat.dk
-print.just-eat.dk
-printadmin.just-eat.dk
-printapi.just-eat.dk
 qs.just-eat.dk
 ravnsbjerg.just-eat.dk
 red.news.just-eat.dk
 red.newsletter.just-eat.dk
-relay.just-eat.dk
 rest.lazio.just-eat.dk
 restaurant.just-eat.dk
 restaurants.just-eat.dk
@@ -254,6 +240,7 @@ sapore-delivery.just-eat.dk
 sason1.just-eat.dk
 shankou.just-eat.dk
 shop.just-eat.dk
+skerest.just-eat.dk
 skjern.just-eat.dk
 slotspizza.just-eat.dk
 smagsloeget.just-eat.dk
@@ -263,7 +250,6 @@ sofiegrill-pizzaria.just-eat.dk
 sorene.just-eat.dk
 souls.just-eat.dk
 soyasushi.just-eat.dk
-staging.just-eat.dk
 starpizza-8240.just-eat.dk
 stigepizza.just-eat.dk
 stjernekebab8300.just-eat.dk
@@ -290,7 +276,6 @@ tomatokitchen_old.just-eat.dk
 torinopizza.just-eat.dk
 toscana.just-eat.dk
 trane.just-eat.dk
-update.just-eat.dk
 v2.just-eat.dk
 vabene.just-eat.dk
 vagt.just-eat.dk
@@ -466,6 +451,7 @@ www.citysandwich.just-eat.dk
 www.citysandwich2.just-eat.dk
 www.ckeckpoint.just-eat.dk
 www.ckh.just-eat.dk
+www.columbia.just-eat.dk
 www.corleone.just-eat.dk
 www.cornergrill.just-eat.dk
 www.cornerpizza.just-eat.dk
@@ -486,7 +472,6 @@ www.deeppanhouse.just-eat.dk
 www.delfino.just-eat.dk
 www.delicious.just-eat.dk
 www.demo.just-eat.dk
-www.dengræskerest.just-eat.dk
 www.detlillemadhus.just-eat.dk
 www.dgo5000.just-eat.dk
 www.dgo6000.just-eat.dk
@@ -900,6 +885,7 @@ www.romabirkeroed.just-eat.dk
 www.romakbhn.just-eat.dk
 www.roskilde.just-eat.dk
 www.royal-chicken2640.just-eat.dk
+www.royal-chicken3400.just-eat.dk
 www.rudsvedbypizza.just-eat.dk
 www.sabropizza.just-eat.dk
 www.sakaki.just-eat.dk
