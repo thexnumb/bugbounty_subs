@@ -9,12 +9,10 @@ barracuda.just-eat.no
 beta.just-eat.no
 box.just-eat.no
 cloud.update.just-eat.no
-cm.just-eat.no
 comune.just-eat.no
 connect.just-eat.no
 couriers.just-eat.no
 e.just-eat.no
-endpoint.just-eat.no
 events.just-eat.no
 exchange.just-eat.no
 frontend.office.stag.clops.just-eat.no
@@ -80,9 +78,6 @@ no-orderpadlite.just-eat.no
 ns.just-eat.no
 ns1.just-eat.no
 ns2.just-eat.no
-o1517.abmail.emails.just-eat.no
-order.just-eat.no
-origin.just-eat.no
 out.just-eat.no
 outmail.just-eat.no
 partner.just-eat.no
@@ -115,13 +110,11 @@ smtpseguro.just-eat.no
 sniper.just-eat.no
 spam.just-eat.no
 srv.just-eat.no
-staging.just-eat.no
 subfolder-proxy-deals.just-eat.no
 subfolder-proxy-drivers.just-eat.no
 subfolder-proxy-foodwiki.just-eat.no
 tags.just-eat.no
 test-shop.just-eat.no
-update.just-eat.no
 vmail.just-eat.no
 webmail.just-eat.no
 www.just-eat.no

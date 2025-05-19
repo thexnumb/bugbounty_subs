@@ -332,7 +332,6 @@ c1570ee4-1235-4bd7-b660-401e847bf55f.menulog.co.nz
 c61ce53c4a494be586c50fe8e5bafb9f.menulog.co.nz
 c8ff8b932182460d84f90b8698b83804.menulog.co.nz
 ca-restaurant-iapi.menulog.co.nz
-canvas.menulog.co.nz
 cardsapp.menulog.co.nz
 cf66d0a9f95a1cdd162c3a329b9bdae038b01d2d.menulog.co.nz
 cfpro--coinbasebbp-productionssalesitemmanagement.menulog.co.nz
@@ -353,7 +352,6 @@ coinbasegamecredittests.analytics.us-e.menulog.co.nz
 coinbasegamecredittests.outmailus-e.menulog.co.nz
 coinbasegamecredittests.us-e.courses.menulog.co.nz
 coinbasehttp.menulog.co.nz
-connect.menulog.co.nz
 corieroachefitness.menulog.co.nz
 couriers.menulog.co.nz
 cpsd3d12nbodygravity.menulog.co.nz
@@ -422,7 +420,6 @@ mbt-fw2-bloomberg.menulog.co.nz
 mc4-r-00107fe06db9.menulog.co.nz
 mcjp2q0rtfp7kqwfh.menulog.co.nz
 menulegacyeditor.menulog.co.nz
-mta.email.menulog.co.nz
 my-orders.menulog.co.nz
 neonartner-details.menulog.co.nz
 newguard.menulog.co.nz
@@ -457,9 +454,6 @@ pay.menulog.co.nz
 pays.menulog.co.nz
 pcmoduleinvoices.menulog.co.nz
 performance.menulog.co.nz
-print.menulog.co.nz
-printadmin.menulog.co.nz
-printapi.menulog.co.nz
 promoted-placement.menulog.co.nz
 ptorders.menulog.co.nz
 restaurantainsidetrackards.menulog.co.nz

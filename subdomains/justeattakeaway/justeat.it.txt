@@ -486,9 +486,7 @@ newmail.e.justeat.it
 newmail.justeat.it
 news.justeat.it
 nn.justeat.it
-notify.justeat.it
 o1555.abmail.emails.justeat.it
-o1808.abmail.orders.justeat.it
 orderandwin.justeat.it
 ordermanagement.justeat.it
 ordermanagementapi.justeat.it
@@ -643,7 +641,6 @@ www.partner.justeat.it
 www.prestopizza.justeat.it
 www.ww.justeat.it
 www.www.justeat.it
-www1.justeat.it
 www2s.justeat.it
 www2u.justeat.it
 www4b.justeat.it
