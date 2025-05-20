@@ -398,6 +398,7 @@ access81artner53.menulog.com.au
 account-appointuit.menulog.com.au
 ads.menulog.com.au
 analytics-games.menulog.com.au
+aprint042mail.menulog.com.au
 artinstitute.menulog.com.au
 au-deliveryserviceexternalapi.menulog.com.au
 au-delivestgysestgviceextestgnalapi.menulog.com.au

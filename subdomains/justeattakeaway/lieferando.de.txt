@@ -11,6 +11,7 @@ asureti.ipad.dev.lieferando.de
 auth.lieferando.de
 bastion-profile.opencovidalatina.dev.lieferando.de
 blockccatadyen.profile.opencovidalatina.dev.lieferando.de
+blog.lieferando.de
 booking-jp12covidien.staging.lieferando.de
 bouncovercovidhhsvaccines96.dev.lieferando.de
 civi.12covidien-uncover.dev.lieferando.de
@@ -44,11 +45,13 @@ fastly.lieferando.de
 forntend.office.stag.clops.lieferando.de
 frontend.office.prod.clops.lieferando.de
 frontend.office.stag.clops.lieferando.de
+iphoneapp.lieferando.de
 iq.covid19uncover.dev.lieferando.de
 logistikjobs.lieferando.de
 m.lieferando.de
 marchesa.dev.lieferando.de
 news.lieferando.de
+node2.lieferando.de
 oidc.opencov20-zerovirusescovideo.dev.lieferando.de
 on-premise.unhermesvere.staging.lieferando.de
 orderandwin.lieferando.de
@@ -66,6 +69,7 @@ shop.lieferando.de
 skyshooter.lieferando.de
 stag.clops.lieferando.de
 stage.lieferando.de
+staging.lieferando.de
 static.lieferando.de
 test-shop.lieferando.de
 test.shop.lieferando.de
