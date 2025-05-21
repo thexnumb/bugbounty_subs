@@ -1,15 +1,10 @@
 adyennotifications.justeat-int.com
-alerting-i18n-production.justeat-int.com
-all-partneroffers.justeat-int.com
 all-pcmoduleitemavailability.justeat-int.com
 all-restaurantmenumanager.justeat-int.com
-all-restaurantsignup.justeat-int.com
 api.justeat-int.com
 apo-i18n-production.justeat-int.com
 brandservice.justeat-int.com
 ca-restaurant-iapi.justeat-int.com
-crm.justeat-int.com
-dashboards.justeat-int.com
 deliveryconfigurationapi.justeat-int.com
 deliverymanagement.justeat-int.com
 es-pcmoduleitemavailability-i18n-production.justeat-int.com
@@ -21,8 +16,6 @@ it-invoicingmanagement.justeat-int.com
 it-pcmoduleitemavailability-i18n-production.justeat-int.com
 menu-globalmenucdn.justeat-int.com
 menupublisherapi.justeat-int.com
-monitoring-i18n-production.justeat-int.com
-monitoringweb-i18n-production.justeat-int.com
 notificationstatusapi-i18n-production.justeat-int.com
 offermanagementaggregatedmenustore-i18n-production.justeat-int.com
 ool-i18n-production-v2.justeat-int.com
@@ -41,5 +34,4 @@ restauranteventsapi.justeat-int.com
 restaurantfeesapi.justeat-int.com
 reviewmanagement.justeat-int.com
 sitebuilder.all.justeat-int.com
-smartgateway-i18n-production.justeat-int.com
 smartgatewaycdn-i18n-production.justeat-int.com
