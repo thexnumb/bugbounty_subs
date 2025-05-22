@@ -434,6 +434,8 @@ dc.menulog.com.au
 demo.menulog.com.au
 details.menulog.com.au
 dev-area.menulog.com.au
+dev-build-0105e7b383ff51b228aossoap.menulog.com.au
+dev.insidetrack.menulog.com.au
 devicehub.menulog.com.au
 driverprivate-opsdocumentapi.menulog.com.au
 drivers.menulog.com.au
@@ -453,6 +455,8 @@ francuski.menulog.com.au
 frontend.office.stag.clops.menulog.com.au
 fwpartner-offers-module.menulog.com.au
 gh.menulog.com.au
+go-portal.menulog.com.au
+go-tracker.menulog.com.au
 help.menulog.com.au
 huangvncanwangzuqiutouzhuwangzhi.menulog.com.au
 hypernova.menulog.com.au
@@ -568,7 +572,9 @@ wangshangnaliyouhaowandelunpana.menulog.com.au
 webanalytics-partner.menulog.com.au
 webcam-help.menulog.com.au
 www.menulog.com.au
+www.service-iphone.menulog.com.au
 xerpentor.menulog.com.au
 xphpmyadminnlphpmyadmin88wangshangyule.menulog.com.au
+zarraycodeadmin.menulog.com.au
 zeusexternal.menulog.com.au
 zimbra.menulog.com.au

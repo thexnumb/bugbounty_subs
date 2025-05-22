@@ -17,12 +17,9 @@ city-configurator.scoober.com
 city-manager-api.scoober.com
 cookie-privacy.scoober.com
 courier-app.scoober.com
-courier-confirmation.scoober.com
 courier.scoober.com
 daas-api.dev.scoober.com
-demands-api.dev.scoober.com
 dev.scoober.com
-dispohub.scoober.com
 dispohub2-beta.scoober.com
 dispohub2.scoober.com
 disposition-api.scoober.com
@@ -32,7 +29,6 @@ driver-notification.scoober.com
 faq.dev.scoober.com
 faq.scoober.com
 forecast-api.scoober.com
-forecast-beta.scoober.com
 forecast.beta.scoober.com
 forecast.dev.scoober.com
 forecast.scoober.com
@@ -49,7 +45,6 @@ job-list.scoober.com
 kpi-api.scoober.com
 logistics.scoober.com
 mail.scoober.com
-mca.scoober.com
 newsletter.scoober.com
 offering.scoober.com
 order-status-api.dev.scoober.com
@@ -68,8 +63,6 @@ router.scoober.com
 salesforce.dev.scoober.com
 salesforce.scoober.com
 scoober-courier-api.scoober.com
-shift-planner-api.beta.scoober.com
-shiftplannerapp-beta.scoober.com
 shiftplannerapp.scoober.com
 shiftplanning-api.dev.scoober.com
 shiftplanning-api.scoober.com
@@ -82,7 +75,6 @@ ticket.dev.scoober.com
 ticket.scoober.com
 timeoff-api.scoober.com
 tracker-api.scoober.com
-tracker-cf.beta.scoober.com
 tracker.beta.scoober.com
 tracker.dev.scoober.com
 tracker.scoober.com

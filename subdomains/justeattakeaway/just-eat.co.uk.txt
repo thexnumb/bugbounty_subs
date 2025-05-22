@@ -30,7 +30,6 @@ aldos-fife.just-eat.co.uk
 aldos-fife.www.just-eat.co.uk
 alfresco-m33.just-eat.co.uk
 aliphtech.just-eat.co.uk
-all-restaurantmenumanager.just-eat.co.uk
 allensfriedchickenbl1.just-eat.co.uk
 almodeli.just-eat.co.uk
 alpha.just-eat.co.uk
@@ -126,9 +125,7 @@ caspian-b5.just-eat.co.uk
 caspiantakeaway.just-eat.co.uk
 cdn.just-eat.co.uk
 cdn1.just-eat.co.uk
-cftest-customermanagement.just-eat.co.uk
 cftest-partnercentreaccountmanagement.just-eat.co.uk
-cftest-paymentmanagement.just-eat.co.uk
 chapati2.just-eat.co.uk
 chatbox3.just-eat.co.uk
 checkout.just-eat.co.uk
@@ -178,13 +175,11 @@ d.just-eat.co.uk
 da-vinci.just-eat.co.uk
 dark-matter-cafe-gilesgate.just-eat.co.uk
 dark-matter-cafe-gilesgate.www.just-eat.co.uk
-dashboards.giftcards.just-eat.co.uk
 data.just-eat.co.uk
 dboreweb.just-eat.co.uk
 degerli.just-eat.co.uk
 deliciouspizza.just-eat.co.uk
 dennis-kebab-bs3.just-eat.co.uk
-dev.insidetrack.just-eat.co.uk
 dfa.just-eat.co.uk
 dial-a-pizza-co15.just-eat.co.uk
 dilankebabhouse-ll11.just-eat.co.uk
@@ -225,6 +220,7 @@ fatimasauthenticindian.just-eat.co.uk
 favourite-chicken-ribs.just-eat.co.uk
 feature.just-eat.co.uk
 figaropizzab63.just-eat.co.uk
+fishchipndip.just-eat.co.uk
 flamesbalti-wf11.just-eat.co.uk
 flamesbangra2.just-eat.co.uk
 flameskebabse18.just-eat.co.uk
@@ -234,8 +230,6 @@ foodyforecaster.just-eat.co.uk
 fortunecookie.just-eat.co.uk
 foscam-filename.just-eat.co.uk
 fourseasonsde72.just-eat.co.uk
-frontend.office.prod.clops.just-eat.co.uk
-frontend.office.stag.clops.just-eat.co.uk
 ftlv23-1.just-eat.co.uk
 fusion-ab10.just-eat.co.uk
 garammassala-bs6.just-eat.co.uk
@@ -247,8 +241,6 @@ giftcards.just-eat.co.uk
 giftcardsapi.just-eat.co.uk
 giftcardsmanagement.just-eat.co.uk
 gmo2.just-eat.co.uk
-go-portal.just-eat.co.uk
-go-tracker.just-eat.co.uk
 golden-bowls.just-eat.co.uk
 golden-chef.just-eat.co.uk
 goldendragoncv6.just-eat.co.uk
@@ -306,6 +298,7 @@ indiaocean-bs6.just-eat.co.uk
 info.just-eat.co.uk
 insidetrack.just-eat.co.uk
 insights.just-eat.co.uk
+invite.www.just-eat.co.uk
 ipresenter.just-eat.co.uk
 iriscc.just-eat.co.uk
 ise.just-eat.co.uk
@@ -353,7 +346,6 @@ lightofbengal.just-eat.co.uk
 link-orderweb.just-eat.co.uk
 lite.just-eat.co.uk
 littleitaly-hu9.just-eat.co.uk
-live-reporting.just-eat.co.uk
 localexpresspizza.just-eat.co.uk
 logging.just-eat.co.uk
 lomadee.just-eat.co.uk
@@ -406,6 +398,7 @@ mscaa.just-eat.co.uk
 mta-9d5245eaee333afc7bfc21f18bb0a374.just-eat.co.uk
 mta.email.just-eat.co.uk
 mta.just-eat.co.uk
+mta.partners.just-eat.co.uk
 mta1.enews.just-eat.co.uk
 mta1.mail.just-eat.co.uk
 mta1.news.just-eat.co.uk
@@ -489,6 +482,7 @@ no10.just-eat.co.uk
 noor.just-eat.co.uk
 norwich-amigos.just-eat.co.uk
 nyesalsa.just-eat.co.uk
+o1515.abmail.emails.just-eat.co.uk
 o1515managementapi.just-eat.co.uk
 o1811.abmail.orders.just-eat.co.uk
 o1909.abmail.emails.just-eat.co.uk
@@ -506,7 +500,6 @@ oh-calcutta.just-eat.co.uk
 oknadlyadachi.just-eat.co.uk
 olaa.just-eat.co.uk
 one-web-staging.just-eat.co.uk
-one-web-worker-test.just-eat.co.uk
 onsite02.just-eat.co.uk
 opd.just-eat.co.uk
 order.just-eat.co.uk
@@ -546,7 +539,6 @@ partnitr-ditlivitryapi.just-eat.co.uk
 path12.just-eat.co.uk
 pay-ssh.just-eat.co.uk
 pay.just-eat.co.uk
-pay.one-web-staging.just-eat.co.uk
 paymentmanagement.just-eat.co.uk
 pc75-19.just-eat.co.uk
 pepenerpo-bs1.just-eat.co.uk
@@ -590,7 +582,6 @@ pizzaroma.just-eat.co.uk
 pizzawayyo11.just-eat.co.uk
 planetnw6.just-eat.co.uk
 planittakeawaydt4.just-eat.co.uk
-play.just-eat.co.uk
 plume-of-feather.just-eat.co.uk
 plymouth-curry-kebab-house.just-eat.co.uk
 pmb-prod.just-eat.co.uk
@@ -636,9 +627,7 @@ redlandcurrydelivery-bs6.just-eat.co.uk
 restaurantclaimsweb.just-eat.co.uk
 restaurantevents.just-eat.co.uk
 restaurantmanagement.just-eat.co.uk
-restaurantmenumanager.just-eat.co.uk
 restaurants.just-eat.co.uk
-revenue-radar.just-eat.co.uk
 reviewmanagement.just-eat.co.uk
 riahanindian.just-eat.co.uk
 ribbleton-pizza.just-eat.co.uk
@@ -676,7 +665,6 @@ shelina-tandoori.just-eat.co.uk
 shezan-tandoori.just-eat.co.uk
 shimlachilliol13.just-eat.co.uk
 shimlapinks-b91.just-eat.co.uk
-shop.just-eat.co.uk
 sicilian-pizza-aston.just-eat.co.uk
 signatures-analysis-w10.just-eat.co.uk
 singapore-rg1.just-eat.co.uk
@@ -718,7 +706,6 @@ thompsons.just-eat.co.uk
 tiffinexpressbn21.just-eat.co.uk
 tiffinrasoi-cf63.just-eat.co.uk
 tikkamasalaal7.just-eat.co.uk
-tmp-uk-partnermanagement.just-eat.co.uk
 tonys-pizza-kebab.just-eat.co.uk
 top-chef-s80.just-eat.co.uk
 topplacement.just-eat.co.uk
@@ -787,14 +774,20 @@ www.deliciouspizza.just-eat.co.uk
 www.dial-a-pizza-co15.just-eat.co.uk
 www.dreamtaste.just-eat.co.uk
 www.easterneyerm3.just-eat.co.uk
+www.eatalias.just-eat.co.uk
 www.everestinn.just-eat.co.uk
 www.george.just-eat.co.uk
+www.goa-northampton.just-eat.co.uk
 www.hengyun-fy8.just-eat.co.uk
+www.indianoceanyork.just-eat.co.uk
 www.jaipurspice.just-eat.co.uk
+www.jaipurspiceyork.just-eat.co.uk
 www.just-eat.co.uk
 www.khansindian-tn31.just-eat.co.uk
+www.kingsransom.just-eat.co.uk
 www.kohinoor-krispy.just-eat.co.uk
 www.luckyhousene6.just-eat.co.uk
+www.mahabharat.just-eat.co.uk
 www.mail.just-eat.co.uk
 www.monett.just-eat.co.uk
 www.norwich-amigos.just-eat.co.uk
@@ -805,10 +798,13 @@ www.pizza-man-food.just-eat.co.uk
 www.pizzanapolenaidle.just-eat.co.uk
 www.punjab.just-eat.co.uk
 www.rajbari-tewkesbury.just-eat.co.uk
+www.sw17-takeaway.just-eat.co.uk
+www.sweetmandarin.just-eat.co.uk
 www.tiffinrasoi-cf63.just-eat.co.uk
 www.tunstallpizzeriaandkebabhousest6.just-eat.co.uk
 www.victoriakebab.just-eat.co.uk
 www.wokscooking.just-eat.co.uk
+www.www.just-eat.co.uk
 www01.just-eat.co.uk
 wwwha.just-eat.co.uk
 wwww.just-eat.co.uk
