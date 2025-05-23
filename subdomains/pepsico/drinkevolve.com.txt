@@ -1,4 +1,2 @@
 policy.drinkevolve.com
-shop.drinkevolve.com
 www.drinkevolve.com
-www.shop.drinkevolve.com

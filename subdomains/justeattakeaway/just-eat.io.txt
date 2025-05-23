@@ -1,4 +1,3 @@
-api.just-eat.io
 au-partnerapi.just-eat.io
 aus.api.just-eat.io
 dr-ie-orderpadapi.just-eat.io

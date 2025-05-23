@@ -61,6 +61,7 @@ cetini.just-eat.dk
 ceylon.just-eat.dk
 chickentown.just-eat.dk
 chr5.just-eat.dk
+city2.just-eat.dk
 citypizza6400.just-eat.dk
 citypizza7400.just-eat.dk
 classic.just-eat.dk
@@ -76,12 +77,15 @@ demo.just-eat.dk
 den-sorte-gryde.just-eat.dk
 dinos-pizza.just-eat.dk
 diva2000.just-eat.dk
+dk-orderpadlite.just-eat.dk
+dk-publicweb-haproxy-i18n-production.just-eat.dk
 dognpizza.just-eat.dk
 dsushi.just-eat.dk
 e.just-eat.dk
 editor.www.just-eat.dk
 eiffel.just-eat.dk
 eleven2eleven1.just-eat.dk
+endpoint.just-eat.dk
 es-moonpay.test.staging.just-eat.dk
 events.just-eat.dk
 evitapizza.just-eat.dk
@@ -190,11 +194,17 @@ nagosushi.just-eat.dk
 nhg.just-eat.dk
 nordmarksgrill.just-eat.dk
 npv.just-eat.dk
+o1507.abmail.emails.just-eat.dk
+old.just-eat.dk
+order.just-eat.dk
 orderandwin.just-eat.dk
+orders.just-eat.dk
+origin.just-eat.dk
 palermopizza5000.just-eat.dk
 pantani.just-eat.dk
 papas-koekken.just-eat.dk
 pappas5700.just-eat.dk
+partner-ordertime.just-eat.dk
 partner.just-eat.dk
 partnerblog.just-eat.dk
 partnerwww.just-eat.dk
@@ -238,6 +248,7 @@ qs.just-eat.dk
 ravnsbjerg.just-eat.dk
 red.news.just-eat.dk
 red.newsletter.just-eat.dk
+relay.just-eat.dk
 rest.lazio.just-eat.dk
 restaurant.just-eat.dk
 restaurants.just-eat.dk
@@ -253,6 +264,7 @@ sapore-delivery.just-eat.dk
 sason1.just-eat.dk
 shankou.just-eat.dk
 shop.just-eat.dk
+skerest.just-eat.dk
 skjern.just-eat.dk
 slotspizza.just-eat.dk
 smagsloeget.just-eat.dk
@@ -262,6 +274,7 @@ sofiegrill-pizzaria.just-eat.dk
 sorene.just-eat.dk
 souls.just-eat.dk
 soyasushi.just-eat.dk
+staging.just-eat.dk
 starpizza-8240.just-eat.dk
 stigepizza.just-eat.dk
 stjernekebab8300.just-eat.dk
