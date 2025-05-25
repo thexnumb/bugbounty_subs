@@ -119,7 +119,6 @@ api-ws-alpha.skipthedishes.com
 api-ws-alphav2.skipthedishes.com
 api-ws-dev.skipthedishes.com
 api-ws-prodaus.skipthedishes.com
-api-ws-produk.skipthedishes.com
 api-ws-stagaus.skipthedishes.com
 api-ws-staging.skipthedishes.com
 api-ws-staguk.skipthedishes.com
@@ -164,7 +163,6 @@ courier.stageu1.skipthedishes.com
 courier.stagie.skipthedishes.com
 courier.staging.skipthedishes.com
 courier.staguk.skipthedishes.com
-couriers-at.dev.skipthedishes.com
 couriers-at.skipthedishes.com
 couriers-at.staging.skipthedishes.com
 couriers-sk.dev.skipthedishes.com
@@ -299,12 +297,12 @@ pci-dev.skipthedishes.com
 pci-staging.skipthedishes.com
 pci-www.skipthedishes.com
 play.skipthedishes.com
-post-order-webview.dev.skipthedishes.com
 post-order-webview.skipthedishes.com
 post-order-webview.staging.skipthedishes.com
 prep.skipthedishes.com
 prod.dr.skipthedishes.com
 prodaus.skipthedishes.com
+prodie.skipthedishes.com
 promo.skipthedishes.com
 rabbitmq.skipthedishes.com
 react-courier-scheduling-produk.skipthedishes.com
@@ -373,7 +371,6 @@ simthedishes-stagaus.skipthedishes.com
 simthedishes-staging.skipthedishes.com
 simthedishes-staguk.skipthedishes.com
 simthedishes.stageu1.skipthedishes.com
-simthedishesmf.dev.skipthedishes.com
 simthedishesmf.stagaus.skipthedishes.com
 simthedishesmf.staging.skipthedishes.com
 simthedishesmf.staguk.skipthedishes.com

@@ -1,4 +1,3 @@
-_dc-mx.8d7bf9c31c3c.status-takeaway.com
 adesso01.status-takeaway.com
 akamai-inputs-healthtensor.status-takeaway.com
 akamai-inputs-p3-group.status-takeaway.com

@@ -380,7 +380,6 @@ fastly.lieferando.de
 faucet.dev.lieferando.de
 favoritos-uncover.dev.lieferando.de
 fdhomeuncover.staging.lieferando.de
-feature.lieferando.de
 feeds-uncover.dev.lieferando.de
 feeds.dev.lieferando.de
 fields.dev.lieferando.de

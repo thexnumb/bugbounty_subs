@@ -4,6 +4,7 @@ be-cdn.citymeal.com
 be.citymeal.com
 bg-cdn.citymeal.com
 bg.citymeal.com
+blogbeta.citymeal.com
 ch-cdn.citymeal.com
 ch.citymeal.com
 de-cdn.citymeal.com
@@ -15,12 +16,14 @@ lu-cdn.citymeal.com
 lu.citymeal.com
 nl-cdn.citymeal.com
 nl.citymeal.com
+paypalec.citymeal.com
 pl-cdn.citymeal.com
 pl.citymeal.com
 pt-cdn.citymeal.com
 pt.citymeal.com
 ro-cdn.citymeal.com
 ro.citymeal.com
+samsung.citymeal.com
 vn-cdn.citymeal.com
 vn.citymeal.com
 www.citymeal.com
