@@ -1,5 +1,4 @@
 access.justeattakeaway.com
-analytics.api.justeattakeaway.com
 api-staging.justeattakeaway.com
 api.justeattakeaway.com
 beta.justeattakeaway.com
@@ -20,10 +19,10 @@ email.news.justeattakeaway.com
 email.pr.justeattakeaway.com
 emails.corporate.justeattakeaway.com
 enterpriseenrollment.justeattakeaway.com
+enterpriseregistration.justeattakeaway.com
 features.api.justeattakeaway.com
 image.connect.justeattakeaway.com
 image.ridewith.justeattakeaway.com
-just-eat-takeaway-bonus-scheme.justeattakeaway.com
 kitchen.justeattakeaway.com
 mta.connect.justeattakeaway.com
 mta.hello.justeattakeaway.com
@@ -35,9 +34,7 @@ mta11.hello.justeattakeaway.com
 mta12.connect.justeattakeaway.com
 mta12.hello.justeattakeaway.com
 mta13.connect.justeattakeaway.com
-mta13.hello.justeattakeaway.com
 mta14.connect.justeattakeaway.com
-mta14.hello.justeattakeaway.com
 mta15.connect.justeattakeaway.com
 mta16.connect.justeattakeaway.com
 mta17.connect.justeattakeaway.com
@@ -75,15 +72,12 @@ mta6.hello.justeattakeaway.com
 mta7.connect.justeattakeaway.com
 mta7.hello.justeattakeaway.com
 mta8.connect.justeattakeaway.com
-mta8.hello.justeattakeaway.com
 mta9.connect.justeattakeaway.com
 mta9.hello.justeattakeaway.com
 newsroom.justeattakeaway.com
-nullcareers.justeattakeaway.com
 o875.ptr6046.jobalerts.justeattakeaway.com
 o876.ptr4355.careeralerts.justeattakeaway.com
 partner-hub.justeattakeaway.com
-pay.justeattakeaway.com
 rest.api.justeattakeaway.com
 ridewith.justeattakeaway.com
 rmp.justeattakeaway.com
@@ -93,7 +87,6 @@ staging.justeattakeaway.com
 support.justeattakeaway.com
 talentlink.justeattakeaway.com
 tech.justeattakeaway.com
-techaway.justeattakeaway.com
 view.connect.justeattakeaway.com
 view.ridewith.justeattakeaway.com
 www.careers.justeattakeaway.com

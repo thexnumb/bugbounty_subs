@@ -7,7 +7,6 @@ aroma-tandoori.just-eat.no
 assets.just-eat.no
 auth.just-eat.no
 authsmtp.just-eat.no
-autodiscover.just-eat.no
 bagel-and-juice.just-eat.no
 bambus.just-eat.no
 barracuda.just-eat.no
@@ -20,7 +19,6 @@ burger-baron.just-eat.no
 cappadocia.just-eat.no
 cloud.update.just-eat.no
 club-maccaroni.just-eat.no
-cm.just-eat.no
 comune.just-eat.no
 connect.just-eat.no
 couriers.just-eat.no
@@ -31,11 +29,11 @@ deja-vu.just-eat.no
 dominos-pizza-bogerud.just-eat.no
 dominos-pizza-grunerlokka.just-eat.no
 e.just-eat.no
-endpoint.just-eat.no
 events.just-eat.no
 exchange.just-eat.no
 express-grill.just-eat.no
 expresspizza-molde.just-eat.no
+frontend.office.prod.clops.just-eat.no
 frontend.office.stag.clops.just-eat.no
 ftp.just-eat.no
 fusion-restaurant.just-eat.no
@@ -126,8 +124,7 @@ nydalen-sushi.just-eat.no
 nye-papa-rosa.just-eat.no
 nyeoppsalpizza.just-eat.no
 o1517.abmail.emails.just-eat.no
-order.just-eat.no
-origin.just-eat.no
+o1809.abmail.orders.just-eat.no
 out.just-eat.no
 outmail.just-eat.no
 paradis-pizza.just-eat.no
@@ -182,7 +179,6 @@ sniper.just-eat.no
 sorumsand-pizza.just-eat.no
 spam.just-eat.no
 srv.just-eat.no
-staging.just-eat.no
 strommen-pizza-og-grill.just-eat.no
 subfolder-proxy-deals.just-eat.no
 subfolder-proxy-drivers.just-eat.no
@@ -197,7 +193,6 @@ test-shop.just-eat.no
 toro-toro-loren.just-eat.no
 toro-toro.just-eat.no
 travbanen-pizza.just-eat.no
-update.just-eat.no
 village-pizza.just-eat.no
 vitis-vinifera.just-eat.no
 vmail.just-eat.no

@@ -4,7 +4,6 @@ autodiscover.intl.fritolay.com
 click.em.fritolay.com
 domino2.fritolay.com
 fritomail.fritolay.com
-image.em.fritolay.com
 loyalty.fritolay.com
 origin-www.fritolay.com
 perfectstore.fritolay.com
@@ -14,7 +13,6 @@ profiles.fritolay.com
 saralatest.fritolay.com
 sip.fritolay.com
 sip.intl.fritolay.com
-staging.fritolay.com
 suppliernet.fritolay.com
 tcopsurvey.fritolay.com
 view.em.fritolay.com
