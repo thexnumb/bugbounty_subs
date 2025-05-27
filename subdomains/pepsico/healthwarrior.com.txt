@@ -1,7 +1,6 @@
 blog.healthwarrior.com
 dev.healthwarrior.com
 give3.healthwarrior.com
-healthwarrior.com.healthwarrior.com
 iconquered.healthwarrior.com
 kickstarter.healthwarrior.com
 mail.healthwarrior.com
@@ -12,5 +11,4 @@ store.healthwarrior.com
 webmail.healthwarrior.com
 wholesale.healthwarrior.com
 www.healthwarrior.com
-www.healthwarrior.com.healthwarrior.com
 www.store.healthwarrior.com

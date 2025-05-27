@@ -1,5 +1,4 @@
 0108.just-eat.dk
-04.frontend.office.prod.clops.just-eat.dk
 11-02.just-eat.dk
 2go.just-eat.dk
 aabyhojpizza.just-eat.dk
@@ -7,7 +6,6 @@ aalholmpizza.just-eat.dk
 abc1.just-eat.dk
 ablink.emails.just-eat.dk
 ablink.orders.just-eat.dk
-abmail.emails.just-eat.dk
 acc-shop.just-eat.dk
 admin.just-eat.dk
 adria-pizza.just-eat.dk
@@ -54,14 +52,12 @@ burger-king.just-eat.dk
 byensbedstepizza.just-eat.dk
 cafecastro.just-eat.dk
 caihong.just-eat.dk
-canvas.just-eat.dk
 carlitos.just-eat.dk
 cesmerestaurant.just-eat.dk
 cetini.just-eat.dk
 ceylon.just-eat.dk
 chickentown.just-eat.dk
 chr5.just-eat.dk
-city2.just-eat.dk
 citypizza6400.just-eat.dk
 citypizza7400.just-eat.dk
 classic.just-eat.dk
@@ -77,13 +73,14 @@ demo.just-eat.dk
 den-sorte-gryde.just-eat.dk
 dinos-pizza.just-eat.dk
 diva2000.just-eat.dk
+dk-orderpadlite.just-eat.dk
 dognpizza.just-eat.dk
 dsushi.just-eat.dk
 e.just-eat.dk
 editor.www.just-eat.dk
 eiffel.just-eat.dk
 eleven2eleven1.just-eat.dk
-es-moonpay.test.staging.just-eat.dk
+endpoint.just-eat.dk
 events.just-eat.dk
 evitapizza.just-eat.dk
 express.just-eat.dk
@@ -91,13 +88,11 @@ express4100.just-eat.dk
 fanefjord.just-eat.dk
 fc-hvidovre.just-eat.dk
 fc-kastrup.just-eat.dk
-feature.just-eat.dk
 femoeren.just-eat.dk
 frederiksbjerg8000.just-eat.dk
 froken-sandwich.just-eat.dk
 frontend.office.prod.clops.just-eat.dk
 frontend.office.stag.clops.just-eat.dk
-gc3.staging.just-eat.dk
 gernersgrill.just-eat.dk
 glostrupph.just-eat.dk
 golden-pizza.just-eat.dk
@@ -191,7 +186,9 @@ nagosushi.just-eat.dk
 nhg.just-eat.dk
 nordmarksgrill.just-eat.dk
 npv.just-eat.dk
-orderandwin.just-eat.dk
+o1507.abmail.emails.just-eat.dk
+o1804.abmail.orders.just-eat.dk
+old.just-eat.dk
 palermopizza5000.just-eat.dk
 pantani.just-eat.dk
 papas-koekken.just-eat.dk
@@ -210,7 +207,6 @@ pizza-king.just-eat.dk
 pizza.just-eat.dk
 pizza16-05.just-eat.dk
 pizza58.just-eat.dk
-pizzaamoremiddelfart.just-eat.dk
 pizzabarbaros.just-eat.dk
 pizzabella5610.just-eat.dk
 pizzadayandnight.just-eat.dk
@@ -232,9 +228,7 @@ pizzavenezia.just-eat.dk
 play.just-eat.dk
 portal.just-eat.dk
 print.just-eat.dk
-printadmin.just-eat.dk
 printapi.just-eat.dk
-prod.clops.just-eat.dk
 qs.just-eat.dk
 ravnsbjerg.just-eat.dk
 red.news.just-eat.dk
@@ -263,6 +257,7 @@ sofiegrill-pizzaria.just-eat.dk
 sorene.just-eat.dk
 souls.just-eat.dk
 soyasushi.just-eat.dk
+staging.just-eat.dk
 starpizza-8240.just-eat.dk
 stigepizza.just-eat.dk
 stjernekebab8300.just-eat.dk
@@ -274,7 +269,6 @@ subfolder-proxy-je-sitecore-dk.just-eat.dk
 sundbygrillhouse.just-eat.dk
 svogerslev.just-eat.dk
 taastrup.just-eat.dk
-tags.just-eat.dk
 tandoori.just-eat.dk
 tastysjerslev.just-eat.dk
 terndruppizza.just-eat.dk
@@ -290,7 +284,6 @@ tomatokitchen_old.just-eat.dk
 torinopizza.just-eat.dk
 toscana.just-eat.dk
 trane.just-eat.dk
-update.just-eat.dk
 v2.just-eat.dk
 vabene.just-eat.dk
 vagt.just-eat.dk
@@ -302,7 +295,6 @@ vejlbypizza.just-eat.dk
 venus.just-eat.dk
 venuspizza.just-eat.dk
 veronapizza.just-eat.dk
-viborgpizza.just-eat.dk
 viking4270.just-eat.dk
 vikinge-gryden.just-eat.dk
 vikingpizzaria.just-eat.dk
@@ -467,6 +459,7 @@ www.citysandwich.just-eat.dk
 www.citysandwich2.just-eat.dk
 www.ckeckpoint.just-eat.dk
 www.ckh.just-eat.dk
+www.columbia.just-eat.dk
 www.corleone.just-eat.dk
 www.cornergrill.just-eat.dk
 www.cornerpizza.just-eat.dk
@@ -887,7 +880,6 @@ www.red-yellow.just-eat.dk
 www.regina.just-eat.dk
 www.remos.just-eat.dk
 www.restaurantmarmaris.just-eat.dk
-www.restaurantsignup.just-eat.dk
 www.rex.just-eat.dk
 www.reys.just-eat.dk
 www.rhodospizza.just-eat.dk
@@ -902,6 +894,7 @@ www.romabirkeroed.just-eat.dk
 www.romakbhn.just-eat.dk
 www.roskilde.just-eat.dk
 www.royal-chicken2640.just-eat.dk
+www.royal-chicken3400.just-eat.dk
 www.rudsvedbypizza.just-eat.dk
 www.sabropizza.just-eat.dk
 www.sakaki.just-eat.dk
@@ -932,7 +925,6 @@ www.skanderborg.just-eat.dk
 www.skolegadespizza.just-eat.dk
 www.skovhuset.just-eat.dk
 www.slagelse.just-eat.dk
-www.slagterfisker.just-eat.dk
 www.sofiegrill-pizzaria.just-eat.dk
 www.solospizza.just-eat.dk
 www.solrodcenter.just-eat.dk
