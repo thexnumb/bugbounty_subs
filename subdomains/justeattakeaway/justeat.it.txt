@@ -34,12 +34,9 @@ live-reporting.justeat.it
 lospiedo.justeat.it
 mail.justeat.it
 menulegacyeditor.justeat.it
-mta.email.justeat.it
 my-orders.justeat.it
 new.justeat.it
 newguard.justeat.it
-o1555.abmail.emails.justeat.it
-o1808.abmail.orders.justeat.it
 offline.justeat.it
 one-web-staging.justeat.it
 one-web-worker-test.justeat.it
@@ -72,7 +69,6 @@ rosteat.justeat.it
 topplacement.justeat.it
 view.email.justeat.it
 view.update.justeat.it
-ww.justeat.it
 www.ablink.orders.justeat.it
 www.connect.justeat.it
 www.justeat.it

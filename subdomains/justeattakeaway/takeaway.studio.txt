@@ -1,2 +1,3 @@
-staging.takeaway.studio
+mail.takeaway.studio
+webmail.takeaway.studio
 www.takeaway.studio
