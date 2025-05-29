@@ -15,10 +15,12 @@ connect.justeattakeaway.com
 corporate-sso.staging.justeattakeaway.com
 crm.staging.justeattakeaway.com
 dev.justeattakeaway.com
+easylogin.justeattakeaway.com
 email.news.justeattakeaway.com
 email.pr.justeattakeaway.com
 emails.corporate.justeattakeaway.com
 enterpriseenrollment.justeattakeaway.com
+enterpriseregistration.justeattakeaway.com
 features.api.justeattakeaway.com
 image.connect.justeattakeaway.com
 image.ridewith.justeattakeaway.com
@@ -34,9 +36,7 @@ mta11.hello.justeattakeaway.com
 mta12.connect.justeattakeaway.com
 mta12.hello.justeattakeaway.com
 mta13.connect.justeattakeaway.com
-mta13.hello.justeattakeaway.com
 mta14.connect.justeattakeaway.com
-mta14.hello.justeattakeaway.com
 mta15.connect.justeattakeaway.com
 mta16.connect.justeattakeaway.com
 mta17.connect.justeattakeaway.com
@@ -74,7 +74,6 @@ mta6.hello.justeattakeaway.com
 mta7.connect.justeattakeaway.com
 mta7.hello.justeattakeaway.com
 mta8.connect.justeattakeaway.com
-mta8.hello.justeattakeaway.com
 mta9.connect.justeattakeaway.com
 mta9.hello.justeattakeaway.com
 newsroom.justeattakeaway.com

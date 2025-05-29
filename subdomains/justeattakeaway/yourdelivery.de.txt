@@ -1,10 +1,5 @@
 cdn.yourdelivery.de
 config.yourdelivery.de
-fbny.yourdelivery.de
-fbvoucher.yourdelivery.de
 image.yourdelivery.de
 landing.yourdelivery.de
 service.yourdelivery.de
-vpnsec.yourdelivery.de
-www.vpnsec.yourdelivery.de
-www.yourdelivery.de
