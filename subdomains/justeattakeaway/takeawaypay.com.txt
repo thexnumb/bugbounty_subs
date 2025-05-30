@@ -2,15 +2,11 @@ admin.takeawaypay.com
 api.takeawaypay.com
 card-payment-test.takeawaypay.com
 card-payment.takeawaypay.com
-cdn-admin.takeawaypay.com
 cdn-staging-static.takeawaypay.com
 consumer-beta.takeawaypay.com
 consumer-dev.takeawaypay.com
 consumer-staging.takeawaypay.com
-consumer-static-staging.takeawaypay.com
 consumer.takeawaypay.com
-consumerstatic-staging.takeawaypay.com
-files.takeawaypay.com
 online-payment-test.takeawaypay.com
 online-payment.takeawaypay.com
 promo-cards.takeawaypay.com

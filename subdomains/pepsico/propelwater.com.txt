@@ -1,8 +1,5 @@
-cr.propelwater.com
 origin-www.propelwater.com
-policy.propelwater.com
 shop.propelwater.com
 stage.propelwater.com
-url.propelwater.com
 www.propelwater.com
 www.shop.propelwater.com
