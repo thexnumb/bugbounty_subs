@@ -42,8 +42,6 @@ de.just-eat.ie
 dev.just-eat.ie
 digilander.just-eat.ie
 drivers.just-eat.ie
-e.just-eat.ie
-emails.just-eat.ie
 emperorcity.just-eat.ie
 en.just-eat.ie
 es.just-eat.ie
@@ -126,7 +124,6 @@ new.just-eat.ie
 newguard.just-eat.ie
 news.just-eat.ie
 newsletter.just-eat.ie
-newyorkpizza.just-eat.ie
 nn.just-eat.ie
 o1510.abmail.emails.just-eat.ie
 o1807.abmail.orders.just-eat.ie
@@ -138,7 +135,6 @@ ordermanagementapi.just-eat.ie
 ordermanagementweb.just-eat.ie
 orderpad-partner-login.just-eat.ie
 orderpadconfigurationweb.just-eat.ie
-orders.just-eat.ie
 partner-centre.just-eat.ie
 partner.just-eat.ie
 partnercentreaccountmanagement.just-eat.ie
@@ -212,7 +208,6 @@ www.partner.just-eat.ie
 www.pizzasncreambray.just-eat.ie
 www.print.just-eat.ie
 www.punjabihouse.just-eat.ie
-www.rhapsody.just-eat.ie
 www.www.just-eat.ie
 www2s.just-eat.ie
 www2u.just-eat.ie

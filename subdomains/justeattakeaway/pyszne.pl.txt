@@ -1,5 +1,4 @@
 0.staging.pyszne.pl
-000.community-api.udacity.com.cdnww.stamp.antivirus.frontend.office.prod.clops.pyszne.pl
 0092-www-antivirus.stamp.frontend.office.prod.clops.pyszne.pl
 039-uncover.dev.pyszne.pl
 05448081.at-avira-free-antivirus.test.staging.pyszne.pl
@@ -58,7 +57,6 @@
 7antivirus.frontend.office.prod.clops.pyszne.pl
 7starhdmovies.in.testavira-free-antivirus.staging.pyszne.pl
 9.dev.pyszne.pl
-928.www.stamp.antivirus.frontend.office.prod.clops.pyszne.pl
 a.dev.pyszne.pl
 a2zavira-free-antivirus.test.staging.pyszne.pl
 academicos-test.staging.pyszne.pl
@@ -1431,7 +1429,6 @@ componentuncover.dev.pyszne.pl
 comscore.uncover.staging.pyszne.pl
 comune-test.staging.pyszne.pl
 config-uncover.staging.pyszne.pl
-connect.pyszne.pl
 connected.staging.pyszne.pl
 contest-avira-free-antivirus.cc.test.staging.pyszne.pl
 conuncover.dev.pyszne.pl
@@ -1664,7 +1661,6 @@ fantasysportuncover.dev.pyszne.pl
 fastlink.antiviruspfm.frontend.office.prod.clops.pyszne.pl
 fastlink.staging.pyszne.pl
 fastly.pyszne.pl
-fb120-antivirus.www.stamp.frontend.office.prod.clops.pyszne.pl
 fb120.www.stampavira-free-antivirus.frontend.office.prod.clops.pyszne.pl
 fbrevers-misco-446-uncover.dev.pyszne.pl
 fcd.dev.pyszne.pl
@@ -2199,8 +2195,6 @@ msdnaa-avira-free-antivirus.ar.test.staging.pyszne.pl
 msnnz.avira-free-antivirus.stamp.frontend.office.prod.clops.pyszne.pl
 msnnzavira-free-antivirus.stamp.frontend.office.prod.clops.pyszne.pl
 msrpuncover.staging.pyszne.pl
-mta.update.pyszne.pl
-mta2.update.pyszne.pl
 mudroomoctober.dev.pyszne.pl
 mujina-sp.opencovoyage.dev.pyszne.pl
 murmanskuncover.dev.pyszne.pl
@@ -2663,7 +2657,6 @@ stage.dev.pyszne.pl
 stage2.dev.pyszne.pl
 stage2.uncover.dev.pyszne.pl
 stageww.stamp.antivirus.frontend.office.prod.clops.pyszne.pl
-staging.pyszne.pl
 staging1-avira-free-antivirus.stamp.frontend.office.prod.clops.pyszne.pl
 standard-avira-free-antivirus.ar.test.staging.pyszne.pl
 standard.staging.pyszne.pl
@@ -3409,7 +3402,6 @@ undress-test.staging.pyszne.pl
 uniube-avira-free-antivirus.ar.test.staging.pyszne.pl
 unlimited-coins-for-8-ball-pool.en.test-avira-free-antivirus.staging.pyszne.pl
 unlimited-coins-for-8-ball-pool.enantivirus.test.staging.pyszne.pl
-update.pyszne.pl
 updates.uncover.platform.staging.pyszne.pl
 updatesuncover.mobile.staging.pyszne.pl
 updatww-test.staging.pyszne.pl
@@ -3510,7 +3502,6 @@ webhook.incovy2c.staging.pyszne.pl
 webmail.pc.antivirus.staging.pyszne.pl
 webmail.pc.test.avira-free-antivirus.staging.pyszne.pl
 webmail22-avira-free-antivirus.www.stamp.frontend.office.prod.clops.pyszne.pl
-webmail22.www.stampavira-free-antivirus.frontend.office.prod.clops.pyszne.pl
 webmailer-test.staging.pyszne.pl
 webmailmobile-test.staging.pyszne.pl
 wechatcallback.dev.pyszne.pl

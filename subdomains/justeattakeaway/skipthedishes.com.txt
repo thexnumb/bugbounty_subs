@@ -197,7 +197,6 @@ live-ops.stagaus.skipthedishes.com
 live-ops.stageu1.skipthedishes.com
 live-ops.staging.skipthedishes.com
 live-ops.staguk.skipthedishes.com
-live.skipthedishes.com
 menu-builder-alpha.skipthedishes.com
 menu-builder-prod.skipthedishes.com
 menu-builder-produk.skipthedishes.com
@@ -216,7 +215,6 @@ ncc-storybook-prod.skipthedishes.com
 ncc-storybook.prod.dr.skipthedishes.com
 ncc.prodeu1.skipthedishes.com
 nexus.skipthedishes.com
-o1165.em.info.skipthedishes.com
 o1167.em.couriers.skipthedishes.com
 o1168.em.offers.skipthedishes.com
 ops-courier-chat-prodaus.skipthedishes.com
@@ -241,7 +239,6 @@ post-order-webview.skipthedishes.com
 prep.skipthedishes.com
 prodie.skipthedishes.com
 promo.skipthedishes.com
-rabbitmq.skipthedishes.com
 react-courier-scheduling-produk.skipthedishes.com
 react-courier-scheduling-staging.skipthedishes.com
 react-courier-scheduling-staguk.skipthedishes.com

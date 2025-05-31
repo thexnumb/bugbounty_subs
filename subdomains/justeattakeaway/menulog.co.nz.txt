@@ -2,9 +2,7 @@ ablink.emails.menulog.co.nz
 acc-shop.menulog.co.nz
 auth.menulog.co.nz
 brandmanagement.menulog.co.nz
-canvas.menulog.co.nz
 cftest-customermanagement.menulog.co.nz
-connect.menulog.co.nz
 couriers.menulog.co.nz
 customermanagement.menulog.co.nz
 drivers.menulog.co.nz
@@ -19,11 +17,9 @@ itemavailability.menulog.co.nz
 live-reporting.menulog.co.nz
 m.menulog.co.nz
 menulegacyeditor.menulog.co.nz
-mta.email.menulog.co.nz
 my-orders.menulog.co.nz
 newguard.menulog.co.nz
 nz-deliveryserviceexternalapi.menulog.co.nz
-o1810.abmail.orders.menulog.co.nz
 offers.menulog.co.nz
 one-web-staging.menulog.co.nz
 ordermanagement.menulog.co.nz
@@ -37,9 +33,6 @@ partnermanagement.menulog.co.nz
 partnersignup.menulog.co.nz
 pay.menulog.co.nz
 performance.menulog.co.nz
-print.menulog.co.nz
-printadmin.menulog.co.nz
-printapi.menulog.co.nz
 promoted-placement.menulog.co.nz
 restaurantawards.menulog.co.nz
 restaurantevents.menulog.co.nz
