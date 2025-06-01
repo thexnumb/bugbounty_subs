@@ -139,7 +139,6 @@ gimme-data.infra.just-data.io
 gimme.infra-dev.just-data.io
 gimme.infra.just-data.io
 gke-ingress.infra-dev.just-data.io
-global-marketing-landing-page.just-data.io
 grafana.dev.just-data.io
 grafana.infra-dev.just-data.io
 grafana.infra.just-data.io
