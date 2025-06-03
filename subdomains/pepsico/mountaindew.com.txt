@@ -7,12 +7,16 @@ e.mountaindew.com
 email.mountaindew.com
 image.em.mountaindew.com
 md.mountaindew.com
+northernlights.mountaindew.com
+origin-www.mountaindew.com
 p.mountaindew.com
 pitchblack.mountaindew.com
 policy.mountaindew.com
 recipes.mountaindew.com
 secure.mountaindew.com
 signup.mountaindew.com
+stage.mountaindew.com
+staging.mountaindew.com
 store.mountaindew.com
 view.em.mountaindew.com
 www.dewnationhq.mountaindew.com

@@ -138,7 +138,6 @@ www.survey.thuisbezorgd.nl
 www.thuisbezorgd.nl
 www1.thuisbezorgd.nl
 www2.thuisbezorgd.nl
-www3.thuisbezorgd.nl
 www5.thuisbezorgd.nl
 x.news.thuisbezorgd.nl
 yammie.thuisbezorgd.nl
