@@ -1,4 +1,5 @@
 account.sobe.com
+assets.sobe.com
 e.sobe.com
 email.sobe.com
 lizard-gazette.sobe.com
@@ -8,5 +9,8 @@ policy.sobe.com
 secure.sobe.com
 shop.sobe.com
 signup.sobe.com
+social.sobe.com
+www.shop.sobe.com
+www.signup.sobe.com
 www.sobe.com
 www2.sobe.com
