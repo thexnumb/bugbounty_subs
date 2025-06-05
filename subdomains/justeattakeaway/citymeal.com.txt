@@ -1,6 +1,7 @@
 apps.citymeal.com
 at-cdn.citymeal.com
 at.citymeal.com
+aux.citymeal.com
 be-cdn.citymeal.com
 be.citymeal.com
 beta.citymeal.com
@@ -36,9 +37,14 @@ pl-cdn.citymeal.com
 pl.citymeal.com
 pt-cdn.citymeal.com
 pt.citymeal.com
+restaurants.citymeal.com
 ro-cdn.citymeal.com
 ro.citymeal.com
+samsung.citymeal.com
 static.citymeal.com
+tbb.citymeal.com
+tbb2.citymeal.com
+uk.citymeal.com
 vn-cdn.citymeal.com
 vn.citymeal.com
 www.citymeal.com
