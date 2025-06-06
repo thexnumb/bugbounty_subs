@@ -457,7 +457,6 @@ ns.e.just-eat.es
 ns1.e.just-eat.es
 ns1.just-eat.es
 ns2.just-eat.es
-o1805.abmail.orders.just-eat.es
 o2153.abmail.it-restaurant-api18n-production-smp.just-eat.es
 o489.abmaiwebmail2.emaiwebmail2s.just-eat.es
 o489.abmta12.emta12s.just-eat.es
@@ -469,14 +468,12 @@ oamthong.just-eat.es
 occ-0-616-630.1ridewith.just-eat.es
 oelbongustdeelbongusts.just-eat.es
 one-web-worker-test.just-eat.es
-order.just-eat.es
 orderandwin.just-eat.es
 ordermanagement.just-eat.es
 ordermanagementapi.just-eat.es
 ordermanagementweb.just-eat.es
 orderpadconfdonerkebabrealguratdonerkebabrealonweb.just-eat.es
 orderpadconfigurationweb.just-eat.es
-orders.just-eat.es
 out.e.just-eat.es
 out.just-eat.es
 outmail.e.just-eat.es

@@ -142,7 +142,6 @@ bc-3508_filter_pos_systems_on_system_type.tbb.takeaway.feature.test.staging.take
 bc-3522_survey_builder.utils.takeaway.feature.test.staging.takeaway.com
 bc-3542.tbb.takeaway.feature.test.staging.takeaway.com
 bc-3623_fix_update_version.utils.takeaway.feature.test.staging.takeaway.com
-be.takeaway.com
 befr-shop.takeaway.com
 benl-shop.takeaway.com
 beta-befr-shop.takeaway.com
@@ -421,7 +420,6 @@ cw-api.takeaway.com
 cw-logs.takeaway.com
 database_test.tbb.takeaway.feature.test.staging.takeaway.com
 db-problems-test.orders.ordersbackend.feature.test.staging.takeaway.com
-de.takeaway.com
 december-surprises.takeaway.com
 dekemvriiski-iznenadi.takeaway.com
 deprecatedmodifier.restaurants.takeaway.feature.test.staging.takeaway.com
@@ -993,9 +991,7 @@ login.takeaway.com
 lp-api.takeaway.com
 lsissue.version2.takeaway.feature.test.staging.takeaway.com
 lu-shop.takeaway.com
-m.fr.takeaway.com
 m.takeaway.com
-m.uk.takeaway.com
 mail.takeaway.com
 mailfix.version2.takeaway.feature.test.staging.takeaway.com
 maillogofix.version2.takeaway.feature.test.staging.takeaway.com
@@ -1352,11 +1348,9 @@ widgets.takeaway.com
 workday.takeaway.com
 worldline-external-order-api.takeaway.com
 wstest.takeaway.com
-www.be.takeaway.com
 www.corporate.takeaway.com
 www.takeaway.com
 www.takeaway.out.takeaway.com
-www.uk.takeaway.com
 www.vietnam.out.takeaway.com
 xp_gitlab.version2.takeaway.feature.test.staging.takeaway.com
 xray.takeaway.com

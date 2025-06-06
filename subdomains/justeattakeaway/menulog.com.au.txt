@@ -245,6 +245,7 @@ ab156b156ess-hub.menulog.com.au
 ab5163a5-fab1-48a5-94aa-b9ed114de0d3.menulog.com.au
 abbeta177.menulog.com.au
 abc164ail.menulog.com.au
+abcdestudareaprender.menulog.com.au
 abdeliveryareamanagement-pail.menulog.com.au
 abdevicehub-d.edevicehub-ds.menulog.com.au
 abevents-iphoneail1519.menulog.com.au
@@ -378,6 +379,7 @@ blogs.menulog.com.au
 bocaiyulechengkaihusongbaicai.menulog.com.au
 bogouyazhouguanfangbaijiale.menulog.com.au
 bogouyulechengxinyuhaoma.menulog.com.au
+bookings.menulog.com.au
 bookmarks.menulog.com.au
 bookmein.menulog.com.au
 box.menulog.com.au
@@ -423,6 +425,8 @@ dev.menulog.com.au
 device1159823-852aa705-local.menulog.com.au
 device1199958-ce86528a-local.menulog.com.au
 device1867259-a2d81a69-local.menulog.com.au
+device1997356-47597772.menulog.com.au
+device2348499-5d048315.menulog.com.au
 device2615030-09d6765a-local.menulog.com.au
 device2931186-867f1a9f.menulog.com.au
 device3042809-2c52f78e.menulog.com.au
@@ -446,8 +450,9 @@ ef3b3a53d46dc2df07ab9f94e17bc22d.menulog.com.au
 eiko-prd-alb-web-public.menulog.com.au
 elee-05e85fd6b55a58d29.menulog.com.au
 email.menulog.com.au
-emails.menulog.com.au
 en.menulog.com.au
+engagepre.menulog.com.au
+epartner-offerss.menulog.com.au
 es.menulog.com.au
 events.menulog.com.au
 exchange.menulog.com.au
@@ -501,6 +506,7 @@ images.menulog.com.au
 imap1.menulog.com.au
 imap2.menulog.com.au
 importd.menulog.com.au
+infiniterewards.menulog.com.au
 info.menulog.com.au
 infolab.menulog.com.au
 informatik.menulog.com.au
@@ -522,6 +528,7 @@ kk.menulog.com.au
 ku1720.menulog.com.au
 lawnswoodfloral.menulog.com.au
 legacypaycodes-printadmin.menulog.com.au
+legacypaycoitemavailabilityes.menulog.com.au
 live-reporting.menulog.com.au
 local.menulog.com.au
 logser.menulog.com.au
@@ -592,7 +599,6 @@ ns.menulog.com.au
 ns01.menulog.com.au
 ns2.menulog.com.au
 o1519.abmail.emails.menulog.com.au
-o1802.abmail.orders.menulog.com.au
 offers.menulog.com.au
 offline.menulog.com.au
 order.menulog.com.au
@@ -681,6 +687,7 @@ service-mom.menulog.com.au
 service-momp2.menulog.com.au
 service.menulog.com.au
 shop.menulog.com.au
+sites.menulog.com.au
 slovari.menulog.com.au
 slwangshangnaliyouhaowandelunpana51e2.menulog.com.au
 smtp01.menulog.com.au
@@ -746,9 +753,20 @@ webcam-help.menulog.com.au
 webmail.menulog.com.au
 webwombat.menulog.com.au
 wenku.menulog.com.au
+ww.menulog.com.au
 ww5.menulog.com.au
+www.affiliate.menulog.com.au
+www.connect.menulog.com.au
+www.couriers.menulog.com.au
+www.crm.menulog.com.au
+www.help.menulog.com.au
+www.images.menulog.com.au
+www.m.menulog.com.au
 www.menulog.com.au
+www.partner.menulog.com.au
+www.resources.menulog.com.au
 www.service-iphone.menulog.com.au
+www.ww.menulog.com.au
 www1.menulog.com.au
 www2s.menulog.com.au
 www2u.menulog.com.au
