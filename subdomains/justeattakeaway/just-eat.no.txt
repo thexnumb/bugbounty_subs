@@ -36,6 +36,7 @@ events.just-eat.no
 exchange.just-eat.no
 express-grill.just-eat.no
 expresspizza-molde.just-eat.no
+frontend.office.prod.clops.just-eat.no
 frontend.office.stag.clops.just-eat.no
 ftp.just-eat.no
 fusion-restaurant.just-eat.no
@@ -126,6 +127,7 @@ nydalen-sushi.just-eat.no
 nye-papa-rosa.just-eat.no
 nyeoppsalpizza.just-eat.no
 o1517.abmail.emails.just-eat.no
+o1809.abmail.orders.just-eat.no
 order.just-eat.no
 origin.just-eat.no
 out.just-eat.no

@@ -20,6 +20,7 @@ project.yourdelivery.de
 restaurant.yourdelivery.de
 service.yourdelivery.de
 staging.yourdelivery.de
+static.yourdelivery.de
 stats.yourdelivery.de
 support.yourdelivery.de
 ticker.yourdelivery.de
