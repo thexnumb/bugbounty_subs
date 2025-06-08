@@ -1,5 +1,6 @@
 acc-shop.just-eat.it
 appleid.apple.com.secureaccounts.pagelog-in.just-eat.it
+blog.just-eat.it
 click.email.it-consumer-iapi-migration-smp.just-eat.it
 click.email.it-geodataapi-api18-production-smp.just-eat.it
 click.email.it-geodataapi-migration-smp.just-eat.it
@@ -17,6 +18,7 @@ img.newsletter.just-eat.it
 interno.it-paymentsweb-api-migration-production.just-eat.it
 mta.email.it-geodataapi-i18-production-smp.just-eat.it
 mta.email.it-paymentsweb-api-migrationn.just-eat.it
+news.just-eat.it
 proxy.it-consumer-iapi18n-production-smp.just-eat.it
 proxy.it-paymentsweb-migrationn-production.just-eat.it
 proxy.it-restaurant-iapi-migration-production-smp.just-eat.it

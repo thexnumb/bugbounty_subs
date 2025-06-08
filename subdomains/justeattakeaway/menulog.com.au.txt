@@ -379,7 +379,6 @@ blogs.menulog.com.au
 bocaiyulechengkaihusongbaicai.menulog.com.au
 bogouyazhouguanfangbaijiale.menulog.com.au
 bogouyulechengxinyuhaoma.menulog.com.au
-bookings.menulog.com.au
 bookmarks.menulog.com.au
 bookmein.menulog.com.au
 box.menulog.com.au
@@ -462,7 +461,6 @@ extern.menulog.com.au
 ezunyulecheng.menulog.com.au
 f6aca10cdd7847b188478eb6b82378b3.menulog.com.au
 fakesubdomain343434.menulog.com.au
-fastmatch.menulog.com.au
 feature.menulog.com.au
 feeds.menulog.com.au
 ff.menulog.com.au
@@ -604,8 +602,6 @@ noc.menulog.com.au
 ns.menulog.com.au
 ns01.menulog.com.au
 ns2.menulog.com.au
-o1519.abmail.emails.menulog.com.au
-o1802.abmail.orders.menulog.com.au
 offers.menulog.com.au
 offline.menulog.com.au
 one-web-staging.menulog.com.au
@@ -698,7 +694,6 @@ service-momp2.menulog.com.au
 service.menulog.com.au
 shop.menulog.com.au
 sites.menulog.com.au
-ski.menulog.com.au
 slovari.menulog.com.au
 slwangshangnaliyouhaowandelunpana51e2.menulog.com.au
 smtp01.menulog.com.au
