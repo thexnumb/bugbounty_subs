@@ -1,4 +1,2 @@
-cr.neareast.com
-review.neareast.com
 staging.neareast.com
 www.neareast.com

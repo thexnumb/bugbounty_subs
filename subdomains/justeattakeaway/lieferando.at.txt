@@ -13,7 +13,6 @@
 1www.lieferando.at
 2.66.lieferando.at
 20121018.lieferando.at
-252fwww.lieferando.at
 3675_add_plugin_page-mta.covid19.lieferando.at
 38b65.avira-free-antivirus.lieferando.at
 38b65losvirus.lieferando.at

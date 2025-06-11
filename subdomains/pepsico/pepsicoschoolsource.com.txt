@@ -1,2 +1,3 @@
 static.pepsicoschoolsource.com
 www.pepsicoschoolsource.com
+www.static.pepsicoschoolsource.com

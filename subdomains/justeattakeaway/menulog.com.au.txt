@@ -419,7 +419,6 @@ demo.menulog.com.au
 descobrindovida.menulog.com.au
 dev-area.menulog.com.au
 dev-build-0105e7b383ff51b228aossoap.menulog.com.au
-dev.insidetrack.menulog.com.au
 dev.menulog.com.au
 device1159823-852aa705-local.menulog.com.au
 device1199958-ce86528a-local.menulog.com.au
@@ -463,7 +462,6 @@ forum.menulog.com.au
 forums.menulog.com.au
 fr.menulog.com.au
 francuski.menulog.com.au
-frontend.office.stag.clops.menulog.com.au
 ftp.menulog.com.au
 fwpartner-offers-module.menulog.com.au
 games.menulog.com.au
@@ -472,8 +470,6 @@ gateway.menulog.com.au
 gh.menulog.com.au
 giftcards.menulog.com.au
 global.menulog.com.au
-go-portal.menulog.com.au
-go-tracker.menulog.com.au
 grc2go.menulog.com.au
 groups.menulog.com.au
 h2.menulog.com.au
@@ -586,7 +582,6 @@ myhome.menulog.com.au
 myvenue.menulog.com.au
 nadia.menulog.com.au
 new.menulog.com.au
-newguard.menulog.com.au
 newguard14.menulog.com.au
 news.menulog.com.au
 nmjweo14grsx5v6pkxfzyahlpzuvjwgmyc2tct8e.menulog.com.au
@@ -599,8 +594,6 @@ o1519.abmail.emails.menulog.com.au
 o1802.abmail.orders.menulog.com.au
 offers.menulog.com.au
 offline.menulog.com.au
-one-web-staging.menulog.com.au
-one-web-worker-test.menulog.com.au
 order.menulog.com.au
 ordermanagement.menulog.com.au
 ordermanagementapi.menulog.com.au
@@ -672,7 +665,6 @@ restaurantevents.menulog.com.au
 restaurantmanagement.menulog.com.au
 restaurantmenumanager.menulog.com.au
 resume.menulog.com.au
-rgm.menulog.com.au
 root.menulog.com.au
 rootsweb.menulog.com.au
 s.menulog.com.au
@@ -724,8 +716,6 @@ tracking.menulog.com.au
 trackinglogin.menulog.com.au
 tranceforalloflife.menulog.com.au
 treatmas.menulog.com.au
-treatyoself-stg.menulog.com.au
-treatyoself.menulog.com.au
 tribunale.menulog.com.au
 trsmtpseguroatyossmtpsegurolf-stg.menulog.com.au
 tubevideobangla.menulog.com.au
