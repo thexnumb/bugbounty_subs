@@ -254,21 +254,17 @@ events.just-eat.es
 exchange.just-eat.es
 express.just-eat.es
 fc6d6b3c-698f-4c94-858e-1813038a4ba7.just-eat.es
-feature.just-eat.es
 feeds.just-eat.es
 ff.just-eat.es
 forum.just-eat.es
 forums.just-eat.es
 fr.just-eat.es
-frontend.office.stag.clops.just-eat.es
 gadevenv2brinussantiago.just-eat.es
 gambrinswaggerssantiago.just-eat.es
 games.just-eat.es
 gassethabana-piscolabis.just-eat.es
 gate.just-eat.es
 gateway.just-eat.es
-go-portal.just-eat.es
-go-tracker.just-eat.es
 grc2go.just-eat.es
 groups.just-eat.es
 guia.just-eat.es
@@ -335,7 +331,6 @@ lbl-ion-650a.irz1-n1.just-eat.es
 lbl-ipsec-56865.dhcp.als.just-eat.es
 legacysalesitemmanagement.just-eat.es
 lgibbs-t17.dhcp.als.just-eat.es
-live-orders.just-eat.es
 live-reporting.just-eat.es
 live-reportingorders.just-eat.es
 lizhu-t19.dhcp.irz1-n1.just-eat.es
@@ -449,7 +444,6 @@ nacc-shopws.just-eat.es
 nanomexicano.just-eat.es
 nat-9-9.lsg-gcp.jgi.just-eat.es
 navimas-carpipizzablanes.just-eat.es
-navimas.just-eat.es
 navimascf-198-41-220-207.just-eat.es
 new.just-eat.es
 newguard.just-eat.es
@@ -474,8 +468,6 @@ o489.mundokebabparla-emails.just-eat.es
 oamthong.just-eat.es
 occ-0-616-630.1ridewith.just-eat.es
 oelbongustdeelbongusts.just-eat.es
-offline.just-eat.es
-one-web-staging.just-eat.es
 one-web-worker-test.just-eat.es
 order.just-eat.es
 orderandwin.just-eat.es
@@ -484,6 +476,7 @@ ordermanagementapi.just-eat.es
 ordermanagementweb.just-eat.es
 orderpadconfdonerkebabrealguratdonerkebabrealonweb.just-eat.es
 orderpadconfigurationweb.just-eat.es
+orders.just-eat.es
 out.e.just-eat.es
 out.just-eat.es
 outmail.e.just-eat.es
@@ -507,7 +500,6 @@ pizzapuertoasador.just-eat.es
 pizzeriamilanosant.just-eat.es
 pizzeriatarantella.just-eat.es
 pizzonpizza-fatima.just-eat.es
-play.just-eat.es
 po.e.just-eat.es
 po.just-eat.es
 poczta.e.just-eat.es

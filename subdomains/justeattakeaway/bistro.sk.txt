@@ -3,7 +3,6 @@ api.bistro.sk
 cmpv2.bistro.sk
 couriers-staging.bistro.sk
 couriers.bistro.sk
-dev.insidetrack.bistro.sk
 feature.bistro.sk
 frontend.office.stag.clops.bistro.sk
 insidetrack.bistro.sk
@@ -18,6 +17,5 @@ restaurants.bistro.sk
 shop.bistro.sk
 test-shop.bistro.sk
 vianocne-prekvapenia.bistro.sk
-web-components.bistro.sk
 www.bistro.sk
 www.m.bistro.sk

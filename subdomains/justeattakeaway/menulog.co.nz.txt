@@ -292,6 +292,7 @@ ablink.emails.menulog.co.nz
 abmail.epcmoduleinvoices.menulog.co.nz
 abmail.mailman.menulog.co.nz
 abmail.oprometheus-proddeprometheus-prods.menulog.co.nz
+abmail.orders.menulog.co.nz
 abmail.ordie-searchwebrs.menulog.co.nz
 abmail.qa-partnernoblog-bluemails.menulog.co.nz
 abmail.qa-techblog-blue-euwest1s.menulog.co.nz
@@ -303,7 +304,6 @@ academyofcreativecoaching.menulog.co.nz
 acc-all-accountapi-production.menulog.co.nz
 acc-ballybrickentakeaway.menulog.co.nz
 acc-shop.menulog.co.nz
-access.menulog.co.nz
 acd9f09f590c810d1eb065618121ddbd.safeframe.menulog.co.nz
 ad.menulog.co.nz
 adac47bb-3aa5-4e58-b531-7c9e41379189.sync.menulog.co.nz
@@ -328,7 +328,6 @@ auth.menulog.co.nz
 baas.menulog.co.nz
 baobabeu-staging.menulog.co.nz
 bbb9c1e1cf3e202f1c22376da3e7dc9d.menulog.co.nz
-beta.menulog.co.nz
 bfy-1.menulog.co.nz
 bookings.menulog.co.nz
 brandmanagement.menulog.co.nz
@@ -337,7 +336,6 @@ c1570ee4-1235-4bd7-b660-401e847bf55f.menulog.co.nz
 c61ce53c4a494be586c50fe8e5bafb9f.menulog.co.nz
 c8ff8b932182460d84f90b8698b83804.menulog.co.nz
 ca-restaurant-iapi.menulog.co.nz
-canvas.menulog.co.nz
 cardsapp.menulog.co.nz
 cf66d0a9f95a1cdd162c3a329b9bdae038b01d2d.menulog.co.nz
 cfpro--coinbasebbp-productionssalesitemmanagement.menulog.co.nz
@@ -358,7 +356,6 @@ coinbasegamecredittests.analytics.us-e.menulog.co.nz
 coinbasegamecredittests.outmailus-e.menulog.co.nz
 coinbasegamecredittests.us-e.courses.menulog.co.nz
 coinbasehttp.menulog.co.nz
-connect.menulog.co.nz
 corieroachefitness.menulog.co.nz
 couriers.menulog.co.nz
 cpsd3d12nbodygravity.menulog.co.nz
@@ -397,7 +394,6 @@ f55b8207a4900e42313d5593d1cd29a4.menulog.co.nz
 facebook-album-browser-master.menulog.co.nz
 fb4b7fc2c0315e6b9cf1f6704fb0eaff.menulog.co.nz
 feature.menulog.co.nz
-frontend.office.stag.clops.menulog.co.nz
 gai-automaticsessionmanagementtests.menulog.co.nz
 help.menulog.co.nz
 i-0fcadd64000504cbc.menulog.co.nz
@@ -436,9 +432,7 @@ o1518topplacementmanagement.menulog.co.nz
 obackenddebackends.menulog.co.nz
 offdaatatandoorirs.menulog.co.nz
 offers.menulog.co.nz
-offline.menulog.co.nz
 one-web-staging.menulog.co.nz
-one-web-worker-test.menulog.co.nz
 opaymentsapidepaymentsapis.menulog.co.nz
 or2020ers.menulog.co.nz
 ordermanagement.menulog.co.nz
@@ -464,10 +458,6 @@ pay.menulog.co.nz
 pays.menulog.co.nz
 pcmoduleinvoices.menulog.co.nz
 performance.menulog.co.nz
-play.menulog.co.nz
-print.menulog.co.nz
-printadmin.menulog.co.nz
-printapi.menulog.co.nz
 promoted-placement.menulog.co.nz
 ptorders.menulog.co.nz
 restaurantainsidetrackards.menulog.co.nz
@@ -498,4 +488,3 @@ vpn.menulog.co.nz
 w3nsw3detrack.menulog.co.nz
 www.menulog.co.nz
 www.offers.menulog.co.nz
-zeusexternal.menulog.co.nz

@@ -3,8 +3,6 @@ ablink.orders.just-eat.fr
 acc-shop.just-eat.fr
 api.just-eat.fr
 app.just-eat.fr
-autoconfig.staging.just-eat.fr
-autodiscover.staging.just-eat.fr
 awards.just-eat.fr
 beta.just-eat.fr
 click.email.just-eat.fr
@@ -25,10 +23,6 @@ img.newsletter.just-eat.fr
 m.just-eat.fr
 mailing.just-eat.fr
 msdn.com.frontend.office.prod.clops.just-eat.fr
-mta.email.just-eat.fr
-mta.update.just-eat.fr
-o1477.abmail.emails.just-eat.fr
-order.just-eat.fr
 orderandwin.just-eat.fr
 orders.just-eat.fr
 partner.just-eat.fr
@@ -40,7 +34,6 @@ red.newsletter.just-eat.fr
 restapi.just-eat.fr
 restaurant.just-eat.fr
 restaurants.just-eat.fr
-restaurateurs.just-eat.fr
 restoshop.just-eat.fr
 shop.just-eat.fr
 subfolder-proxy-awards.just-eat.fr
@@ -52,10 +45,6 @@ subfolder-proxy-takeawaypay.just-eat.fr
 test-shop.just-eat.fr
 tests-restaurants.just-eat.fr
 tv.just-eat.fr
-update.just-eat.fr
-view.email.just-eat.fr
 view.update.just-eat.fr
-webdisk.staging.just-eat.fr
 www.just-eat.fr
-www.staging.just-eat.fr
 www2.just-eat.fr
