@@ -281,7 +281,6 @@ kok2.lieferando.at
 ku1720.lieferando.at
 l.euw-staging-hhsvaccines.lieferando.at
 ldap-zerovirusescovideo.lieferando.at
-live-orders.lieferando.at
 liveherpesvaccine.files.lieferando.at
 local.lieferando.at
 locationpanelwithbugszerovirusescovideo.lieferando.at
@@ -421,7 +420,6 @@ sapporovaccineagentmail.lieferando.at
 sapporovaccinecourier-app.lieferando.at
 sc-enoc.lieferando.at
 schedule-mta.covid19.lieferando.at
-schmeckt-wie-sommer.lieferando.at
 scisyd01.scitek.lieferando.at
 scompanyorovaccine.lieferando.at
 scotland.antivirus-38b65.lieferando.at
@@ -450,7 +448,6 @@ smtp-virusa.lieferando.at
 smtp-viruseast-2-2.lieferando.at
 smtp.topupzone-com-pl.lieferando.at
 smtp2088.lieferando.at
-so-schmeckt-der-sommer.lieferando.at
 so.prod.avgantiviruscustcust38ersupportnumber.clops.lieferando.at
 software.lieferando.at
 sotravo-demenagement.fr.lieferando.at
@@ -471,13 +468,10 @@ subfolder-proxy-awards2021.lieferando.at
 subfolder-proxy-blog.lieferando.at
 subfolder-proxy-cloud-update-lieferando-at.lieferando.at
 subfolder-proxy-deals.lieferando.at
-subfolder-proxy-drivers.lieferando.at
 subfolder-proxy-foodwiki.lieferando.at
 subfolder-proxy-interactive-data-at.lieferando.at
 subfolder-proxy-loyaltyshop-at.lieferando.at
 subfolder-proxy-multisite-blog.lieferando.at
-subfolder-proxy-partnerblog.lieferando.at
-subfolder-proxy-signup.lieferando.at
 subfolder-proxy-takeawaypay-blog.lieferando.at
 subfolder-proxy-takeawaypay.lieferando.at
 suna.lieferando.at

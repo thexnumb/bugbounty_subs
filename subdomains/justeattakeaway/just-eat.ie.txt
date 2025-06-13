@@ -289,7 +289,6 @@ blog.just-eat.ie
 book.just-eat.ie
 brandmanagement.just-eat.ie
 cafemilano.just-eat.ie
-canvas.just-eat.ie
 catalogorientalexpress-dunlaoghaire.app.just-eat.ie
 cdn.just-eat.ie
 centre.just-eat.ie
@@ -324,7 +323,6 @@ delhidarbarone-web-worker-test.just-eat.ie.just-eat.ie
 deliveryareamanagemenadmin1.just-eat.ie
 demo5.just-eat.ie
 dera-indian.just-eat.ie
-dev.insidetrack.just-eat.ie
 device-50a70077-9bc5-4cb5-ada6-c9be6a531e90.just-eat.ie
 device2113354-50ee4bcc-local.just-eat.ie
 device2825071-c919fa74-local.just-eat.ie
@@ -351,9 +349,7 @@ ferike.just-eat.ie
 ff.just-eat.ie
 fourstar-galway.just-eat.ie
 frag-pro-shooter.en.just-eat.ie
-frontend.office.prod.clops.just-eat.ie
 frontend.office.prod.printapi.just-eat.ie.just-eat.ie
-frontend.office.stag.clops.just-eat.ie
 frontpagechef--coinbase-ctl.just-eat.ie
 gate.just-eat.ie
 giannis-dublin1.just-eat.ie
@@ -377,7 +373,6 @@ ie-consumerweb.just-eat.ie
 ie-deliveryserviceexternalapi.just-eat.ie
 ie-giftcardsdb-i18n-it-paymentsweb-iapi18uction.just-eat.ie
 ie-menu-iapartnermanagementi.just-eat.ie
-ie-partnermanagement.just-eat.ie
 ie-pcmoduleinvoices-i18n-production.just-eat.ie
 ie-performanceweb-i18n-production.just-eat.ie
 ie-performanceweb-i18n-productrincondelaempanadagallegan.just-eat.ie
@@ -386,7 +381,6 @@ ie-restauraassetst-iapi.just-eat.ie
 ie-zeusexternal.just-eat.ie
 imap.e.just-eat.ie
 img.news.just-eat.ie
-img.newsletter.just-eat.ie
 infolaadmintnimbella.just-eat.ie
 insidetrack.just-eat.ie
 insights.just-eat.ie
@@ -471,7 +465,6 @@ omotherindia.just-eat.ie
 one-web-staging.just-eat.ie
 one-web-worker-test.just-eat.ie
 optimus-hub.just-eat.ie
-orderandwin.just-eat.ie
 ordermanagement.just-eat.ie
 ordermanagementapi.just-eat.ie
 ordermanagementweb.just-eat.ie
@@ -488,14 +481,12 @@ partner-centre.just-eat.ie
 partner.just-eat.ie
 partnercentreaccountmanagement.just-eat.ie
 pastapesto.a.just-eat.ie
-pay.just-eat.ie
 paymentmanagement.just-eat.ie
 paymentmanagementppc9hc.just-eat.ie
 pdc-exc-01.ad.just-eat.ie
 performance.just-eat.ie
 performanmailadmine-internal.just-eat.ie
 pizzadog.just-eat.ie
-play.just-eat.ie
 pmo50.just-eat.ie
 po.just-eat.ie
 pop3.just-eat.ie
@@ -506,9 +497,6 @@ pre.apis-internal.webdisk.crm.just-eat.ie
 prfotoadmin.just-eat.ie
 primokilkenny.just-eat.ie
 primokilkenny.www.just-eat.ie
-print.just-eat.ie
-printadmin.just-eat.ie
-printapi.just-eat.ie
 pro--coinbase-consul.just-eat.ie
 pro--coinbase-ctl.external.just-eat.ie
 pro--coinbase-ctlpartnercentreperformancedb--coinbase-ctl.just-eat.ie
@@ -523,7 +511,6 @@ punjabhouse-dundalk.just-eat.ie
 punjabkebabhouse.just-eat.ie
 r12708130.sync.app.just-eat.ie
 red.news.just-eat.ie
-red.newsletter.just-eat.ie
 relay.e.just-eat.ie
 remixennis.just-eat.ie
 rest-st1.qa.webdisk.crm.just-eat.ie
@@ -560,7 +547,6 @@ test-shop.just-eat.ie
 thecharcoalgrill-cork.just-eat.ie
 top.1dc.just-eat.ie
 topplacement.just-eat.ie
-treatmas.just-eat.ie
 um.just-eat.ie
 vectorslab.com.just-eat.ie
 vinewexford.just-eat.ie

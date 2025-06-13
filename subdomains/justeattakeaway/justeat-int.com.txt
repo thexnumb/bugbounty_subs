@@ -1,13 +1,10 @@
 adyennotifications.justeat-int.com
-all-partneroffers.justeat-int.com
 all-pcmoduleitemavailability.justeat-int.com
 all-restaurantmenumanager.justeat-int.com
 api.justeat-int.com
 apo-i18n-production.justeat-int.com
 brandservice.justeat-int.com
 ca-restaurant-iapi.justeat-int.com
-crm.justeat-int.com
-dashboards.justeat-int.com
 deliveryconfigurationapi.justeat-int.com
 deliverymanagement.justeat-int.com
 es-pcmoduleitemavailability-i18n-production.justeat-int.com

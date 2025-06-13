@@ -10,6 +10,7 @@ dewnationhq.mountaindew.com
 dewstore.mountaindew.com
 dewstudios.mountaindew.com
 e.mountaindew.com
+em.mountaindew.com
 email.mountaindew.com
 facebook.mountaindew.com
 image.em.mountaindew.com
@@ -27,6 +28,7 @@ pitchblack.mountaindew.com
 policy.mountaindew.com
 recipes.mountaindew.com
 register.mountaindew.com
+rtm.md.mountaindew.com
 secure.mountaindew.com
 signup.mountaindew.com
 social.mountaindew.com
