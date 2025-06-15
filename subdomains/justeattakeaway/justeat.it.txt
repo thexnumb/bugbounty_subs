@@ -176,6 +176,7 @@
 2932e7101066101-cdb7cb3e-local.justeat.it
 2admin1716264-3dfbfb3b-local.justeat.it
 2dfc5uwsfrgx.s.justeat.it
+2fwww.justeat.it
 30251ta34.30251ta34.30251ta34.30251ta34.30251ta34.30251ta34.30251ta34.justeat.it
 3102ftest-lega3102ysalesitemmanagement.justeat.it
 31935820010-it-orcoinbaserpadlite-branprocoinbase-avsmanagement.justeat.it
@@ -217,6 +218,7 @@ access.justeat.it
 accumops.justeat.it
 acp.justeat.it
 admin.justeat.it
+allbione.justeat.it
 antaris.justeat.it
 anticapizzeriaal22.justeat.it
 antispam.e.justeat.it
@@ -240,6 +242,7 @@ barracuda.justeat.it
 baturkeyu.justeat.it
 bcbs.justeat.it
 ben.justeat.it
+beta.justeat.it
 bip.justeat.it
 blog.justeat.it
 blogs.justeat.it
@@ -326,6 +329,7 @@ h3.justeat.it
 h4.justeat.it
 h6.justeat.it
 h7.justeat.it
+handle.www.justeat.it
 haomai.justeat.it
 help.justeat.it
 hermes.e.justeat.it
@@ -354,8 +358,10 @@ infolab.justeat.it
 informatik.justeat.it
 insights.justeat.it
 inst.justeat.it
+int0.justeat.resetdata-0.0.justeat.it
 internet.e.justeat.it
 internet.justeat.it
+invite.www.justeat.it
 ipe.justeat.it
 ipminews.justeat.it
 it-brandmanagement.justeat.it
@@ -382,6 +388,7 @@ kiwi.justeat.it
 kk.justeat.it
 kokorosushibar.justeat.it
 ku1720.justeat.it
+kuriyasushichinathaiviet.justeat.it
 kursk.justeat.it
 kvm2.justeat.it
 kz.justeat.it
@@ -502,7 +509,11 @@ overslips.justeat.it
 ovps1555.justeat.it
 owa.justeat.it
 paelleriaalcampanile.justeat.it
+pages.email.justeat.it
 partner-centre.justeat.it
+partner-offers-module.justeat.it
+partner-restaurantclaims.justeat.it
+partner-stampcards.justeat.it
 partner-status.justeat.it
 partner.justeat.it
 partnerbb.justeat.it
@@ -512,6 +523,7 @@ passport.justeat.it
 pay.justeat.it
 pbrand.e.justeat.it
 pbrand.justeat.it
+pcmoduleinvoices.justeat.it
 pcs.justeat.it
 people.justeat.it
 performance.justeat.it
@@ -526,6 +538,7 @@ polloepatate.justeat.it
 pop.justeat.it
 pop3.e.justeat.it
 pop3.justeat.it
+portal.justeat.it
 post.e.justeat.it
 posta.e.justeat.it
 posta.justeat.it
@@ -626,6 +639,7 @@ vip9.justeat.it
 vmail.justeat.it
 vnet.justeat.it
 vps.justeat.it
+w.justeat.it
 web.justeat.it
 webcdn.justeat.it
 webmail.justeat.it
@@ -634,10 +648,13 @@ wenku.justeat.it
 widgetbuttons.justeat.it
 wikierror.justeat.it
 wpzoner.justeat.it
+ww.justeat.it
 ww5.justeat.it
+wws.justeat.it
 www.ablink.orders.justeat.it
 www.connect.justeat.it
 www.guida.www.justeat.it
+www.handle.www.justeat.it
 www.justeat.it
 www.kingkebab-genova.justeat.it
 www.mrjohnny.justeat.it
@@ -645,6 +662,7 @@ www.partner.justeat.it
 www.prestopizza.justeat.it
 www.ww.justeat.it
 www.www.justeat.it
+www1.justeat.it
 www2s.justeat.it
 www2u.justeat.it
 www4b.justeat.it
