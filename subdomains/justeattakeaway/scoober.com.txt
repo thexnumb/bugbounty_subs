@@ -1,4 +1,3 @@
-api-sf.dev.scoober.com
 api.dev.scoober.com
 api.scoober.com
 apps.scoober.com
@@ -25,7 +24,6 @@ demands-api.dev.scoober.com
 dev.scoober.com
 dispohub.scoober.com
 dispohub2-beta.scoober.com
-dispohub2.beta.scoober.com
 dispohub2.scoober.com
 disposition-api.scoober.com
 driver-location.scoober.com

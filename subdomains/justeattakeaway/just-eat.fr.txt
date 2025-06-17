@@ -34,9 +34,7 @@ mailing.just-eat.fr
 maintenance.just-eat.fr
 msdn.com.frontend.office.prod.clops.just-eat.fr
 mta.email.just-eat.fr
-mta.update.just-eat.fr
 noel-extraordinaire.just-eat.fr
-o1477.abmail.emails.just-eat.fr
 order.just-eat.fr
 orderandwin.just-eat.fr
 orders.just-eat.fr
@@ -53,7 +51,6 @@ restaurant.just-eat.fr
 restaurants.just-eat.fr
 restaurateurs.just-eat.fr
 restoshop.just-eat.fr
-rs-server.staging.just-eat.fr
 saveurs-de-lete.just-eat.fr
 shop.just-eat.fr
 staging.just-eat.fr
