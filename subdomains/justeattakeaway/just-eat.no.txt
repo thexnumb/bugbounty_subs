@@ -7,6 +7,7 @@ aroma-tandoori.just-eat.no
 assets.just-eat.no
 auth.just-eat.no
 authsmtp.just-eat.no
+autodiscover.just-eat.no
 bagel-and-juice.just-eat.no
 bambus.just-eat.no
 barracuda.just-eat.no
@@ -22,7 +23,6 @@ club-maccaroni.just-eat.no
 cm.just-eat.no
 comune.just-eat.no
 connect.just-eat.no
-couriers.just-eat.no
 currytoppen.just-eat.no
 daawat-indian.just-eat.no
 dalat.just-eat.no
@@ -30,11 +30,11 @@ deja-vu.just-eat.no
 dominos-pizza-bogerud.just-eat.no
 dominos-pizza-grunerlokka.just-eat.no
 e.just-eat.no
+endpoint.just-eat.no
 events.just-eat.no
 exchange.just-eat.no
 express-grill.just-eat.no
 expresspizza-molde.just-eat.no
-frontend.office.stag.clops.just-eat.no
 ftp.just-eat.no
 fusion-restaurant.just-eat.no
 galgeberg-sushi.just-eat.no
@@ -52,8 +52,6 @@ house-of-sushi.just-eat.no
 imap.just-eat.no
 imap1.just-eat.no
 imap2.just-eat.no
-img.news.just-eat.no
-img.newsletter.just-eat.no
 insights.just-eat.no
 japp_pizza.just-eat.no
 kababina-hamburgerbar.just-eat.no
@@ -63,7 +61,6 @@ ladepizzaoggrill.just-eat.no
 lahori-tandoori.just-eat.no
 lillestrom-pizza.just-eat.no
 link.just-eat.no
-live-orders.just-eat.no
 local.just-eat.no
 m.just-eat.no
 maestro-pizza.just-eat.no
@@ -123,6 +120,7 @@ ns2.just-eat.no
 nydalen-sushi.just-eat.no
 nye-papa-rosa.just-eat.no
 nyeoppsalpizza.just-eat.no
+o1517.abmail.emails.just-eat.no
 order.just-eat.no
 origin.just-eat.no
 out.just-eat.no
@@ -151,8 +149,6 @@ post.just-eat.no
 posta.just-eat.no
 postmaster.just-eat.no
 pronto-pizza.just-eat.no
-red.news.just-eat.no
-red.newsletter.just-eat.no
 relay.just-eat.no
 relay1.just-eat.no
 remote.just-eat.no
@@ -181,12 +177,8 @@ spam.just-eat.no
 srv.just-eat.no
 staging.just-eat.no
 strommen-pizza-og-grill.just-eat.no
-subfolder-proxy-deals.just-eat.no
-subfolder-proxy-drivers.just-eat.no
-subfolder-proxy-foodwiki.just-eat.no
 sushiexpressen.just-eat.no
 sushiogthai.just-eat.no
-tags.just-eat.no
 taste-home.just-eat.no
 tasty-food.just-eat.no
 tesrest.just-eat.no
@@ -194,6 +186,7 @@ test-shop.just-eat.no
 toro-toro-loren.just-eat.no
 toro-toro.just-eat.no
 travbanen-pizza.just-eat.no
+update.just-eat.no
 village-pizza.just-eat.no
 vitis-vinifera.just-eat.no
 vmail.just-eat.no
