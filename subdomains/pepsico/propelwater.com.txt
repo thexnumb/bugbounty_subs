@@ -1,3 +1,6 @@
+cr.propelwater.com
 origin-www.propelwater.com
+shop.propelwater.com
 stage.propelwater.com
 www.propelwater.com
+www.shop.propelwater.com

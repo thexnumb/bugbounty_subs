@@ -147,6 +147,7 @@ barracuda.just-eat.es
 beaconimages-prod.just-eat.es
 belisa.just-eat.es
 beta.just-eat.es
+blog.just-eat.es
 blue-cobra-po2s.just-eat.es
 bostonpizza.just-eat.es
 box.e.just-eat.es

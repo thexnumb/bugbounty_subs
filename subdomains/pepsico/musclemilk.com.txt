@@ -1,1 +1,5 @@
+policy.musclemilk.com
+shop.musclemilk.com
+static.musclemilk.com
 www.musclemilk.com
+www.shop.musclemilk.com

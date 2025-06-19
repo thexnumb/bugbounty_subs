@@ -1,2 +1,6 @@
+doc.pureleaf.com
+dtm.pureleaf.com
+foodservice.pureleaf.com
 offers.pureleaf.com
+smartlabel.pureleaf.com
 www.pureleaf.com

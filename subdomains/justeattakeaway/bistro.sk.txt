@@ -1,6 +1,11 @@
-dev.insidetrack.bistro.sk
-insidetrack.bistro.sk
+acc-shop.bistro.sk
+api.bistro.sk
+cmpv2.bistro.sk
+feature.bistro.sk
 link.bistro.sk
 m.bistro.sk
-web-components.bistro.sk
+play.bistro.sk
+test-shop.bistro.sk
+vianocne-prekvapenia.bistro.sk
 www.bistro.sk
+www.m.bistro.sk
