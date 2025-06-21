@@ -1,2 +1,1 @@
-view.em.fl-vr.com
 www.fl-vr.com

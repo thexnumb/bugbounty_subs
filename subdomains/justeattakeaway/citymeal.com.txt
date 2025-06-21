@@ -4,14 +4,16 @@ at.citymeal.com
 aux.citymeal.com
 be-cdn.citymeal.com
 be.citymeal.com
+beta.citymeal.com
 bg-cdn.citymeal.com
 bg.citymeal.com
-blogbeta.citymeal.com
 ch-cdn.citymeal.com
 ch.citymeal.com
 de-cdn.citymeal.com
 de.citymeal.com
 debug.citymeal.com
+dk.citymeal.com
+fallbackapps.citymeal.com
 fastly.citymeal.com
 fr.citymeal.com
 gb.citymeal.com
@@ -19,6 +21,8 @@ lu-cdn.citymeal.com
 lu.citymeal.com
 nl-cdn.citymeal.com
 nl.citymeal.com
+no-cdn.citymeal.com
+no.citymeal.com
 paypalec.citymeal.com
 pl-cdn.citymeal.com
 pl.citymeal.com

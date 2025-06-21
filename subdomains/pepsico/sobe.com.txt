@@ -1,6 +1,5 @@
 account.sobe.com
 agent.sobe.com
-assets.sobe.com
 createpdf.sobe.com
 e.sobe.com
 email.sobe.com
@@ -21,6 +20,5 @@ try.sobe.com
 ww.sobe.com
 www.franklinnational.sobe.com
 www.ktu.sobe.com
-www.shop.sobe.com
-www.signup.sobe.com
 www.sobe.com
+www2.sobe.com
