@@ -7,6 +7,7 @@ design.yourdelivery.de
 devel.yourdelivery.de
 devel2.yourdelivery.de
 fbny.yourdelivery.de
+fbvoucher.yourdelivery.de
 gewinnspiel.yourdelivery.de
 image.yourdelivery.de
 landing.yourdelivery.de
@@ -18,12 +19,13 @@ project.yourdelivery.de
 restaurant.yourdelivery.de
 service.yourdelivery.de
 staging.yourdelivery.de
-static.yourdelivery.de
 stats.yourdelivery.de
 support.yourdelivery.de
 tickets.yourdelivery.de
 track.yourdelivery.de
+vpnsec.yourdelivery.de
 webmail.yourdelivery.de
 white.yourdelivery.de
 www.devel.yourdelivery.de
+www.vpnsec.yourdelivery.de
 www.yourdelivery.de
