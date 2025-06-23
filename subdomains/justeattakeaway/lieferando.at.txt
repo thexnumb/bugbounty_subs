@@ -22,6 +22,7 @@ coronanachrichten-uncoverfacade.lieferando.at
 coronanachrichten.locationpanelwithbugs.lieferando.at
 coronanachrichten.toto.lieferando.at
 coronanachrichtensubmited.lieferando.at
+couriers.lieferando.at
 covidhhsvaccines96bonappetit.lieferando.at
 cw-api.prod.clops.lieferando.at
 deja-vu-zerovirusescovideo-vaccine.lieferando.at
@@ -38,6 +39,7 @@ kemp.lieferando.at
 kepek-totalav-essential-antivirus.en.shopcovidien.lieferando.at
 ketens-mta.covid19.lieferando.at
 ldap-zerovirusescovideo.lieferando.at
+live-orders.lieferando.at
 locationpanelwithbugszerovirusescovideo.lieferando.at
 loyaltyshop.lieferando.at
 mta-6lowwwavira.covid19.lieferando.at
@@ -51,6 +53,7 @@ mta.covid19.karls.lieferando.at
 mta.covid19.uncovermsf.lieferando.at
 mta.covid19bella-venezia.lieferando.at
 mtauncover-pixel.covid19.lieferando.at
+newsletter.lieferando.at
 oauth.12covidien.lieferando.at
 orderandwin.lieferando.at
 orderarchivezerovirusescovideo-vaccine.lieferando.at
@@ -58,6 +61,7 @@ orders.lieferando.at
 origin-cw.lieferando.at
 origin.lieferando.at
 pay.lieferando.at
+play.lieferando.at
 pull-posapi-affordablevaccines.lieferando.at
 pull-posapi-sapporovaccine.lieferando.at
 pull-posapiaffordablevaccines.lieferando.at
@@ -69,10 +73,12 @@ restaurant.lieferando.at
 restaurants.lieferando.at
 s4orovaccine.lieferando.at
 schedule-mta.covid19.lieferando.at
+schmeckt-wie-sommer.lieferando.at
 secretapporovaccine.lieferando.at
 shop.lieferando.at
 shopcovidien-ssecretorovaccine.lieferando.at
 smtp-virus.lieferando.at
+so-schmeckt-der-sommer.lieferando.at
 staging.lieferando.at
 starpizzabar-covidhhsvaccines96.lieferando.at
 static.lieferando.at
@@ -82,10 +88,13 @@ subfolder-proxy-awards2021.lieferando.at
 subfolder-proxy-blog.lieferando.at
 subfolder-proxy-cloud-update-lieferando-at.lieferando.at
 subfolder-proxy-deals.lieferando.at
+subfolder-proxy-drivers.lieferando.at
 subfolder-proxy-foodwiki.lieferando.at
 subfolder-proxy-interactive-data-at.lieferando.at
 subfolder-proxy-loyaltyshop-at.lieferando.at
 subfolder-proxy-multisite-blog.lieferando.at
+subfolder-proxy-partnerblog.lieferando.at
+subfolder-proxy-signup.lieferando.at
 subfolder-proxy-takeawaypay-blog.lieferando.at
 subfolder-proxy-takeawaypay.lieferando.at
 tags.lieferando.at

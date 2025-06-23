@@ -1,4 +1,5 @@
 banane.yourdelivery.de
+billing.yourdelivery.de
 blog.yourdelivery.de
 blog2.yourdelivery.de
 cdn.yourdelivery.de
@@ -19,8 +20,10 @@ project.yourdelivery.de
 restaurant.yourdelivery.de
 service.yourdelivery.de
 staging.yourdelivery.de
+static.yourdelivery.de
 stats.yourdelivery.de
 support.yourdelivery.de
+ticker.yourdelivery.de
 tickets.yourdelivery.de
 track.yourdelivery.de
 vpnsec.yourdelivery.de
