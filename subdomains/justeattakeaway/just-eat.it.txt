@@ -1,7 +1,5 @@
 acc-shop.just-eat.it
-blog.just-eat.it
 click.email.just-eat.it
-guida.just-eat.it
 image.email.just-eat.it
 img.info.just-eat.it
 img.news.just-eat.it

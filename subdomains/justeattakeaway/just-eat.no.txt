@@ -26,7 +26,6 @@ e.just-eat.no
 events.just-eat.no
 express-grill.just-eat.no
 expresspizza-molde.just-eat.no
-frontend.office.prod.clops.just-eat.no
 frontend.office.stag.clops.just-eat.no
 fusion-restaurant.just-eat.no
 galgeberg-sushi.just-eat.no
@@ -58,8 +57,6 @@ norma-grill.just-eat.no
 nydalen-sushi.just-eat.no
 nye-papa-rosa.just-eat.no
 nyeoppsalpizza.just-eat.no
-o1517.abmail.emails.just-eat.no
-o1809.abmail.orders.just-eat.no
 paradis-pizza.just-eat.no
 partner.just-eat.no
 peking-garden.just-eat.no

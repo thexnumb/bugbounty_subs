@@ -19,7 +19,6 @@ events.just-eat.fr
 feature.just-eat.fr
 frontend.office.prod.clops.just-eat.fr
 frontend.office.stag.clops.just-eat.fr
-image.email.just-eat.fr
 img.info.just-eat.fr
 img.news.just-eat.fr
 img.newsletter.just-eat.fr
@@ -45,7 +44,6 @@ restaurant.just-eat.fr
 restaurants.just-eat.fr
 restaurateurs.just-eat.fr
 restoshop.just-eat.fr
-rs-server.staging.just-eat.fr
 saveurs-de-lete.just-eat.fr
 shop.just-eat.fr
 staging.just-eat.fr
@@ -59,7 +57,6 @@ tags.just-eat.fr
 test-shop.just-eat.fr
 tests-restaurants.just-eat.fr
 tv.just-eat.fr
-update.just-eat.fr
 view.update.just-eat.fr
 wiki.just-eat.fr
 www.just-eat.fr

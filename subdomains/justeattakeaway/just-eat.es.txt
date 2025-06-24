@@ -10,6 +10,7 @@ b29c5b4b7664630c507f0554eaa60328.just-eat.es
 beaconimages-prod.just-eat.es
 belisa.just-eat.es
 beta.just-eat.es
+blog.just-eat.es
 bostonpizza.just-eat.es
 brandmanagement.just-eat.es
 cftest-customermanagement.just-eat.es
@@ -91,5 +92,7 @@ tonipizzeriatorrent.just-eat.es
 topplacement.just-eat.es
 update.just-eat.es
 www.almakebab.just-eat.es
+www.chilangos.just-eat.es
+www.everest.just-eat.es
 www.just-eat.es
 zipcodeadmin.just-eat.es
