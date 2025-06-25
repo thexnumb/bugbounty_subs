@@ -11,6 +11,7 @@ connect.menulog.co.nz
 couriers.menulog.co.nz
 customermanagement.menulog.co.nz
 drivers.menulog.co.nz
+eatoutnz.menulog.co.nz
 emails.menulog.co.nz
 events.menulog.co.nz
 feature.menulog.co.nz
