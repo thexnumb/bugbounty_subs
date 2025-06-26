@@ -6,6 +6,7 @@ beta.just-eat.no
 cloud.update.just-eat.no
 couriers.just-eat.no
 events.just-eat.no
+frontend.office.prod.clops.just-eat.no
 frontend.office.stag.clops.just-eat.no
 img.news.just-eat.no
 img.newsletter.just-eat.no
