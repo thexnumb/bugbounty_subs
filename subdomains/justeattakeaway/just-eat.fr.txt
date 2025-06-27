@@ -14,9 +14,12 @@ commandes.just-eat.fr
 corporate.just-eat.fr
 crl.microsoft.comwww.just-eat.fr
 email.just-eat.fr
+emails.just-eat.fr
 events.just-eat.fr
+feature.just-eat.fr
 frontend.office.prod.clops.just-eat.fr
 frontend.office.stag.clops.just-eat.fr
+image.email.just-eat.fr
 img.info.just-eat.fr
 img.news.just-eat.fr
 img.newsletter.just-eat.fr
@@ -26,6 +29,7 @@ m.just-eat.fr
 mailing.just-eat.fr
 maintenance.just-eat.fr
 msdn.com.frontend.office.prod.clops.just-eat.fr
+noel-extraordinaire.just-eat.fr
 orderandwin.just-eat.fr
 orders.just-eat.fr
 partenaires.just-eat.fr
@@ -41,6 +45,8 @@ restaurant.just-eat.fr
 restaurants.just-eat.fr
 restaurateurs.just-eat.fr
 restoshop.just-eat.fr
+rs-server.staging.just-eat.fr
+saveurs-de-lete.just-eat.fr
 shop.just-eat.fr
 staging.just-eat.fr
 subfolder-proxy-awards.just-eat.fr
@@ -49,9 +55,11 @@ subfolder-proxy-drivers.just-eat.fr
 subfolder-proxy-foodwiki.just-eat.fr
 subfolder-proxy-lb.just-eat.fr
 subfolder-proxy-takeawaypay.just-eat.fr
+tags.just-eat.fr
 test-shop.just-eat.fr
 tests-restaurants.just-eat.fr
 tv.just-eat.fr
+update.just-eat.fr
 view.update.just-eat.fr
 wiki.just-eat.fr
 www.just-eat.fr

@@ -1,6 +1,3 @@
-0000_geocoderfollowup.www-app-wdps-okta-inc-parents.i18n.api.just-eat.io
-9xfjnp5aybt76obm.www-app-wdps-okta-inc-parents.i18n.api.just-eat.io
-api.just-eat.io
 au-partnerapi.just-eat.io
 aus.api.just-eat.io
 dr-ie-partnerapi.just-eat.io
@@ -11,9 +8,7 @@ ie-partnerapi.just-eat.io
 it-partnerapi.just-eat.io
 nz-partnerapi.just-eat.io
 staging-au-partnerapi.just-eat.io
-staging-dk-partnerapi.just-eat.io
 staging-ie-partnerapi.just-eat.io
-staging-nz-partnerapi.just-eat.io
 staging-uk-partnerapi.just-eat.io
 uk-ops.just-eat.io
 uk-partnerapi.just-eat.io

@@ -52,6 +52,7 @@ nielsen.staging.takeaway.com
 nsadmin.takeaway.com
 orderandwin.takeaway.com
 orders.ordersbackend.feature.test.staging.takeaway.com
+orders.takeaway.com
 ordersbackend.feature.test.staging.takeaway.com
 out.takeaway.com
 posapi.takeaway.com
@@ -65,7 +66,9 @@ prod-vendor.api.takeaway.com
 prod-web2lead.api.takeaway.com
 pt.takeaway.com
 pull-posapi.takeaway.com
+restaurant-portal.takeaway.com
 restaurant.takeaway.com
+restaurants-old.takeaway.com
 restaurants-staging.takeaway.com
 restaurants.takeaway.com
 sales.takeaway.com
@@ -77,6 +80,7 @@ snacks.takeaway.com
 staging.takeaway.com
 static-je-nl.takeaway.com
 static.takeaway.com
+tableau.datalab.takeaway.com
 takeaway-pay-creditcard.takeaway.com
 takeaway.dev.staging.takeaway.com
 tbb.takeaway.test7.staging.takeaway.com
@@ -92,10 +96,12 @@ test-web2lead.api.takeaway.com
 test.awards.takeaway.com
 test.staging.takeaway.com
 test7.staging.takeaway.com
+tms.takeaway.com
 top-rank.takeaway.com
 uk.takeaway.com
 update.takeaway.com
 version2.takeaway.com
+vpn.takeaway.com
 vpnclient.takeaway.com
 widgets.takeaway.com
 workday.takeaway.com
