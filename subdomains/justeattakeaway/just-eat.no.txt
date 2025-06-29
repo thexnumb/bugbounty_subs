@@ -3,6 +3,7 @@ ablink.orders.just-eat.no
 acc-shop.just-eat.no
 assets.just-eat.no
 beta.just-eat.no
+blog.just-eat.no
 cloud.update.just-eat.no
 couriers.just-eat.no
 events.just-eat.no

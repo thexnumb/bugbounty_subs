@@ -1,9 +1,15 @@
 acc-shop.just-eat.it
+apaypay-mirror01.just-eat.it
 click.email.just-eat.it
 image.email.just-eat.it
 img.info.just-eat.it
 img.news.just-eat.it
 img.newsletter.just-eat.it
+it-geodpaytpaypaypi-migrpaytion.just-eat.it
+it-paypaymententsweb-paymentigrationn-production.just-eat.it
+mta1.newsletter.just-eat.it
+mta5.news.just-eat.it
+news.just-eat.it
 red.info.just-eat.it
 red.news.just-eat.it
 red.newsletter.just-eat.it

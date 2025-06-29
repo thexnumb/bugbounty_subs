@@ -9,6 +9,7 @@ it-partnerapi.just-eat.io
 nz-partnerapi.just-eat.io
 staging-au-partnerapi.just-eat.io
 staging-ie-partnerapi.just-eat.io
+staging-nz-partnerapi.just-eat.io
 staging-uk-partnerapi.just-eat.io
 uk-ops.just-eat.io
 uk-partnerapi.just-eat.io

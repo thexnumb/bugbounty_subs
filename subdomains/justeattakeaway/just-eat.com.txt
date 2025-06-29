@@ -29,7 +29,6 @@ eawaymusic.www.just-eat.com
 elb-sitebuilder.just-eat.com
 elkebab-com.just-eat.com
 email.just-eat.com
-es-facebook.marketing.just-eat.com
 es.marketing.just-eat.com
 forum.just-eat.com
 fozzie.just-eat.com
@@ -203,7 +202,6 @@ transmit.just-eat.com
 uat-cms-green.cms-nonprod.just-eat.com
 uat-dk-stage.cms-nonprod.just-eat.com
 uat-partnerdk-stage.cms-nonprod.just-eat.com
-ubm.is.just-eat.com
 uk-crm-media.marketing.just-eat.com
 uswww.just-eat.com
 ux.just-eat.com
@@ -218,7 +216,6 @@ webui.cms.uat-ca-blue-australiaeast.just-eat.com
 wiki.just-eat.com
 wordpress.just-eat.com
 ww.just-eat.com
-www.betalingen.just-eat.com
 www.jam.just-eat.com
 www.just-eat.com
 www.new-dragon.just-eat.com

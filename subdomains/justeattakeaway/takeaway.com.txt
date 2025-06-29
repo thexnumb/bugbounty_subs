@@ -14,7 +14,6 @@ acc-tms.api.takeaway.com
 acc-vendor.api.takeaway.com
 acc-web2lead.api.takeaway.com
 acc.awards.takeaway.com
-account.takeaway.com
 accountactivationtemporaryfix.citymealcom.system.feature.test.staging.takeaway.com
 actions-php-combined.tbb.takeaway.feature.test.staging.takeaway.com
 add-access_simcard-information.utils.takeaway.feature.test.staging.takeaway.com
@@ -101,12 +100,7 @@ auth.takeaway.com
 autocomplete.takeaway.com
 awards.takeaway.com
 aws-graylog.takeaway.com
-aws-mx-a.takeaway.com
-aws-mx-b.takeaway.com
 aws-mx-c.takeaway.com
-aws-mx-d.takeaway.com
-aws-mx-e.takeaway.com
-aws-mx-f.takeaway.com
 backend.feature.test.staging.takeaway.com
 bao-bugfixes-2018-06-05.tbb.takeaway.feature.test.staging.takeaway.com
 basket-deliverycosts.minisites.takeaway.feature.test.staging.takeaway.com
@@ -914,15 +908,9 @@ foodtracker.takeaway.com
 forntend.office.stag.clops.takeaway.com
 fr.takeaway.com
 fr2.takeaway.com
-fra-consul.takeaway.com
 fra-consul.tkwy.services.takeaway.com
-fra-mx.takeaway.com
-fra-pull-posapi.takeaway.com
 fra-restaurant-api.takeaway.com
 fra-restaurant-api.tkwy.services.takeaway.com
-fra-restaurant-portal.takeaway.com
-fra-tbbdatamoduledb.takeaway.com
-fra-top-rank.takeaway.com
 frontend.office.prod.clops.takeaway.com
 frontend.office.stag.clops.takeaway.com
 gdpr_checkedfix.version2.takeaway.feature.test.staging.takeaway.com
@@ -956,7 +944,6 @@ inbox_fix-message-date.tbb.takeaway.feature.test.staging.takeaway.com
 inbox_smart-date-for-messages.tbb.takeaway.feature.test.staging.takeaway.com
 increase_memory_limit_invoice_pdf.tbb.takeaway.feature.test.staging.takeaway.com
 int.services.takeaway.com
-int.takeaway.com
 integratedevelop.staging.takeaway.com
 integratedevelop.version2.takeaway.feature.test.staging.takeaway.com
 intranet.takeaway.com
@@ -977,7 +964,6 @@ keycloak-test.authorization.dev.staging.takeaway.com
 keycloak-test.authorization.test.staging.takeaway.com
 l.news.takeaway.com
 legal-text-invoice-ro.tbb.takeaway.feature.test.staging.takeaway.com
-lfmx.takeaway.com
 librenms.takeaway.com
 lieferserviceat.out.takeaway.com
 lieferservicech.out.takeaway.com
@@ -987,7 +973,6 @@ live-orders-api.takeaway.com
 live-orders-socket.takeaway.com
 live-orders.staging.takeaway.com
 live-orders.takeaway.com
-lm1.takeaway.com
 locationpanelfixes.version2.takeaway.feature.test.staging.takeaway.com
 locationpanelpoland.version2.takeaway.feature.test.staging.takeaway.com
 locationpanelsmallfix.version2.takeaway.feature.test.staging.takeaway.com
@@ -1005,7 +990,6 @@ mail.takeaway.com
 mailfix.version2.takeaway.feature.test.staging.takeaway.com
 maillogofix.version2.takeaway.feature.test.staging.takeaway.com
 mailtemplatesglenn.version2.takeaway.feature.test.staging.takeaway.com
-mailtool.takeaway.com
 maps.takeaway.com
 marprod-pull-posapi.tkwy.services.takeaway.com
 marprod-restaurant-api.tkwy.services.takeaway.com
@@ -1017,7 +1001,6 @@ merchandisingshopapi.backend.test.staging.takeaway.com
 merge_stevo_develop-1.version2.takeaway.feature.test.staging.takeaway.com
 migration_bgmenu_oliviera.version2.takeaway.feature.test.staging.takeaway.com
 minisites-cloudflare.takeaway.com
-minisites.takeaway.com
 minisites.takeaway.dev.staging.takeaway.com
 minisites.takeaway.develop.test.staging.takeaway.com
 minisites.takeaway.feature.test.staging.takeaway.com
@@ -1030,14 +1013,6 @@ mobiel.takeaway.test.staging.takeaway.com
 movdiscountbug.version2.takeaway.feature.test.staging.takeaway.com
 mt2.takeaway.com
 mt3.takeaway.com
-mta.connect.takeaway.com
-mta.update.takeaway.com
-mta2.connect.takeaway.com
-mta3.connect.takeaway.com
-mta4.connect.takeaway.com
-mta5.connect.takeaway.com
-mta6.connect.takeaway.com
-mta7.connect.takeaway.com
 multi-polygon-support.tbb.takeaway.feature.test.staging.takeaway.com
 multi-polygon_scoober-logs.tbb.takeaway.feature.test.staging.takeaway.com
 mvp_1_customerservice.version2.takeaway.feature.test.staging.takeaway.com
@@ -1081,20 +1056,13 @@ nam-pull-posapi.tkwy.services.takeaway.com
 nam-restaurant-api.takeaway.com
 nam-restaurant-api.tkwy.services.takeaway.com
 nam-restaurant-portal-api.takeaway.com
-nam-restaurant-portal.takeaway.com
 nam-search-logs.tkwy.services.takeaway.com
-nam-top-rank.takeaway.com
 newsletter.takeaway.com
 nielsen.staging.takeaway.com
 nl.takeaway.com
 noresult.version2.takeaway.feature.test.staging.takeaway.com
 notification-update-bg.citymealcom.system.feature.test.staging.takeaway.com
-ns1.takeaway.com
-ns2.takeaway.com
-ns3.takeaway.com
 nsadmin.takeaway.com
-o475.ptr7918.jobalerts.takeaway.com
-o476.ptr7587.careeralerts.takeaway.com
 ocsp.takeaway.com
 officeassignment-tarek.version2.takeaway.feature.test.staging.takeaway.com
 optimiseuserpanel.version2.takeaway.feature.test.staging.takeaway.com
@@ -1183,7 +1151,6 @@ restauranthotfix.version2.takeaway.feature.test.staging.takeaway.com
 restaurantmappingapi.backend.dev.staging.takeaway.com
 restaurantmappingapi.backend.develop.test.staging.takeaway.com
 restaurantmappingapi.backend.test.staging.takeaway.com
-restaurants-old.takeaway.com
 restaurants-staging.takeaway.com
 restaurants.takeaway.com
 restaurants.takeaway.dev.staging.takeaway.com
@@ -1200,6 +1167,7 @@ search-api.prod.clops.takeaway.com
 search-api.takeaway.com
 search-logs.takeaway.com
 search-logs.tkwy.services.takeaway.com
+services.takeaway.com
 setcorrectcookiescheckout.version2.takeaway.feature.test.staging.takeaway.com
 setpostcodeallcountries.version2.takeaway.feature.test.staging.takeaway.com
 sf-getbyid-case-sensitive.restaurantmappingapi.backend.feature.test.staging.takeaway.com
@@ -1228,7 +1196,6 @@ static-je.takeaway.com
 static-test.takeaway.com
 static.takeaway.com
 static_basket_mov_unittest.version2.takeaway.feature.test.staging.takeaway.com
-stats.takeaway.com
 status.takeaway.com
 stevo_mvp1_amazing_best_restaurant_2018.version2.takeaway.feature.test.staging.takeaway.com
 stevo_mvp_1.version2.takeaway.feature.test.staging.takeaway.com
@@ -1241,7 +1208,6 @@ system.dev.staging.takeaway.com
 system.develop.test.staging.takeaway.com
 system.feature.test.staging.takeaway.com
 ta-scep.takeaway.com
-tableau.datalab.takeaway.com
 tags.takeaway.com
 takeaway-pay-creditcard.takeaway.com
 takeaway.dev.staging.takeaway.com
@@ -1261,7 +1227,6 @@ tcloudst.staging.takeaway.com
 tconnect.takeaway.com
 tconnect2.takeaway.com
 tconnectclient.takeaway.com
-tconnectqt-gateway.takeaway.com
 tconnectqt-v1.takeaway.com
 tconnectqt-v2.takeaway.com
 tconnectqt.takeaway.com
@@ -1314,7 +1279,6 @@ tkwy-rebranding-noresultsfix.version2.takeaway.feature.test.staging.takeaway.com
 tkwy-rebranding.version2.takeaway.feature.test.staging.takeaway.com
 tkwy-switzerland.version2.takeaway.feature.test.staging.takeaway.com
 tkwy.services.takeaway.com
-tkwymx.takeaway.com
 tmf.takeaway.com
 tms-laravel-test-fixes.tbb.takeaway.feature.test.staging.takeaway.com
 tms-laravel.tbb.takeaway.feature.test.staging.takeaway.com
