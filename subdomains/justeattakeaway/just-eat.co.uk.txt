@@ -184,6 +184,7 @@ moguls-kitchen-e3.just-eat.co.uk
 monett.just-eat.co.uk
 mr-haus.just-eat.co.uk
 mta.email.just-eat.co.uk
+mta.partners.just-eat.co.uk
 mta1.enews.just-eat.co.uk
 mta1.mail.just-eat.co.uk
 mta1.news.just-eat.co.uk
@@ -254,8 +255,6 @@ nibblespizza.just-eat.co.uk
 no10.just-eat.co.uk
 noor.just-eat.co.uk
 norwich-amigos.just-eat.co.uk
-o1811.abmail.orders.just-eat.co.uk
-o1909.abmail.emails.just-eat.co.uk
 o2136.abmail.orders.just-eat.co.uk
 oceanapizzaandkebabs.just-eat.co.uk
 oceancityfishbar.just-eat.co.uk
@@ -304,7 +303,9 @@ popadoms-ws9.www.just-eat.co.uk
 popeyes.just-eat.co.uk
 ppc.just-eat.co.uk
 pride-of-oriental.just-eat.co.uk
+print.just-eat.co.uk
 printadmin.just-eat.co.uk
+printapi.just-eat.co.uk
 promoted-placement.just-eat.co.uk
 raaz.just-eat.co.uk
 rahan-bl8.just-eat.co.uk
@@ -372,7 +373,6 @@ uk-partnercentreoffers.just-eat.co.uk
 uk-partnermanagement.just-eat.co.uk
 ukfriedchickenpizza.just-eat.co.uk
 up2.just-eat.co.uk
-update.just-eat.co.uk
 usa-chicken-newport.just-eat.co.uk
 usafriedchicken.just-eat.co.uk
 venezia-pizza.just-eat.co.uk

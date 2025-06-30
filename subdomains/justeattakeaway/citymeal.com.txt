@@ -6,7 +6,6 @@ be-cdn.citymeal.com
 be.citymeal.com
 bg-cdn.citymeal.com
 bg.citymeal.com
-blogbeta.citymeal.com
 ch-cdn.citymeal.com
 ch.citymeal.com
 de-cdn.citymeal.com
