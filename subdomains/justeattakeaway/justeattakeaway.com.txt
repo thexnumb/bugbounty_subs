@@ -31,6 +31,7 @@ mta6.connect.justeattakeaway.com
 mta7.connect.justeattakeaway.com
 mta9.connect.justeattakeaway.com
 newsroom.justeattakeaway.com
+nullcareers.justeattakeaway.com
 o875.ptr6046.jobalerts.justeattakeaway.com
 o876.ptr4355.careeralerts.justeattakeaway.com
 partner-hub.justeattakeaway.com

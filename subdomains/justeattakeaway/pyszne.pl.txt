@@ -338,7 +338,6 @@ autoconfig.host-www.stampantivirus.frontend.office.prod.clops.pyszne.pl
 autodesk-pixlr.it.test-antivirus.staging.pyszne.pl
 automototrading-avira-free-antivirus.m.test.staging.pyszne.pl
 automototrading.m.test.antivirus.staging.pyszne.pl
-aux.pyszne.pl
 aux.uncover.dev.pyszne.pl
 ava.dev.pyszne.pl
 avdanyunavi.x-avira-free-antivirus.test.staging.pyszne.pl
@@ -1328,7 +1327,6 @@ bucketuncover.dev.pyszne.pl
 builds.uncover.dev.pyszne.pl
 buncover.dev.pyszne.pl
 burlap.cs.test-avira-free-antivirus.staging.pyszne.pl
-business.pyszne.pl
 buyanessays.uncover.dev.pyszne.pl
 buyiq.dev.pyszne.pl
 buyuncover.dev.pyszne.pl
@@ -1676,7 +1674,6 @@ fcp.avira-free-antivirus-test.staging.pyszne.pl
 fds-www.antivirusstamp.frontend.office.prod.clops.pyszne.pl
 fe.uncover.dev.pyszne.pl
 feature-consolidation.uncover.dev.pyszne.pl
-feature.pyszne.pl
 feed-the-beast-avira-free-antivirus.fr.test.staging.pyszne.pl
 feng1zu10-soccer.x.testantivirus.staging.pyszne.pl
 fetukasa.staging.pyszne.pl
@@ -2060,7 +2057,6 @@ limewire.avira-free-antivirusen.test.staging.pyszne.pl
 lisa-apiuncover.staging.pyszne.pl
 lit01.uncover.dev.pyszne.pl
 littlerockadmin.www-avira-free-antivirus.stamp.frontend.office.prod.clops.pyszne.pl
-live-orders.pyszne.pl
 lms-pvs-uncover.dev.pyszne.pl
 lnwk.m-avira-free-antivirus.en.test.staging.pyszne.pl
 lnwk.mantivirus.en.test.staging.pyszne.pl
@@ -2250,7 +2246,6 @@ netstorageantivirus.www.stamp.frontend.office.prod.clops.pyszne.pl
 netstorageavira-free-antivirus.ar.test.staging.pyszne.pl
 news.ar.antivirus.test.staging.pyszne.pl
 news.hr.avira-free-antivirustest.staging.pyszne.pl
-newsletter.pyszne.pl
 nextgenuncover.dev.pyszne.pl
 nfb-apiuncover.dev.pyszne.pl
 nicovideo.dev.pyszne.pl
@@ -2278,7 +2273,6 @@ oe.dev.pyszne.pl
 office--service-pack.avira-free-antivirus.ar.test.staging.pyszne.pl
 office-2007-service-pack.it.antivirus.staging.pyszne.pl
 office-2007-service-packavira-free-antivirus.it.test.staging.pyszne.pl
-offline.pyszne.pl
 ogikubo-antivirus.a.test.staging.pyszne.pl
 ogiol-croconaw.manto-uncover.v3.dev.pyszne.pl
 ogiol-hl3.uncover.v3.dev.pyszne.pl
@@ -2308,10 +2302,8 @@ opencovol.dev.pyszne.pl
 opencovoltage.dev.pyszne.pl
 opencovoyage.dev.pyszne.pl
 opencovpn.dev.pyszne.pl
-orderandwin.pyszne.pl
 orders.uncover.dev.pyszne.pl
 oretokushuugakuryokouero-avira-free-antivirus.ar.test.staging.pyszne.pl
-origin-cw.pyszne.pl
 origin-m.staging.pyszne.pl
 origin.pyszne.pl
 origin.uncoverapp.staging.pyszne.pl
@@ -2610,7 +2602,6 @@ skuncover.iframe.dev.pyszne.pl
 slazebni-avira-free-antivirus.ar.test.staging.pyszne.pl
 slimdrivers.avira-free-antivirus.de.test.staging.pyszne.pl
 slimdrivers.de.test.avira-free-antivirus.staging.pyszne.pl
-smak-lata.pyszne.pl
 smartcs.antivirus.www.stamp.frontend.office.prod.clops.pyszne.pl
 smoke-uncover.staging.pyszne.pl
 snapchat-avira-free-antivirus.fr.test.staging.pyszne.pl
@@ -2672,7 +2663,6 @@ stage.dev.pyszne.pl
 stage2.dev.pyszne.pl
 stage2.uncover.dev.pyszne.pl
 stageww.stamp.antivirus.frontend.office.prod.clops.pyszne.pl
-staging.pyszne.pl
 staging1-avira-free-antivirus.stamp.frontend.office.prod.clops.pyszne.pl
 standard-avira-free-antivirus.ar.test.staging.pyszne.pl
 standard.staging.pyszne.pl
@@ -2718,14 +2708,12 @@ subfolder-proxy-cloud-update-pyszne-pl.pyszne.pl
 subfolder-proxy-deals.pyszne.pl
 subfolder-proxy-drivers.pyszne.pl
 subfolder-proxy-foodwiki.pyszne.pl
-subfolder-proxy-interactive-data-pl.pyszne.pl
 subfolder-proxy-interactive-data.pyszne.pl
 subfolder-proxy-lb.pyszne.pl
 subfolder-proxy-loyaltyshop-pl.pyszne.pl
 subfolder-proxy-multisite-blog.pyszne.pl
 subfolder-proxy-partnerblog.pyszne.pl
 subfolder-proxy-signup.pyszne.pl
-subfolder-proxy-takeawaypay-blog.pyszne.pl
 subfolder-proxy-takeawaypay.pyszne.pl
 subscript.dev.pyszne.pl
 subtracersuncover.staging.pyszne.pl
@@ -2745,7 +2733,6 @@ sys-uncover.dev.pyszne.pl
 t.antivirus.test.staging.pyszne.pl
 t3trunk.uncover.dev.pyszne.pl
 tableau-uncover.dev.pyszne.pl
-tags.pyszne.pl
 taipingyangmaoye.staging.pyszne.pl
 tally.dev.pyszne.pl
 tap.dev.pyszne.pl
@@ -2862,7 +2849,6 @@ testrar-to-zip-converter.staging.pyszne.pl
 testrecruitingapp.staging.pyszne.pl
 testrepairwww.staging.pyszne.pl
 testretribution.staging.pyszne.pl
-tests-restaurants.pyszne.pl
 tests3.staging.pyszne.pl
 testseason.staging.pyszne.pl
 testsklep-pyszne-www.staging.pyszne.pl

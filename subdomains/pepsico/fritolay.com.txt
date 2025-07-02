@@ -1,5 +1,6 @@
 click.em.fritolay.com
 fritomail.fritolay.com
+image.em.fritolay.com
 loyalty.fritolay.com
 origin-www.fritolay.com
 perfectstore.fritolay.com
