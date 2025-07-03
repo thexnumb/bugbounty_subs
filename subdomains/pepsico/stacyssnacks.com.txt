@@ -1,3 +1,2 @@
-autodiscover.stacyssnacks.com
 sip.stacyssnacks.com
 www.stacyssnacks.com
