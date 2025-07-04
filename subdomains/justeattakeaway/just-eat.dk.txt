@@ -68,6 +68,7 @@ asp.just-eat.dk
 aspendos.esbjerg.just-eat.dk
 aspendos.just-eat.dk
 aspendospizzabar.just-eat.dk
+assets.just-eat.dk
 assos.just-eat.dk
 auth.just-eat.dk
 autodiscover.just-eat.dk
@@ -101,6 +102,8 @@ belmondo.just-eat.dk
 bergamo.just-eat.dk
 beta.just-eat.dk
 betaadm.just-eat.dk
+betacode.just-eat.dk
+betaworker.just-eat.dk
 beverlyhillspizzahouse.just-eat.dk
 bigben.just-eat.dk
 bigbens.just-eat.dk
@@ -416,6 +419,7 @@ hawaii.just-eat.dk
 hedensted.pizza.just-eat.dk
 hellerup-pizza.just-eat.dk
 hellerup.just-eat.dk
+hello.just-eat.dk
 herefordvillage.just-eat.dk
 hermes.just-eat.dk
 heybagel.just-eat.dk
@@ -759,6 +763,8 @@ odense.just-eat.dk
 old.just-eat.dk
 olympiskecantina.just-eat.dk
 omos.just-eat.dk
+one-web-staging.just-eat.dk
+one-web-worker-test.just-eat.dk
 order.just-eat.dk
 orderandwin.just-eat.dk
 orders.just-eat.dk
@@ -800,6 +806,7 @@ partner-details.just-eat.dk
 partner-ordertime.just-eat.dk
 partner.just-eat.dk
 partnerblog.just-eat.dk
+partnerinfo.just-eat.dk
 partnerwww.just-eat.dk
 pasha.just-eat.dk
 pastaogsandwich.just-eat.dk
@@ -957,6 +964,7 @@ rex.just-eat.dk
 reys.just-eat.dk
 reys3540.just-eat.dk
 rhodospizza.just-eat.dk
+ridewith.just-eat.dk
 ringvejens.just-eat.dk
 risskovpizza.just-eat.dk
 risvangpizza.just-eat.dk
@@ -1204,24 +1212,12 @@ winnerburgerassens.just-eat.dk
 wokshop.just-eat.dk
 ww.just-eat.dk
 ww.nidasfood.just-eat.dk
-www.columbia.just-eat.dk
-www.ibos.just-eat.dk
 www.just-eat.dk
-www.kastetgrill.just-eat.dk
-www.king-chicken1663.just-eat.dk
-www.king-chicken2000.just-eat.dk
-www.lapronto.just-eat.dk
-www.rex.just-eat.dk
-www.royal-chicken2640.just-eat.dk
-www.royal-chicken3400.just-eat.dk
-www.sushi2500.just-eat.dk
-www.sushi2500hot.just-eat.dk
+www.restaurantsignup.just-eat.dk
 www.svendborg.just-eat.dk
 www.vemmelev-pizzaria.just-eat.dk
 www.vesterbro.just-eat.dk
-www.wagamama.just-eat.dk
 www.www.just-eat.dk
-www.zakarstakeaway.just-eat.dk
 www1.just-eat.dk
 xanthos.just-eat.dk
 xanthospizzaria.just-eat.dk
