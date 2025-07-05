@@ -303,7 +303,6 @@ kok2.lieferando.at
 ku1720.lieferando.at
 l.euw-staging-hhsvaccines.lieferando.at
 ldap-zerovirusescovideo.lieferando.at
-live-orders.lieferando.at
 liveherpesvaccine.files.lieferando.at
 local.lieferando.at
 locationpanelwithbugszerovirusescovideo.lieferando.at
