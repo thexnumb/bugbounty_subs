@@ -21,7 +21,6 @@
 20121018.lieferando.at
 21-test.lieferando.at
 21.lieferando.at
-252fwww.lieferando.at
 3.ppp.lieferando.at
 3675_add_plugin_page-mta.covid19.lieferando.at
 38b65.avira-free-antivirus.lieferando.at
@@ -303,6 +302,7 @@ kok2.lieferando.at
 ku1720.lieferando.at
 l.euw-staging-hhsvaccines.lieferando.at
 ldap-zerovirusescovideo.lieferando.at
+live-orders.lieferando.at
 liveherpesvaccine.files.lieferando.at
 local.lieferando.at
 locationpanelwithbugszerovirusescovideo.lieferando.at

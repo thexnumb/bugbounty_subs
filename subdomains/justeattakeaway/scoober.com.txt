@@ -76,7 +76,6 @@ job-list.scoober.com
 kpi-api.scoober.com
 logistics.scoober.com
 mail.scoober.com
-mca.scoober.com
 newsletter.scoober.com
 offering.scoober.com
 order-status-api.dev.scoober.com
@@ -121,5 +120,4 @@ tracker.scoober.com
 translator.dev.scoober.com
 translator.scoober.com
 wfm.scoober.com
-www.dev.scoober.com
 www.scoober.com
