@@ -379,7 +379,6 @@ blogs.menulog.com.au
 bocaiyulechengkaihusongbaicai.menulog.com.au
 bogouyazhouguanfangbaijiale.menulog.com.au
 bogouyulechengxinyuhaoma.menulog.com.au
-bookings.menulog.com.au
 bookmarks.menulog.com.au
 bookmein.menulog.com.au
 box.menulog.com.au
@@ -463,7 +462,6 @@ extern.menulog.com.au
 ezunyulecheng.menulog.com.au
 f6aca10cdd7847b188478eb6b82378b3.menulog.com.au
 fakesubdomain343434.menulog.com.au
-fastmatch.menulog.com.au
 feature.menulog.com.au
 feeds.menulog.com.au
 ff.menulog.com.au
@@ -513,7 +511,6 @@ images.menulog.com.au
 imap1.menulog.com.au
 imap2.menulog.com.au
 importd.menulog.com.au
-infiniterewards.menulog.com.au
 info.menulog.com.au
 infolab.menulog.com.au
 informatik.menulog.com.au
@@ -701,7 +698,6 @@ service-momp2.menulog.com.au
 service.menulog.com.au
 shop.menulog.com.au
 sites.menulog.com.au
-ski.menulog.com.au
 slovari.menulog.com.au
 slwangshangnaliyouhaowandelunpana51e2.menulog.com.au
 smtp01.menulog.com.au
@@ -769,20 +765,9 @@ webcam-help.menulog.com.au
 webmail.menulog.com.au
 webwombat.menulog.com.au
 wenku.menulog.com.au
-ww.menulog.com.au
 ww5.menulog.com.au
-www.affiliate.menulog.com.au
-www.connect.menulog.com.au
-www.couriers.menulog.com.au
-www.crm.menulog.com.au
-www.help.menulog.com.au
-www.images.menulog.com.au
-www.m.menulog.com.au
 www.menulog.com.au
-www.partner.menulog.com.au
-www.resources.menulog.com.au
 www.service-iphone.menulog.com.au
-www.ww.menulog.com.au
 www1.menulog.com.au
 www2s.menulog.com.au
 www2u.menulog.com.au
