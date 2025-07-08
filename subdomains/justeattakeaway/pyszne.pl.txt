@@ -261,10 +261,12 @@ klimatyavira-free-antivirus.wroclaw-www.stamp.frontend.office.prod.clops.pyszne.
 kmsww.antivirus.stamp.frontend.office.prod.clops.pyszne.pl
 kouichi541-com.www.stamp.antivirus.frontend.office.prod.clops.pyszne.pl
 kouichi541-com.www.stampantivirus.frontend.office.prod.clops.pyszne.pl
+lanxesscmg.staging.pyszne.pl
 lawadmin-www.avira-free-antivirus-stamp.frontend.office.prod.clops.pyszne.pl
 lawantivirus-www.stamp.frontend.office.prod.clops.pyszne.pl
 lepww.avira-free-antivirusstamp.frontend.office.prod.clops.pyszne.pl
 littlerockadmin.www-avira-free-antivirus.stamp.frontend.office.prod.clops.pyszne.pl
+live-orders.pyszne.pl
 lohas1.stamp-avira-free-antivirus.frontend.office.prod.clops.pyszne.pl
 loyaltyshop.pyszne.pl
 m.pyszne.pl
@@ -272,6 +274,7 @@ mail.wwwantivirus.www.frontend.office.prod.clops.pyszne.pl
 mail08avira-free-antivirus.na1.frontend.office.prod.clops.pyszne.pl
 meganetww.stamp-avira-free-antivirus.frontend.office.prod.clops.pyszne.pl
 microsoft-visio.en.avira-free-antivirus.test.staging.pyszne.plmmmgooo1.antivirus-www.stamp.frontend.office.prod.clops.pyszne.pl
+microsoft-visio.stamp.frontend.office.prod.clops.pyszne.pl
 mihye5575.avira-free-antiviruswww.stamp.frontend.office.prod.clops.pyszne.pl
 mmmgooo1.antivirus-www.stamp.frontend.office.prod.clops.pyszne.pl
 mmmgooo1.www-avira-free-antivirus.stamp.frontend.office.prod.clops.pyszne.pl
@@ -384,6 +387,7 @@ support-extwww.antivirus-stamp.frontend.office.prod.clops.pyszne.pl
 swkim0831.cust76.antiviruspr.dev.stamp.frontend.office.prod.clops.pyszne.pl
 tags.pyszne.pl
 tealium.pyszne.pl
+test-kouichi.staging.pyszne.pl
 test-sklep.pyszne.pl
 test.sklep.pyszne.pl
 test2007www.avira-free-antivirus.stamp.frontend.office.prod.clops.pyszne.pl

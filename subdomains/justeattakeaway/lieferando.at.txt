@@ -142,7 +142,6 @@ cos-us-ironman03.cos.lieferando.at
 courier-app-affordablevaccines.lieferando.at
 courier-appapporovaccine.lieferando.at
 courier-appyellowfevervaccine.lieferando.at
-couriers.lieferando.at
 covid19.clops.lieferando.at
 covid19.lieferando.at
 covid1996.lieferando.at
@@ -297,7 +296,6 @@ knowledge-base.en.lieferando.at
 ku1720.lieferando.at
 l.euw-staging-hhsvaccines.lieferando.at
 ldap-zerovirusescovideo.lieferando.at
-live-orders.lieferando.at
 liveherpesvaccine.files.lieferando.at
 local.lieferando.at
 locationpanelwithbugszerovirusescovideo.lieferando.at

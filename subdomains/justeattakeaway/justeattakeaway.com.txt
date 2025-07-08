@@ -24,6 +24,7 @@ enterpriseregistration.justeattakeaway.com
 features.api.justeattakeaway.com
 image.connect.justeattakeaway.com
 image.ridewith.justeattakeaway.com
+just-eat-takeaway-bonus-scheme.justeattakeaway.com
 kitchen.justeattakeaway.com
 mta.connect.justeattakeaway.com
 mta.hello.justeattakeaway.com
@@ -89,6 +90,7 @@ staging.justeattakeaway.com
 support.justeattakeaway.com
 talentlink.justeattakeaway.com
 tech.justeattakeaway.com
+techaway.justeattakeaway.com
 view.connect.justeattakeaway.com
 view.ridewith.justeattakeaway.com
 www.careers.justeattakeaway.com

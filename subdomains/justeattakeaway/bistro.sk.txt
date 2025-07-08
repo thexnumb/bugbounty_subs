@@ -8,6 +8,7 @@ frontend.office.stag.clops.bistro.sk
 img.bistro.sk
 insidetrack.bistro.sk
 link.bistro.sk
+live-orders.bistro.sk
 m.bistro.sk
 orderandwin.bistro.sk
 partner-hub.bistro.sk
