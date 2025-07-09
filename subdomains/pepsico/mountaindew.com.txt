@@ -10,6 +10,7 @@ image.em.mountaindew.com
 kickstart.mountaindew.com
 md.mountaindew.com
 northernlights.mountaindew.com
+origin-www.mountaindew.com
 p.mountaindew.com
 pitchblack.mountaindew.com
 policy.mountaindew.com
@@ -18,6 +19,8 @@ secure.mountaindew.com
 signup.mountaindew.com
 social.mountaindew.com
 squad.mountaindew.com
+stage.mountaindew.com
+staging.mountaindew.com
 store.mountaindew.com
 view.em.mountaindew.com
 www.account.mountaindew.com

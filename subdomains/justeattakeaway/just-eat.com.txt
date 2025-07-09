@@ -88,6 +88,7 @@ enterprise.just-eat.com
 enterpriseregistration.just-eat.com
 ernst-haft.just-eat.com
 ernst.just-eat.com
+es-facebook.marketing.just-eat.com
 es.marketing.just-eat.com
 forum.just-eat.com
 fozzie.just-eat.com
@@ -127,6 +128,7 @@ mbos.just-eat.com
 meet.just-eat.com
 meeting.just-eat.com
 micrositeadmin.just-eat.com
+micrositeadmin.webui.cms.just-eat.com
 mta.email.just-eat.com
 mta2.email.just-eat.com
 mta3.email.just-eat.com
@@ -328,6 +330,7 @@ uat-partnernz-green-euwest1.just-eat.com
 uat-partnernz-stage-green.just-eat.com
 uat-uk-blue.webui.cms-nonprod.just-eat.com
 uat-uk-stage.cms-nonprod.just-eat.com
+ubm.is.just-eat.com
 ued.just-eat.com
 uk-crm-media.marketing.just-eat.com
 uswww.just-eat.com
@@ -347,6 +350,8 @@ wordpress.just-eat.com
 wowza.just-eat.com
 wte.just-eat.com
 ww.just-eat.com
+www.betalingen.just-eat.com
 www.jam.just-eat.com
 www.just-eat.com
+www.meet.just-eat.com
 www.new-dragon.just-eat.com

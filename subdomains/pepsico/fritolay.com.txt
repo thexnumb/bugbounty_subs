@@ -1,11 +1,14 @@
 account.fritolay.com
 autodiscover.fritolay.com
 autodiscover.intl.fritolay.com
+cdn.drmadden.fritolay.com
 click.em.fritolay.com
+cr.fritolay.com
 domino2.fritolay.com
 fritomail.fritolay.com
 image.em.fritolay.com
 loyalty.fritolay.com
+northpole.fritolay.com
 origin-www.fritolay.com
 perfectstore.fritolay.com
 poi5.prod.azure.intra.fritolay.com

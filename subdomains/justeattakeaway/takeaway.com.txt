@@ -45,7 +45,12 @@ avt.out.takeaway.com
 aw.takeaway.com
 awards.takeaway.com
 aws-graylog.takeaway.com
+aws-mx-a.takeaway.com
+aws-mx-b.takeaway.com
+aws-mx-c.takeaway.com
 aws-mx-d.takeaway.com
+aws-mx-e.takeaway.com
+aws-mx-f.takeaway.com
 aws-pmm.takeaway.com
 aws-stagingpmm.takeaway.com
 b2b-registration-api.takeaway.com
@@ -191,6 +196,7 @@ it.takeaway.com
 items.takeaway.com
 its.tbb.takeaway.feature.test.staging.takeaway.com
 jaipur-cafe.fr.takeaway.com
+jamf-adcs.takeaway.com
 jenkins.takeaway.com
 jnyu.out.takeaway.com
 jobs.takeaway.com
@@ -228,11 +234,21 @@ menu-api.takeaway.com
 milano-pizza.takeaway.com
 minisites-cloudflare.takeaway.com
 minisites.takeaway.feature.test.staging.takeaway.com
+mta.connect.takeaway.com
+mta.update.takeaway.com
+mta2.connect.takeaway.com
+mta3.connect.takeaway.com
+mta4.connect.takeaway.com
+mta5.connect.takeaway.com
+mta6.connect.takeaway.com
+mta7.connect.takeaway.com
 mx.takeaway.com
 mysql-pdo-messages.tbb.tconnectdesktop2.takeaway.feature.test.staging.takeaway.com
 na.takeaway.com
+nam-consul.tkwy.services.takeaway.com
 nam-driver-update.takeaway.com
 nam-restaurant-api.takeaway.com
+nam-restaurant-api.tkwy.services.takeaway.com
 nam-restaurant-image-api.takeaway.com
 nam-restaurant-openclose.takeaway.com
 nam-restaurant-survey-api.takeaway.com
@@ -253,6 +269,8 @@ ns1.takeaway.com
 ns2.takeaway.com
 ns3.takeaway.com
 nsadmin.takeaway.com
+o475.ptr7918.jobalerts.takeaway.com
+o476.ptr7587.careeralerts.takeaway.com
 ocsp.takeaway.com
 okta-auth1.takeaway.com
 om.takeaway.com
@@ -446,6 +464,7 @@ thuisbezorgd.out.takeaway.com
 ticketing-api.takeaway.com
 tksre6412.takeaway.com
 tkwy.services.takeaway.com
+tkwymx.takeaway.com
 tmf.takeaway.com
 tms.takeaway.com
 tms1.takeaway.com
@@ -491,7 +510,6 @@ wpblog.takeaway.com
 ws.takeaway.com
 wstest.takeaway.com
 ww1.takeaway.com
-www.be.takeaway.com
 www.brand.takeaway.com
 www.careers.takeaway.com
 www.corporate.takeaway.com
@@ -500,7 +518,6 @@ www.partner.takeaway.com
 www.restaurant.takeaway.com
 www.scooberwebshop.takeaway.com
 www.takeaway.com
-www.uk.takeaway.com
 www.www.takeaway.com
 wwwvietnam.out.takeaway.com
 x.news.takeaway.com

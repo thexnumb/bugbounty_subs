@@ -551,6 +551,7 @@ www.connect.justeat.it
 www.justeat.it
 www.partner.justeat.it
 www.www.justeat.it
+www1.justeat.it
 www5nmapscrape.justeat.it
 www5page-campaign.justeat.it
 xyz2xyz.justeat.it
