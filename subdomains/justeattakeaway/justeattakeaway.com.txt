@@ -86,7 +86,6 @@ rest.api.justeattakeaway.com
 ridewith.justeattakeaway.com
 rmp.justeattakeaway.com
 sg.api.justeattakeaway.com
-shop.justeattakeaway.com
 staging.justeattakeaway.com
 support.justeattakeaway.com
 talentlink.justeattakeaway.com
@@ -94,6 +93,4 @@ tech.justeattakeaway.com
 techaway.justeattakeaway.com
 view.connect.justeattakeaway.com
 view.ridewith.justeattakeaway.com
-www.careers.justeattakeaway.com
 www.justeattakeaway.com
-www.tech.justeattakeaway.com

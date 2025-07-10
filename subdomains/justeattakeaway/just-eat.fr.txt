@@ -39,7 +39,6 @@ image.update.just-eat.fr
 img.info.just-eat.fr
 img.news.just-eat.fr
 img.newsletter.just-eat.fr
-live-orders.just-eat.fr
 load.just-eat.fr
 m.just-eat.fr
 mail.just-eat.fr
@@ -85,7 +84,6 @@ restaurants.just-eat.fr
 restaurateurs.just-eat.fr
 restoshop.just-eat.fr
 returns.ti.just-eat.fr
-rs-server.staging.just-eat.fr
 saveurs-de-lete.just-eat.fr
 shop.just-eat.fr
 staging.just-eat.fr
@@ -106,4 +104,5 @@ webdisk.email.just-eat.fr
 webdisk.staging.just-eat.fr
 wiki.just-eat.fr
 www.just-eat.fr
+www.staging.just-eat.fr
 www2.just-eat.fr

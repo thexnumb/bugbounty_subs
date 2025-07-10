@@ -5,6 +5,7 @@ assets.bistro.sk
 cmpv2.bistro.sk
 couriers-staging.bistro.sk
 couriers.bistro.sk
+dev.insidetrack.bistro.sk
 feature.bistro.sk
 frontend.office.stag.clops.bistro.sk
 img.bistro.sk
