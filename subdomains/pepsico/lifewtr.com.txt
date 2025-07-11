@@ -1,12 +1,16 @@
 account.lifewtr.com
 ar.lifewtr.com
 brandbook.lifewtr.com
+claims.lifewtr.com
 lifeunseen.lifewtr.com
 origin-www.lifewtr.com
 policy.lifewtr.com
 signup.lifewtr.com
 stage.lifewtr.com
+www.account.lifewtr.com
 www.ar.lifewtr.com
 www.brandbook.lifewtr.com
+www.claims.lifewtr.com
 www.lifeunseen.lifewtr.com
 www.lifewtr.com
+www.signup.lifewtr.com

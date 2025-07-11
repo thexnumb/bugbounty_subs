@@ -120,5 +120,4 @@ tracker.scoober.com
 translator.dev.scoober.com
 translator.scoober.com
 wfm.scoober.com
-www.dev.scoober.com
 www.scoober.com

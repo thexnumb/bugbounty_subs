@@ -236,6 +236,7 @@ ab156b156ess-hub.menulog.com.au
 ab5163a5-fab1-48a5-94aa-b9ed114de0d3.menulog.com.au
 abbeta177.menulog.com.au
 abc164ail.menulog.com.au
+abcdestudareaprender.menulog.com.au
 abdeliveryareamanagement-pail.menulog.com.au
 abevents-iphoneail1519.menulog.com.au
 abhefabocai05112.menulog.com.au
@@ -406,10 +407,13 @@ demo2.menulog.com.au
 descobrindovida.menulog.com.au
 dev-area.menulog.com.au
 dev-build-0105e7b383ff51b228aossoap.menulog.com.au
+dev.insidetrack.menulog.com.au
 dev.menulog.com.au
 device1159823-852aa705-local.menulog.com.au
 device1199958-ce86528a-local.menulog.com.au
 device1867259-a2d81a69-local.menulog.com.au
+device1997356-47597772.menulog.com.au
+device2348499-5d048315.menulog.com.au
 device2615030-09d6765a-local.menulog.com.au
 device2931186-867f1a9f.menulog.com.au
 device3042809-2c52f78e.menulog.com.au
@@ -436,6 +440,8 @@ elee-05e85fd6b55a58d29.menulog.com.au
 email.menulog.com.au
 emails.menulog.com.au
 en.menulog.com.au
+engagepre.menulog.com.au
+epartner-offerss.menulog.com.au
 es.menulog.com.au
 events.menulog.com.au
 exchange.menulog.com.au
@@ -443,6 +449,7 @@ extern.menulog.com.au
 ezunyulecheng.menulog.com.au
 f6aca10cdd7847b188478eb6b82378b3.menulog.com.au
 fakesubdomain343434.menulog.com.au
+fastmatch.menulog.com.au
 feature.menulog.com.au
 feeds.menulog.com.au
 ff.menulog.com.au
@@ -459,6 +466,8 @@ gate.menulog.com.au
 gateway.menulog.com.au
 gh.menulog.com.au
 global.menulog.com.au
+go-portal.menulog.com.au
+go-tracker.menulog.com.au
 grc2go.menulog.com.au
 groups.menulog.com.au
 h2.menulog.com.au
@@ -517,6 +526,7 @@ ku1720.menulog.com.au
 land.menulog.com.au
 lawnswoodfloral.menulog.com.au
 legacypaycodes-printadmin.menulog.com.au
+legacypaycoitemavailabilityes.menulog.com.au
 live-reporting.menulog.com.au
 local.menulog.com.au
 logser.menulog.com.au
@@ -551,7 +561,9 @@ mbox.menulog.com.au
 mc8b8jgl--c6d4trjfjs9j1wpckm.menulog.com.au
 members.menulog.com.au
 menulegacyeditor.menulog.com.au
+menulog.com.au
 menuserv.menulog.com.au
+metrics.menulog.com.au
 mobile.menulog.com.au
 momconfig.menulog.com.au
 mpk.menulog.com.au
@@ -663,6 +675,7 @@ rembeta185te-mbeta185mp-p-p.menulog.com.au
 remote.menulog.com.au
 rentahome.menulog.com.au
 restaurantawards.menulog.com.au
+restaurantcapabilities.menulog.com.au
 restaurantevents.menulog.com.au
 restaurantmanagement.menulog.com.au
 restaurantmenumanager.menulog.com.au
@@ -685,6 +698,8 @@ service-mom.menulog.com.au
 service-momp2.menulog.com.au
 service.menulog.com.au
 shop.menulog.com.au
+sites.menulog.com.au
+ski.menulog.com.au
 slovari.menulog.com.au
 slwangshangnaliyouhaowandelunpana51e2.menulog.com.au
 smtp01.menulog.com.au

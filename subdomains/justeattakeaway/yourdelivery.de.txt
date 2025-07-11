@@ -32,7 +32,6 @@ samson.yourdelivery.de
 service.yourdelivery.de
 stage.yourdelivery.de
 staging.yourdelivery.de
-static.yourdelivery.de
 stats.yourdelivery.de
 support.yourdelivery.de
 ticker.yourdelivery.de
@@ -43,5 +42,3 @@ vpnsec.yourdelivery.de
 warehouse.yourdelivery.de
 webmail.yourdelivery.de
 white.yourdelivery.de
-www.devel.yourdelivery.de
-www.yourdelivery.de

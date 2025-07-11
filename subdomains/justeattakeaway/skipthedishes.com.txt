@@ -8,7 +8,6 @@ alpha.skipthedishes.com
 alphav2.skipthedishes.com
 android-es.skipthedishes.com
 api-alpha.skipthedishes.com
-api-alphav2.skipthedishes.com
 api-cof-dev.skipthedishes.com
 api-cof.prodeu1.skipthedishes.com
 api-courier-alpha.skipthedishes.com
@@ -80,7 +79,6 @@ api-internal.prod.dr.skipthedishes.com
 api-internal.prodeu1.skipthedishes.com
 api-internal.skipthedishes.com
 api-internal.stageu1.skipthedishes.com
-api-internal.staging.skipthedishes.com
 api-prodaus.skipthedishes.com
 api-produk.skipthedishes.com
 api-resto-dev.proxy.skipthedishes.com
@@ -147,7 +145,6 @@ api-ws.prodeu1.skipthedishes.com
 api-ws.skipthedishes.com
 api-ws.stageu1.skipthedishes.com
 api-wte.dev.skipthedishes.com
-api.prodeu1.skipthedishes.com
 api.skipthedishes.com
 api.stageu1.skipthedishes.com
 app.alpha.internal.skipthedishes.com
@@ -166,7 +163,6 @@ app.staguk.internal.skipthedishes.com
 autourdelatable.dev.skipthedishes.com
 autourdelatable.skipthedishes.com
 blog.skipthedishes.com
-cdn.skipthedishes.com
 click.ridewith.skipthedishes.com
 click.updates.skipthedishes.com
 cloud.ridewith.skipthedishes.com
@@ -245,8 +241,6 @@ dev.secretsauce.skipthedishes.com
 dev.skipthedishes.com
 devie.skipthedishes.com
 devnz.skipthedishes.com
-devwiki.skipthedishes.com
-drive.skipthedishes.com
 email.restaurants.skipthedishes.com
 events.skipthedishes.com
 fac.skipthedishes.com
@@ -275,7 +269,6 @@ incaptest.alpha.skipthedishes.com
 ingredientsecret.skipthedishes.com
 insidetrack.skipthedishes.com
 iqserver.skipthedishes.com
-jenkins-2.skipthedishes.com
 jenkins-alpha.skipthedishes.com
 jenkins-prod.skipthedishes.com
 jobs.skipthedishes.com
@@ -294,7 +287,6 @@ live-ops.stagaus.skipthedishes.com
 live-ops.stageu1.skipthedishes.com
 live-ops.staging.skipthedishes.com
 live-ops.staguk.skipthedishes.com
-live.skipthedishes.com
 menu-builder-alpha.skipthedishes.com
 menu-builder-prod.skipthedishes.com
 menu-builder-produk.skipthedishes.com
@@ -320,7 +312,6 @@ ncc-staging.skipthedishes.com
 ncc-storybook-prod.skipthedishes.com
 ncc-storybook.prod.dr.skipthedishes.com
 ncc.prodeu1.skipthedishes.com
-nexus.skipthedishes.com
 o1165.em.info.skipthedishes.com
 o1167.em.couriers.skipthedishes.com
 o1168.em.offers.skipthedishes.com
@@ -361,7 +352,6 @@ prodnz.skipthedishes.com
 produk.skipthedishes.com
 promo.skipthedishes.com
 proxy.skipthedishes.com
-rabbitmq.skipthedishes.com
 react-courier-scheduling-produk.skipthedishes.com
 react-courier-scheduling-staging.skipthedishes.com
 react-courier-scheduling-staguk.skipthedishes.com
@@ -412,7 +402,6 @@ restaurantapp.skipthedishes.com
 restaurants-static-dev.skipthedishes.com
 restaurants-static-prodaus.skipthedishes.com
 restaurants-static-stagaus.skipthedishes.com
-restaurants-static-staging.skipthedishes.com
 restaurants-static.skipthedishes.com
 restaurants-static.stageu1.skipthedishes.com
 restaurants.alpha.skipthedishes.com
@@ -430,7 +419,6 @@ resto-portal-dev.skipthedishes.com
 resto-portal-staging.skipthedishes.com
 resto-portal.skipthedishes.com
 secretsauce.skipthedishes.com
-sentry-alpha.skipthedishes.com
 sentry.skipthedishes.com
 shop.skipthedishes.com
 simthedishes-alpha.skipthedishes.com
@@ -457,7 +445,6 @@ static.stagaus.skipthedishes.com
 static.staging.skipthedishes.com
 static.staguk.skipthedishes.com
 strapi.staging.skipthedishes.com
-support.skipthedishes.com
 surlaroute.skipthedishes.com
 tableau.skipthedishes.com
 test-live-ops.alpha.skipthedishes.com
@@ -476,7 +463,6 @@ test8-live-ops.alpha.skipthedishes.com
 test9-live-ops.alpha.skipthedishes.com
 updates.skipthedishes.com
 us-faq.skipthedishes.com
-uvpn.skipthedishes.com
 view.ridewith.skipthedishes.com
 view.updates.skipthedishes.com
 vote-fr.skipthedishes.com
@@ -485,6 +471,5 @@ vpn.skipthedishes.com
 vpnd.skipthedishes.com
 vpnew.skipthedishes.com
 web-es.skipthedishes.com
-wiki.skipthedishes.com
 win.skipthedishes.com
 www.skipthedishes.com
