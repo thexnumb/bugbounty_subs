@@ -26,10 +26,8 @@
 acc-shop.just-eat.it
 alwa.just-eat.it
 ame.just-eat.it
-apaypay-mirror01.just-eat.it
 appleid.apple.com.secureaccounts.pagelog-in.just-eat.it
 bjerk.just-eat.it
-blog.just-eat.it
 bta.just-eat.it
 ccffc.just-eat.it
 cesm.just-eat.it
@@ -77,8 +75,6 @@ info.just-eat.it
 informatik.just-eat.it
 interno.it-paymentsweb-api-migration-production.just-eat.it
 ip040.just-eat.it
-it-geodpaytpaypaypi-migrpaytion.just-eat.it
-it-paypaymententsweb-paymentigrationn-production.just-eat.it
 k666.just-eat.it
 kctxt.just-eat.it
 lcdt.just-eat.it

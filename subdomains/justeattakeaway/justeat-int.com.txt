@@ -1,6 +1,5 @@
 adyennotifications.justeat-int.com
 alerting-i18n-production.justeat-int.com
-all-partneroffers.justeat-int.com
 all-pcmoduleitemavailability.justeat-int.com
 all-restaurantmenumanager.justeat-int.com
 all-restaurantsignup.justeat-int.com

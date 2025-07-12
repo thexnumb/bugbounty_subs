@@ -1,7 +1,6 @@
 api.just-eat.io
 au-partnerapi.just-eat.io
 aus.api.just-eat.io
-dr-ie-orderpadapi.just-eat.io
 dr-ie-partnerapi.just-eat.io
 dr-uk-partnerapi.just-eat.io
 es-partnerapi.just-eat.io

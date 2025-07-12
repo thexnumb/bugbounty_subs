@@ -1,15 +1,11 @@
 252fwww.fritolay.com
-account.fritolay.com
 admin.fritolay.com
-autodiscover.fritolay.com
-autodiscover.intl.fritolay.com
 cdn.drmadden.fritolay.com
 cdn.fritolay.com
 click.em.fritolay.com
 cr.fritolay.com
 dcs.fritolay.com
 domino1.fritolay.com
-domino2.fritolay.com
 dreamsite.fritolay.com
 em.fritolay.com
 emplyee.fritolay.com
@@ -23,10 +19,8 @@ nobullying.fritolay.com
 northpole.fritolay.com
 origin-www.fritolay.com
 perfectstore.fritolay.com
-poi5.prod.azure.intra.fritolay.com
 pop.fritolay.com
 profiles.fritolay.com
-saralatest.fritolay.com
 sip.fritolay.com
 sip.intl.fritolay.com
 snackfinder.fritolay.com
