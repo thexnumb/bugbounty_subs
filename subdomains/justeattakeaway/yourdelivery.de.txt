@@ -42,6 +42,3 @@ vpnsec.yourdelivery.de
 warehouse.yourdelivery.de
 webmail.yourdelivery.de
 white.yourdelivery.de
-www.devel.yourdelivery.de
-www.vpnsec.yourdelivery.de
-www.yourdelivery.de
