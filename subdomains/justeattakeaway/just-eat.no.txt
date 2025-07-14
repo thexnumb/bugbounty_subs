@@ -71,7 +71,6 @@ img.news.just-eat.no
 img.newsletter.just-eat.no
 insights.just-eat.no
 internet.just-eat.no
-japp_pizza.just-eat.no
 kababina-hamburgerbar.just-eat.no
 kaffistova.just-eat.no
 karma-grill.just-eat.no
@@ -112,10 +111,8 @@ mailsrv.just-eat.no
 mailx.just-eat.no
 mamo-sushi.just-eat.no
 mbox.just-eat.no
-milano_pizzeria.just-eat.no
 mister-india.just-eat.no
 mix-karlsrud.just-eat.no
-mix_karlsrud.just-eat.no
 model.just-eat.no
 ms.just-eat.no
 ms1.just-eat.no

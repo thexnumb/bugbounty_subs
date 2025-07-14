@@ -28,6 +28,7 @@ airflow-bianda-flower.dev.just-data.io
 airflow-bianda-flower.preprod.just-data.io
 airflow-bianda.dev.just-data.io
 airflow-bianda.preprod.just-data.io
+airflow-cdp-egress.preprod.just-data.io
 airflow-coredwh.dev.just-data.io
 airflow-coredwh.just-data.io
 airflow-dataprotection-flower.dev.just-data.io
@@ -52,6 +53,7 @@ airflow-ingest-flower.qa.just-data.io
 airflow-ingest.dev.just-data.io
 airflow-ingest.just-data.io
 airflow-ingest.qa.just-data.io
+airflow-migration.just-data.io
 airflow-ml-flower.just-data.io
 airflow-ml.just-data.io
 airflow-morpheus-flower.dev.just-data.io
@@ -140,10 +142,12 @@ datagke-tests-nginx-old.infra-dev.just-data.io
 datagke-tests-old.infra-dev.just-data.io
 datagke-tests.dev.just-data.io
 datagke-tests.infra-dev.just-data.io
+datahub.just-data.io
 dataprotection-flower.dev.just-data.io
 dataprotection.dev.just-data.io
 dev.just-data.io
 fat.dev.just-data.io
+flink-operator.dev.just-data.io
 genesis.dev.just-data.io
 genesis.just-data.io
 genesis.preprod.just-data.io
@@ -153,6 +157,7 @@ gimme.infra-dev.just-data.io
 gimme.infra.just-data.io
 gke-ingress.infra-dev.just-data.io
 gke-ingress2.infra-dev.just-data.io
+global-marketing-landing-page.just-data.io
 grafana.dev.just-data.io
 grafana.infra-dev.just-data.io
 grafana.infra.just-data.io
@@ -174,7 +179,9 @@ jenkins.infra-dev.just-data.io
 jenkins.infra-dr.just-data.io
 jenkins.infra.just-data.io
 jet-ex-dashboard.dev.just-data.io
+jet-xp-backend.qa.just-data.io
 jet-xp-dashboard.dev.just-data.io
+jet-xp-dashboard.just-data.io
 just-cypher.infra-dev.just-data.io
 just-cypher.infra.just-data.io
 just-data.just-data.io
@@ -194,6 +201,7 @@ optimus-hub.just-data.io
 optimus-hub.qa.just-data.io
 orchestrator-api-gw-cloudrun-env.dev.just-data.io
 orchestrator-cloudrun-test.dev.just-data.io
+orchestrator-external-api.dev.just-data.io
 orchestrator-ui.dev.just-data.io
 orchestrator-ui.just-data.io
 orchestrator-ui.qa.just-data.io
@@ -220,6 +228,11 @@ osrm-dk-motorbike.dev.just-data.io
 osrm-dk-motorbike.just-data.io
 osrm-dk.dev.just-data.io
 osrm-dk.just-data.io
+osrm-eu1-bicycle.dev.just-data.io
+osrm-eu1-car.dev.just-data.io
+osrm-eu2-bicycle.dev.just-data.io
+osrm-eu2-car.just-data.io
+osrm-eu3-bicycle.just-data.io
 osrm-it-bicycle.dev.just-data.io
 osrm-it-bicycle.prod.just-data.io
 osrm-it.dev.just-data.io
@@ -278,4 +291,5 @@ sst-slack-monitoring.dev.just-data.io
 sst-slack-monitoring.just-data.io
 status.just-data.io
 test.ml-dev.just-data.io
+www.just-data.io
 www.prefect-dev.just-data.io

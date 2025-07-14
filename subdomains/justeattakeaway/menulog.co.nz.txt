@@ -279,6 +279,7 @@ ablink.emails.menulog.co.nz
 abmail.epcmoduleinvoices.menulog.co.nz
 abmail.mailman.menulog.co.nz
 abmail.oprometheus-proddeprometheus-prods.menulog.co.nz
+abmail.orders.menulog.co.nz
 abmail.ordie-searchwebrs.menulog.co.nz
 abmail.qa-partnernoblog-bluemails.menulog.co.nz
 abmail.qa-techblog-blue-euwest1s.menulog.co.nz
@@ -467,6 +468,7 @@ offdaatatandoorirs.menulog.co.nz
 offers.menulog.co.nz
 offline.menulog.co.nz
 ofytngo7k7jf9g16.menulog.co.nz
+one-web-staging.menulog.co.nz
 one-web-worker-test.menulog.co.nz
 opaymentsapidepaymentsapis.menulog.co.nz
 or2020ers.menulog.co.nz

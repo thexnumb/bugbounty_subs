@@ -457,6 +457,7 @@ driver.takeaway.com
 dutchworkscouncil.takeaway.com
 easylogin.takeaway.com
 eatch.out.takeaway.com
+ecovida-version2.takeaway.develop.test.staging.takeaway.com
 email.version2.takeaway.feature.test.staging.takeaway.com
 emails.recruitment.takeaway.com
 emails.restaurants.takeaway.com
@@ -1048,6 +1049,7 @@ merchandisingshopapi.backend.develop.test.staging.takeaway.com
 merchandisingshopapi.backend.test.staging.takeaway.com
 merge_stevo_develop-1.version2.takeaway.feature.test.staging.takeaway.com
 migration_bgmenu_oliviera.version2.takeaway.feature.test.staging.takeaway.com
+minisites-cloudflare.takeaway.com
 minisites.takeaway.com
 minisites.takeaway.dev.staging.takeaway.com
 minisites.takeaway.develop.test.staging.takeaway.com

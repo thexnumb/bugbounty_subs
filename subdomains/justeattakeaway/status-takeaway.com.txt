@@ -1,3 +1,2 @@
-_dc-mx.8d7bf9c31c3c.status-takeaway.com
 api.status-takeaway.com
 www.status-takeaway.com
