@@ -279,7 +279,6 @@ ablink.emails.menulog.co.nz
 abmail.epcmoduleinvoices.menulog.co.nz
 abmail.mailman.menulog.co.nz
 abmail.oprometheus-proddeprometheus-prods.menulog.co.nz
-abmail.orders.menulog.co.nz
 abmail.ordie-searchwebrs.menulog.co.nz
 abmail.qa-partnernoblog-bluemails.menulog.co.nz
 abmail.qa-techblog-blue-euwest1s.menulog.co.nz
@@ -329,6 +328,7 @@ bass-pro.menulog.co.nz
 bbb9c1e1cf3e202f1c22376da3e7dc9d.menulog.co.nz
 bc.menulog.co.nz
 bds.menulog.co.nz
+beaconingest-secure.menulog.co.nz
 beta.menulog.co.nz
 bfy-1.menulog.co.nz
 bitcapitalbikeshare.menulog.co.nz
@@ -366,7 +366,6 @@ coinbasehttp.menulog.co.nz
 confidocstorerator.menulog.co.nz
 connect.menulog.co.nz
 coordination-1.menulog.co.nz
-corieroachefitness.menulog.co.nz
 couriers.menulog.co.nz
 cp14.menulog.co.nz
 creativereviewui.menulog.co.nz
@@ -468,7 +467,6 @@ offdaatatandoorirs.menulog.co.nz
 offers.menulog.co.nz
 offline.menulog.co.nz
 ofytngo7k7jf9g16.menulog.co.nz
-one-web-staging.menulog.co.nz
 one-web-worker-test.menulog.co.nz
 opaymentsapidepaymentsapis.menulog.co.nz
 or2020ers.menulog.co.nz

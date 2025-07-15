@@ -112,6 +112,8 @@ aws-mx-a.takeaway.com
 aws-mx-b.takeaway.com
 aws-mx-c.takeaway.com
 aws-mx-d.takeaway.com
+aws-mx-e.takeaway.com
+aws-mx-f.takeaway.com
 aws-pmm.takeaway.com
 aws-stagingpmm.takeaway.com
 b2b-registration-api.takeaway.com
@@ -1064,7 +1066,13 @@ movdiscountbug.version2.takeaway.feature.test.staging.takeaway.com
 mt2.takeaway.com
 mt3.takeaway.com
 mta.connect.takeaway.com
+mta.update.takeaway.com
 mta2.connect.takeaway.com
+mta3.connect.takeaway.com
+mta4.connect.takeaway.com
+mta5.connect.takeaway.com
+mta6.connect.takeaway.com
+mta7.connect.takeaway.com
 multi-polygon-support.tbb.takeaway.feature.test.staging.takeaway.com
 multi-polygon_scoober-logs.tbb.takeaway.feature.test.staging.takeaway.com
 mvp_1_customerservice.version2.takeaway.feature.test.staging.takeaway.com
@@ -1131,6 +1139,7 @@ ns2.takeaway.com
 ns3.takeaway.com
 nsadmin.takeaway.com
 o475.ptr7918.jobalerts.takeaway.com
+o476.ptr7587.careeralerts.takeaway.com
 ocsp.takeaway.com
 officeassignment-tarek.version2.takeaway.feature.test.staging.takeaway.com
 okta-auth1.takeaway.com

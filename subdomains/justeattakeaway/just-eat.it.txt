@@ -28,7 +28,6 @@ alwa.just-eat.it
 ame.just-eat.it
 appleid.apple.com.secureaccounts.pagelog-in.just-eat.it
 bjerk.just-eat.it
-blog.just-eat.it
 bta.just-eat.it
 ccffc.just-eat.it
 cesm.just-eat.it

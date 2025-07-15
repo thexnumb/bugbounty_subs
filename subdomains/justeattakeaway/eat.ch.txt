@@ -157,6 +157,8 @@ webservice.eat.ch
 wiki.eat.ch
 wss.eat.ch
 ww.eat.ch
+www.cp.eat.ch
+www.danieli.eat.ch
 www.eat.ch
 www.i-can.eat.ch
 wwww.eat.ch

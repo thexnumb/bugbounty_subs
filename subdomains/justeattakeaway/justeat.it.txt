@@ -112,7 +112,6 @@
 0.0uncovtconnect2r-okta-auth2pp01.0.0.0.0.0.0.0.justeat.it
 0.32665419642590261060-0.0.0uncover-okta-auth2pp01.0.0.repo0.0.0.0.0.justeat.it
 0.acc0.0.0.feeds.justeat.it
-0.adm.0.0.0-coinbase.justeat.it
 0.avsmanagement.0.0.justeat.it
 0.email0.0.0.0.0.0.justeat.it
 0.frontpage-0.justeat.it
@@ -256,7 +255,6 @@ canvas.justeat.it
 catalogs.justeat.it
 cftest-customermanagement.justeat.it
 cftest-restaurantevents.justeat.it
-click.email.justeat.it
 click.update.justeat.it
 clientchatssl.justeat.it
 cloud.update.justeat.it
@@ -314,7 +312,6 @@ host.justeat.it
 houvacs1.justeat.it
 hwscorp.justeat.it
 i-locail.justeat.it
-i2pizzaioli.justeat.it
 insights.justeat.it
 int0.justeat.resetdata-0.0.justeat.it
 internet.e.justeat.it
@@ -447,7 +444,6 @@ outmail.justeat.it
 overslips.justeat.it
 ovps1555.justeat.it
 owa.justeat.it
-paelleriaalcampanile.justeat.it
 partner-centre.justeat.it
 partner-status.justeat.it
 partner.justeat.it
@@ -459,9 +455,6 @@ pbrand.e.justeat.it
 pbrand.justeat.it
 pcs.justeat.it
 performance.justeat.it
-pizzaspeedy.justeat.it
-pizzeriacasamia.justeat.it
-pizzeriamammassunta.justeat.it
 play.justeat.it
 po.justeat.it
 poczta.e.justeat.it
@@ -490,7 +483,6 @@ restaurantmenumanager.justeat.it
 rider.justeat.it
 ristoranti.justeat.it
 root.justeat.it
-rosteat.justeat.it
 rpcorder.justeat.it
 rum5pv52.justeat.it
 rxnetex.justeat.it
@@ -546,11 +538,7 @@ widgetbuttons.justeat.it
 wikierror.justeat.it
 wpzoner.justeat.it
 ww.justeat.it
-www.ablink.orders.justeat.it
-www.connect.justeat.it
 www.justeat.it
-www.partner.justeat.it
-www.www.justeat.it
 www5nmapscrape.justeat.it
 www5page-campaign.justeat.it
 xyz2xyz.justeat.it
