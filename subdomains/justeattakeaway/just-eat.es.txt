@@ -85,9 +85,11 @@
 141-95-206-98.news.just-eat.es
 141.just-eat.es
 1437905-5.chat.api.just-eat.es
+146.227.just-eat.es
 156c65bf70d4982ccf48d3c20c81ab49.just-eat.es
 15c79519444b9e6dd7b67921e282023c.just-eat.es
 16359.verona-moncada.just-eat.es
+164.88.208.just-eat.es
 1672173806728647244-20ikqycnciura.just-eat.es
 1673295386511545211-is9m2k3ij2eb.just-eat.es
 1675178588814201880-rppurvkvtid0.just-eat.es
@@ -153,6 +155,7 @@ access.just-eat.es
 acp.just-eat.es
 active.just-eat.es
 admin.just-eat.es
+aladdinalamillo.just-eat.es
 alliance.just-eat.es
 alq.just-eat.es
 als.just-eat.es
@@ -169,6 +172,7 @@ auth.just-eat.es
 authsmtp.e.just-eat.es
 authsmtp.just-eat.es
 b0.just-eat.es
+b29c5b4b7664630c507f0554eaa60328.just-eat.es
 b55c56c1-b71f-40af-904f-baf1ccb46018.ident.just-eat.es
 ba110069-aa95-4027-9c4f-a5c3e4ecddce.just-eat.es
 baidu.just-eat.es
@@ -177,6 +181,8 @@ barracuda.e.just-eat.es
 barracuda.just-eat.es
 barraval.just-eat.es
 barrufian.just-eat.es
+beaconimages-prod.just-eat.es
+belisa.just-eat.es
 beta.just-eat.es
 bip.just-eat.es
 blog.just-eat.es
@@ -185,6 +191,7 @@ blogs.just-eat.es
 blue-cobra-po2s.just-eat.es
 book.just-eat.es
 bookmarks.just-eat.es
+bostonpizza.just-eat.es
 box.e.just-eat.es
 box.just-eat.es
 brandmanagement.just-eat.es
@@ -202,7 +209,9 @@ cfp.just-eat.es
 cftest-customermanagement.just-eat.es
 chidbostonpizzabostonpizzane.just-eat.es
 chinakingbarakaldo.just-eat.es
+chinalau.just-eat.es
 chinalunified.just-eat.es
+city-donerkebab.just-eat.es
 class.just-eat.es
 click.just-eat.es
 cloud.update-bombaypalaceave.just-eat.es
@@ -253,6 +262,8 @@ digilander.just-eat.es
 dip0.just-eat.es
 disk.just-eat.es
 do.just-eat.es
+donerkebab-ripollet.just-eat.es
+donerkebabreal.just-eat.es
 donjamonalacarta.just-eat.es
 donmazar.just-eat.es
 drivers.just-eat.es
@@ -262,9 +273,11 @@ ebocatabeach-connect-i18n-production.just-eat.es
 ece.just-eat.es
 edotest-deliveryserviceexternalapi.just-eat.es
 ehs-wm-hp500.dhcp.jgi.just-eat.es
+elbongust.just-eat.es
 emaicarpipizzasalts.just-eat.es
 email.e.just-eat.es
 email.just-eat.es
+emails-es-geodataapi-i18n-production-smp.just-eat.es
 emathpress.just-eat.es
 emscalover.just-eat.es
 en.just-eat.es
@@ -287,6 +300,7 @@ es.just-eat.es
 ess.just-eat.es
 events.just-eat.es
 exchange.just-eat.es
+express.just-eat.es
 fc6d6b3c-698f-4c94-858e-1813038a4ba7.just-eat.es
 feature.just-eat.es
 feeds.just-eat.es
@@ -303,8 +317,6 @@ gassethabana-piscolabis.just-eat.es
 gate.just-eat.es
 gateway.just-eat.es
 gc.just-eat.es
-go-portal.just-eat.es
-go-tracker.just-eat.es
 grc2go.just-eat.es
 groups.just-eat.es
 guia.just-eat.es
@@ -363,6 +375,9 @@ k3.just-eat.es
 k4.just-eat.es
 k5.just-eat.es
 kebabhut-boadilla.just-eat.es
+kebabishcoslada.just-eat.es
+kebabishvillalba.just-eat.es
+kebabvitoria.just-eat.es
 kk.just-eat.es
 kr3.just-eat.es
 ku1720.just-eat.es
@@ -523,6 +538,7 @@ o2153.abmail.emails.just-eat.es
 o2153.abmail.it-restaurant-api18n-production-smp.just-eat.es
 o489.abmaiwebmail2.emaiwebmail2s.just-eat.es
 o489.abmta12.emta12s.just-eat.es
+o489.emails-es-geodataapi-i18n-production-smp.just-eat.es
 o489.emails-es-legacypaycodes.just-eat.es
 o489.emails.just-eat.es
 o489.es-partnermanagement-emails.just-eat.es
@@ -537,6 +553,7 @@ order.just-eat.es
 orderandwin.just-eat.es
 ordermanagement.just-eat.es
 ordermanagementapi.just-eat.es
+ordermanagementweb.just-eat.es
 orderpadconfdonerkebabrealguratdonerkebabrealonweb.just-eat.es
 orderpadconfigurationweb.just-eat.es
 orders.just-eat.es
@@ -555,6 +572,7 @@ partnercentreaccountmanagement.just-eat.es
 partnercentreaccountmanagementemails.just-eat.es
 partnerwww.just-eat.es
 passport.just-eat.es
+pastanostracatarrojas.just-eat.es
 pay.just-eat.es
 paymentes-homewebment.just-eat.es
 pdk-editorymentmdk-editorndk-editorgement.just-eat.es
@@ -564,6 +582,7 @@ performance.just-eat.es
 pizzapuertoasador.just-eat.es
 pizzeriamilanosant.just-eat.es
 pizzeriatarantella.just-eat.es
+pizzonpizza-fatima.just-eat.es
 play.just-eat.es
 po.e.just-eat.es
 po.just-eat.es
@@ -604,6 +623,7 @@ restaurantes.just-eat.es
 restaurantevents.just-eat.es
 restaurantmanagement.just-eat.es
 restaurantmenumanager.just-eat.es
+restaurants.just-eat.es
 restrict.just-eat.es
 resume.just-eat.es
 root.just-eat.es
@@ -660,6 +680,7 @@ uni.just-eat.es
 union.just-eat.es
 univ.just-eat.es
 up.just-eat.es
+update.just-eat.es
 user.just-eat.es
 users.just-eat.es
 varnish.just-eat.es

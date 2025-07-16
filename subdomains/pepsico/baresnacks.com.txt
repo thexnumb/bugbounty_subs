@@ -1,2 +1,3 @@
 cdn.baresnacks.com
+staging.baresnacks.com
 www.baresnacks.com

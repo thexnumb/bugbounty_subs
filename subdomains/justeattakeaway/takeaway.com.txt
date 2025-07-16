@@ -435,7 +435,6 @@ cw-api.takeaway.com
 cw-logs.takeaway.com
 database_test.tbb.takeaway.feature.test.staging.takeaway.com
 db-problems-test.orders.ordersbackend.feature.test.staging.takeaway.com
-de.takeaway.com
 december-surprises.takeaway.com
 dekemvriiski-iznenadi.takeaway.com
 delivery-api.prod.clops.takeaway.com
@@ -1032,9 +1031,7 @@ loyaltyshop.takeaway.com
 lp-api.takeaway.com
 lsissue.version2.takeaway.feature.test.staging.takeaway.com
 lu-shop.takeaway.com
-m.fr.takeaway.com
 m.takeaway.com
-m.uk.takeaway.com
 mail.takeaway.com
 mailfix.version2.takeaway.feature.test.staging.takeaway.com
 maillogofix.version2.takeaway.feature.test.staging.takeaway.com
@@ -1452,14 +1449,12 @@ workscouncil.takeaway.com
 worldline-external-order-api.takeaway.com
 wpblog.takeaway.com
 wstest.takeaway.com
-www.be.takeaway.com
 www.brand.takeaway.com
 www.careers.takeaway.com
 www.corporate.takeaway.com
 www.scooberwebshop.takeaway.com
 www.takeaway.com
 www.takeaway.out.takeaway.com
-www.uk.takeaway.com
 www.vietnam.out.takeaway.com
 xp_gitlab.version2.takeaway.feature.test.staging.takeaway.com
 xray.takeaway.com
