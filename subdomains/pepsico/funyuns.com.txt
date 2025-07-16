@@ -1,4 +1,0 @@
-cube.funyuns.com
-static.funyuns.com
-www.funyuns.com
-www.static.funyuns.com

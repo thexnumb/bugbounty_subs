@@ -1,6 +1,0 @@
-ar.bubly.com
-origin-www.bubly.com
-policy.bubly.com
-rewards.bubly.com
-www.ar.bubly.com
-www.bubly.com

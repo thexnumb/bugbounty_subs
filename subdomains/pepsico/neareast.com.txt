@@ -1,3 +1,0 @@
-cr.neareast.com
-staging.neareast.com
-www.neareast.com
