@@ -26,6 +26,7 @@ meet.agahpardazan.ir
 oos.agahpardazan.ir
 operation.agahpardazan.ir
 otp.agahpardazan.ir
+panjereh.agahpardazan.ir
 parking.agahpardazan.ir
 pe.agahpardazan.ir
 people.agahpardazan.ir
