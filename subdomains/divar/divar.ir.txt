@@ -307,6 +307,7 @@ adc.divar.ir
 add.divar.ir
 adder.divar.ir
 addicted.divar.ir
+addondomaintest.divar.ir
 addons.divar.ir
 adds.divar.ir
 adel.divar.ir
@@ -3229,6 +3230,7 @@ deti.divar.ir
 detox.divar.ir
 detroit.divar.ir
 deuce.divar.ir
+dev-addondomaintest.divar.ir
 dev-admin.divar.ir
 dev-api.divar.ir
 dev-www.divar.ir
