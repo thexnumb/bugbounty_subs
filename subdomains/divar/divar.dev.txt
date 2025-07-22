@@ -221,6 +221,7 @@ uzche.chat.divar.dev
 uzche01.chat.divar.dev
 uzche02.chat.divar.dev
 uzche03.chat.divar.dev
+uzche04.chat.divar.dev
 vanna.data.staging.divar.dev
 web-interview.divar.dev
 web-mr-handler.afra.handler.divar.dev
