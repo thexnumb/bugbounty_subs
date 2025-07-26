@@ -217,9 +217,12 @@ ingress-nginx.prom.afra.divar.cloud
 ingress-nginx.prom.data.neda.divar.cloud
 ingress-nginx.prom.k8s-bare.neda.divar.cloud
 ingress-nginx.prom.neda.divar.cloud
+ingress-private.k8s-bare.neda.divar.cloud
+ingress.data.divar.cloud
 ingress.data.neda.divar.cloud
 ingress.k8s-bare.neda.divar.cloud
 ingress.neda.divar.cloud
+ingress.runners.neda.divar.cloud
 internal-gateway.am.afra.divar.cloud
 internal-gateway.am.k8s-bare.neda.divar.cloud
 internal-gateway.am.neda.divar.cloud
