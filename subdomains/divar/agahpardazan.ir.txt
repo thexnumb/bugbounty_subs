@@ -31,6 +31,7 @@ parking.agahpardazan.ir
 pe.agahpardazan.ir
 people.agahpardazan.ir
 peygir.agahpardazan.ir
+peygirfata.agahpardazan.ir
 pm.agahpardazan.ir
 portal.agahpardazan.ir
 record.agahpardazan.ir
