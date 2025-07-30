@@ -574,7 +574,6 @@ anakin.divar.ir
 anal.divar.ir
 analog.divar.ir
 analysis.divar.ir
-analytics.divar.ir
 anand.divar.ir
 ananke.divar.ir
 anarchy.divar.ir
@@ -680,6 +679,7 @@ api.int.divar.ir
 api.internal.k8s-bare.neda.divar.ir
 api.map.m.divar.ir
 api.norisk.divar.ir
+api.qc.support.divar.ir
 api.staging.divar.ir
 api.test.divar.ir
 api1.divar.ir
@@ -6912,7 +6912,6 @@ manufacturing.divar.ir
 map-admin.divar.ir
 map-staging.divar.ir
 map.divar.ir
-map.m.divar.ir
 mapa.divar.ir
 mapas.divar.ir
 maple.divar.ir
@@ -12300,8 +12299,6 @@ voice.divar.ir
 voicemail.divar.ir
 void.divar.ir
 voip-internal.divar.ir
-voip.divar.ir
-voip1.divar.ir
 voip2.divar.ir
 voip750101.pg6.sip.divar.ir
 voipa010.divar.ir
