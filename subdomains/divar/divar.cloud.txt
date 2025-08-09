@@ -133,6 +133,7 @@ hekmat.data.divar.cloud
 hekmatapi.divar.cloud
 hello-data.test.neda.divar.cloud
 hello.test.afra.divar.cloud
+hello.test.k8s-bare.neda.divar.cloud
 hello.test.neda.divar.cloud
 hellocdn.divar.cloud
 history.spark.data.divar.cloud
@@ -146,8 +147,10 @@ ingress-nginx.am.data.neda.divar.cloud
 ingress-nginx.am.neda.divar.cloud
 ingress-nginx.prom.data.neda.divar.cloud
 ingress-nginx.prom.neda.divar.cloud
+ingress-private.k8s-bare.neda.divar.cloud
 ingress.data.divar.cloud
 ingress.data.neda.divar.cloud
+ingress.k8s-bare.hwb.divar.cloud
 ingress.k8s-bare.neda.divar.cloud
 ingress.neda.divar.cloud
 ingress.runners.neda.divar.cloud
