@@ -8,6 +8,7 @@ azure1.aigw.divar.io
 azure2.aigw.divar.io
 azure3.aigw.divar.io
 azure4.aigw.divar.io
+azure5.aigw.divar.io
 brand.divar.io
 digitalocean1.aigw.divar.io
 digitalocean2.aigw.divar.io
