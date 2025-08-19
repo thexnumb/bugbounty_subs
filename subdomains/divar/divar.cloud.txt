@@ -1,13 +1,3 @@
-0.vmstorage-neda.divar.cloud
-1.vmstorage-neda.divar.cloud
-2.vmstorage-neda.divar.cloud
-3.vmstorage-neda.divar.cloud
-4.vmstorage-neda.divar.cloud
-5.vmstorage-neda.divar.cloud
-6.vmstorage-neda.divar.cloud
-7.vmstorage-neda.divar.cloud
-8.vmstorage-neda.divar.cloud
-9.vmstorage-neda.divar.cloud
 ads.am.afra.divar.cloud
 ads.am.k8s-bare.neda.divar.cloud
 ads.am.neda.divar.cloud
@@ -23,7 +13,6 @@ alertmanager-ingress-nginx.am.data.neda.divar.cloud
 alertmanager-kube-metrics.am.data.neda.divar.cloud
 alisharifi-label.prom.afra.divar.cloud
 alisharifi.prom.afra.divar.cloud
-api-healthcheck.hwb.divar.cloud
 api-healthcheck.neda.divar.cloud
 api-test.afra.divar.cloud
 api-test.neda.divar.cloud
@@ -83,7 +72,6 @@ data-infra.rw.k8s-bare.neda.divar.cloud
 data.am.data.neda.divar.cloud
 data.prom.data.neda.divar.cloud
 datahub.data.divar.cloud
-db-backup-remote-write.vm.k8s-bare.hwb.divar.cloud
 dc-local.kube.neda.divar.cloud
 dc-local.shared.afra.divar.cloud
 development-platform.am.afra.divar.cloud
@@ -180,7 +168,6 @@ git-test.divar.cloud
 git.divar.cloud
 git.hwb.divar.cloud
 gitlab.am.k8s-bare.neda.divar.cloud
-grpc-api-healthcheck.hwb.divar.cloud
 grpc-api-healthcheck.neda.divar.cloud
 grpc-api-test.afra.divar.cloud
 grpc-api-test.neda.divar.cloud
@@ -203,7 +190,6 @@ hello.test.k8s-bare.hwb.divar.cloud
 hello.test.k8s-bare.neda.divar.cloud
 hello.test.k8s-bear.neda.divar.cloud
 hello.test.neda.divar.cloud
-hello.test1.k8s-bare.hwb.divar.cloud
 hellocdn.divar.cloud
 history.spark.data.divar.cloud
 homer.pbx.divar.cloud
@@ -222,7 +208,6 @@ ingress-nginx.prom.data.neda.divar.cloud
 ingress-nginx.prom.k8s-bare.neda.divar.cloud
 ingress-nginx.prom.neda.divar.cloud
 ingress-private.k8s-bare.neda.divar.cloud
-ingress.data.divar.cloud
 ingress.data.neda.divar.cloud
 ingress.k8s-bare.hwb.divar.cloud
 ingress.k8s-bare.neda.divar.cloud
@@ -238,7 +223,6 @@ it.am.neda.divar.cloud
 it.prom.k8s-bare.neda.divar.cloud
 it.prom.neda.divar.cloud
 jaeger.afra.divar.cloud
-jaeger.hwb.divar.cloud
 jaeger.neda.divar.cloud
 jfrog.do.divar.cloud
 jobs-panel.divar.cloud
@@ -318,11 +302,9 @@ myip.divar.cloud
 newda-2.data.staging.divar.cloud
 newda.data.staging.divar.cloud
 nexus.do.divar.cloud
-nginx-s3-gateway.divar.cloud
 nima-test-1.divar.cloud
 nima-test.neda.divar.cloud
 old.jupyter.data.divar.cloud
-oncall.divar.cloud
 op-sentry.divar.cloud
 open-platform-marketing-media.divar.cloud
 open-platform.am.afra.divar.cloud
@@ -383,14 +365,12 @@ repos.hwb.divar.cloud
 researcher-bot.divar.cloud
 rest-gateway.prom.afra.divar.cloud
 review-rasad.divar.cloud
-review-temp.divar.cloud
 review.am.afra.divar.cloud
 review.am.k8s-bare.neda.divar.cloud
 review.prom.afra.divar.cloud
 sadat.divar.cloud
 safety.am.afra.divar.cloud
 safety.prom.afra.divar.cloud
-salt-master-remote-write.vm.k8s-bare.hwb.divar.cloud
 salt-master-remote-write.vm.k8s-bare.neda.divar.cloud
 sample.prom.neda.divar.cloud
 search-arman.prom.neda.divar.cloud
@@ -414,7 +394,6 @@ sentry.prom.neda.divar.cloud
 seo.divar.cloud
 setareh-onboarding.divar.cloud
 sotoon-k8s-bare.am.k8s-bare.neda.divar.cloud
-sotoon-remote-write.vm.k8s-bare.hwb.divar.cloud
 sotoon-remote-write.vm.k8s-bare.neda.divar.cloud
 spark.am.data.neda.divar.cloud
 spark.data.divar.cloud
@@ -482,8 +461,6 @@ universal-alerts.am.neda.divar.cloud
 universal-test.am.neda.divar.cloud
 universalalerts-namespace.am.neda.divar.cloud
 uz-proxy.divar.cloud
-uz-proxy.hwb.divar.cloud
-uz-proxy.neda.divar.cloud
 uz-stage-01-proxy.divar.cloud
 vanna.data.divar.cloud
 vanna.data.staging.divar.cloud
@@ -493,13 +470,8 @@ vault-3.neda.divar.cloud
 vault.neda.divar.cloud
 vcsa.hwb.divar.cloud
 vcsa01.divar.cloud
-victoria-logs.vm.k8s-bare.hwb.divar.cloud
-victoria-logs.vm.k8s-bare.neda.divar.cloud
 victoria-logs.vm.runners.neda.divar.cloud
-victoria-metrics-aggregated.vm.k8s-bare.hwb.divar.cloud
-victoria-metrics-aggregated.vm.k8s-bare.neda.divar.cloud
 victoria-metrics-long-term.vm.afra.divar.cloud
-victoria-metrics-sre-long-term.vm.k8s-bare.hwb.divar.cloud
 victoria-metrics-sre-long-term.vm.k8s-bare.neda.divar.cloud
 victoria-metrics.data.divar.cloud
 victoria-metrics.vm.afra.divar.cloud
@@ -509,7 +481,6 @@ victoria-metrics.vm.k8s-dog.neda.divar.cloud
 victoria-metrics.vm.neda.divar.cloud
 victoria-metrics.vm.runners.neda.divar.cloud
 victorias.metrics.vm.k8s-bare.hwb.divar.cloud
-vllm.hwb.data.divar.cloud
 vllm.k8s-gpu.data.divar.cloud
 vllm.neda.data.divar.cloud
 vm.k8s-bare.hwb.divar.cloud
@@ -518,7 +489,6 @@ vms.am.k8s-bare.neda.divar.cloud
 vms.am.neda.divar.cloud
 vms.prom.k8s-bare.neda.divar.cloud
 vms.prom.neda.divar.cloud
-vmstorage-neda.divar.cloud
 warden.divar.cloud
 whip.divar.cloud
 whitelist-api.divar.cloud
