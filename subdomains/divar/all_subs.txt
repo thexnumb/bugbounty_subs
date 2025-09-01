@@ -207,6 +207,7 @@ a093d239b7cb2d4729f739fe57d0fb5f.divar.dev
 a1.divar.ir
 a1234567.divar.ir
 a13c63be46d884731acdc8bd58fe1d58.divar.dev
+a16703bc246d6d0f9073e55528faf6ba.divar.dev
 a17eb40be1d4e5da3caf67cf6d49ac3c.divar.dev
 a2.divar.ir
 a3.divar.ir
@@ -256,6 +257,7 @@ abc123.divar.ir
 abcd.divar.ir
 abcde.divar.ir
 abcdef.divar.ir
+abd44d00d46f514d6d37810483d8d33d.divar.dev
 abdo.divar.ir
 abdullah.divar.ir
 abe.divar.ir
@@ -374,8 +376,11 @@ adp.divar.ir
 adriana.divar.ir
 adrms.divar.ir
 ads.am.afra.divar.cloud
+ads.am.k8s-bare.neda.divar.cloud
+ads.am.neda.divar.cloud
 ads.divar.ir
 ads.prom.afra.divar.cloud
+ads.prom.k8s-bare.neda.divar.cloud
 ads.prom.neda.divar.cloud
 ads1.divar.ir
 ads2.divar.ir
@@ -537,6 +542,7 @@ aleph.divar.ir
 alert.divar.ir
 alertmanager-divar-infra.am.data.neda.divar.cloud
 alertmanager-ingress-nginx.am.data.neda.divar.cloud
+alertmanager-kube-metrics.am.data.neda.divar.cloud
 alerts.divar.ir
 alertus.divar.ir
 alex.divar.ir
@@ -559,6 +565,8 @@ alimohit.test.divar.ir
 alina.divar.ir
 alis.divar.ir
 alisa.divar.ir
+alisharifi-label.prom.afra.divar.cloud
+alisharifi.prom.afra.divar.cloud
 alive.divar.ir
 all-nodes.divar.ir
 all.divar.ir
@@ -643,6 +651,7 @@ anakin.divar.ir
 anal.divar.ir
 analog.divar.ir
 analysis.divar.ir
+analytics.divar.ir
 anand.divar.ir
 ananke.divar.ir
 anarchy.divar.ir
@@ -746,6 +755,7 @@ api-dev.divar.ir
 api-dev2.divar.ir
 api-healthcheck.neda.divar.cloud
 api-internal-k8s-bare-neda.divar.ir
+api-neda.divar.ir
 api-test.afra.divar.cloud
 api-test.divar.ir
 api-test.neda.divar.cloud
@@ -764,6 +774,7 @@ api.internal.k8s-bare.neda.divar.ir
 api.k8s-bare.neda.divar.cloud
 api.k8s-dog.neda.divar.cloud
 api.map.m.divar.ir
+api.neda.divar.cloud
 api.norisk.divar.ir
 api.shopping-assistant.divar.dev
 api.staging.divar.ir
@@ -1963,6 +1974,7 @@ buddha.divar.ir
 buddy.divar.ir
 budget.divar.ir
 buffalo.divar.ir
+bugbounty.divar.cloud
 bugbounty.divar.ir
 bugs.divar.ir
 bugtrack.divar.ir
@@ -2071,6 +2083,7 @@ call-admin.divar.ir
 call.am.k8s-bare.neda.divar.cloud
 call.am.neda.divar.cloud
 call.divar.ir
+call.prom.k8s-bare.neda.divar.cloud
 call.prom.neda.divar.cloud
 callback.divar.ir
 callcenter.agahpardazan.ir
@@ -2237,6 +2250,7 @@ cdn-sotoon.am.afra.divar.cloud
 cdn-sotoon.am.neda.divar.cloud
 cdn-sotoon.prom.afra.divar.cloud
 cdn-sotoon.prom.neda.divar.cloud
+cdn.am.afra.divar.cloud
 cdn.divar.ir
 cdn.prom.afra.divar.cloud
 cdn01.divar.ir
@@ -2322,6 +2336,8 @@ channel.divar.ir
 channels.divar.ir
 chantal.divar.ir
 chaos.divar.ir
+chaos.prom.k8s-bare.neda.divar.cloud
+chaos.prom.neda.divar.cloud
 chaotic.divar.ir
 chaplin.divar.ir
 charge.divar.ir
@@ -2338,8 +2354,10 @@ charts.divar.ir
 chase.divar.ir
 chat-push.divar.cloud
 chat.agahpardazan.ir
+chat.am.k8s-bare.neda.divar.cloud
 chat.am.neda.divar.cloud
 chat.divar.ir
+chat.prom.k8s-bare.neda.divar.cloud
 chat.prom.neda.divar.cloud
 chat1.divar.ir
 chat2.divar.ir
@@ -2492,7 +2510,9 @@ client-exporter-api.divar.ir
 client-exporter.prom.afra.divar.cloud
 client-sentry-old.divar.ir
 client-sentry.divar.ir
+client.am.k8s-bare.neda.divar.cloud
 client.am.neda.divar.cloud
+client.prom.k8s-bare.neda.divar.cloud
 client.prom.neda.divar.cloud
 cliente.divar.ir
 clientftp.divar.ir
@@ -2505,6 +2525,7 @@ clip.divar.ir
 clips.divar.ir
 cliqproxy.afra.divar.cloud
 cliqproxy.divar.ir
+cliqproxy.prom.afra.divar.cloud
 cliqproxy2.prom.afra.divar.cloud
 clk.divar.ir
 clock.divar.ir
@@ -2616,6 +2637,7 @@ communications.divar.ir
 communities.divar.ir
 comodo.divar.ir
 comp.divar.ir
+compactor.prom.data.divar.cloud
 compactor.prom.data.neda.divar.cloud
 compactor.prom.neda.divar.cloud
 company.divar.ir
@@ -2891,6 +2913,7 @@ curtis.divar.ir
 custom.divar.ir
 customer-trust-blacklist.afra.divar.cloud
 customer-trust-reports.afra.divar.cloud
+customer-trust.afra.divar.cloud
 customers.divar.ir
 customersupport.divar.ir
 cute.divar.ir
@@ -3077,8 +3100,10 @@ dastyar.divar.dev
 dat154.divar.ir
 data-docs.divar.ir
 data-infra.am.k8s-bare.neda.divar.cloud
+data-infra.am.k8s-data.neda.divar.cloud
 data-infra.am.neda.divar.cloud
 data-infra.prom.api-neda.divar.ir
+data-infra.prom.k8s-bare.neda.divar.cloud
 data-infra.prom.neda.divar.cloud
 data-infra.rw.k8s-bare.neda.divar.cloud
 data.am.data.neda.divar.cloud
@@ -3287,8 +3312,10 @@ develop.divar.ir
 developer.divar.ir
 developers.divar.ir
 development-platform.am.afra.divar.cloud
+development-platform.am.k8s-bare.neda.divar.cloud
 development-platform.am.neda.divar.cloud
 development-platform.prom.afra.divar.cloud
+development-platform.prom.k8s-bare.neda.divar.cloud
 development-platform.prom.neda.divar.cloud
 development.divar.ir
 devil.divar.ir
@@ -3400,6 +3427,7 @@ distributor.divar.ir
 distributors.divar.ir
 diva.divar.ir
 divar-alisharifi.am.afra.divar.cloud
+divar-alisharifi.prom.afra.divar.cloud
 divar-car-business.prom.divar.ir
 divar-car.am.afra.divar.cloud
 divar-car.prom.afra.divar.cloud
@@ -3433,6 +3461,7 @@ divar-explorers-test.prom.divar.ir
 divar-explorers.monitoring.divar.ir
 divar-explorers.prom.afra.divar.cloud
 divar-explorers.prom.divar.ir
+divar-federate.prom.afra.divar.cloud
 divar-ha-proxy.prom.afra.divar.cloud
 divar-ha-proxy.prom.divar.ir
 divar-image.prom.divar.ir
@@ -3447,6 +3476,7 @@ divar-infra.monitoring.divar.ir
 divar-infra.prom.afra.divar.cloud
 divar-infra.prom.data.neda.divar.cloud
 divar-infra.prom.divar.ir
+divar-infra.prom.k8s-bare.neda.divar.cloud
 divar-infra.prom.neda.divar.cloud
 divar-infra.prom.runners.neda.divar.cloud
 divar-infrastructure.monitoring.divar.ir
@@ -3463,7 +3493,9 @@ divar-marketplace.prom.divar.ir
 divar-mentorship.monitoring.divar.ir
 divar-mentorship.prom.divar.ir
 divar-monitoring.prom.divar.ir
+divar-nginx.prom.afra.divar.cloud
 divar-panel.am.afra.divar.cloud
+divar-panel.am.k8s-bare.neda.divar.cloud
 divar-panel.am.neda.divar.cloud
 divar-panel.prom.afra.divar.cloud
 divar-payment-test.am.afra.divar.cloud
@@ -3476,6 +3508,7 @@ divar-post-api.prom.afra.divar.cloud
 divar-post-api.prom.divar.ir
 divar-post-pricing.am.afra.divar.cloud
 divar-post-pricing.prom.afra.divar.cloud
+divar-post-view.am.afra.divar.cloud
 divar-post-view.prom.afra.divar.cloud
 divar-real-estate.monitoring.divar.ir
 divar-real-estate.prom.divar.ir
@@ -3488,20 +3521,26 @@ divar-rpc-central.prom.afra.divar.cloud
 divar-rpc-record.prom.afra.divar.cloud
 divar-rpc.am.afra.divar.cloud
 divar-rpc.am.k8s-bare.neda.divar.cloud
+divar-rpc.am.neda.divar.cloud
 divar-rpc.prom.afra.divar.cloud
+divar-rpc.prom.k8s-bare.neda.divar.cloud
+divar-rpc.prom.neda.divar.cloud
 divar-search-engine.monitoring.divar.ir
 divar-search-engine.prom.divar.ir
 divar-search-re.prom.afra.divar.cloud
 divar-search-re.prom.divar.ir
 divar-search.prom.divar.ir
+divar-security.am.afra.divar.cloud
 divar-security.prom.afra.divar.cloud
 divar-sentry.monitoring.divar.ir
 divar-sentry.prom.afra.divar.cloud
 divar-sentry.prom.divar.ir
 divar-seo.prom.afra.divar.cloud
 divar-seo.prom.divar.ir
+divar-services.am.afra.divar.cloud
 divar-services.prom.afra.divar.cloud
 divar-services.prom.divar.ir
+divar-submit.am.afra.divar.cloud
 divar-submit.prom.divar.ir
 divar-vpa.prom.divar.ir
 divar-web.am.afra.divar.cloud
@@ -3741,6 +3780,7 @@ durga.divar.ir
 dust.divar.ir
 duster.divar.ir
 dv.divar.ir
+dvidder.summercamp.divar.cloud
 dvr.divar.ir
 dw.divar.ir
 dwcloudorigin.divar.ir
@@ -4034,6 +4074,8 @@ entrepreneurs.divar.ir
 env.divar.ir
 environment.divar.ir
 envoy-experiment.nama.divar.cloud
+envoy-gateway-test-grpc.divar.cloud
+envoy-gateway-test.divar.cloud
 envy.divar.ir
 enzo.divar.ir
 eo.divar.ir
@@ -4356,6 +4398,7 @@ fee.divar.ir
 feed.divar.ir
 feedback.divar.ir
 feedback360.agahpardazan.ir
+feedback360.test.afra.divar.cloud
 feedme.divar.ir
 fef.divar.ir
 felix.divar.ir
@@ -4776,9 +4819,11 @@ gate2.divar.ir
 gatekeeper.divar.ir
 gates.divar.ir
 gateway.am.afra.divar.cloud
+gateway.am.k8s-bare.neda.divar.cloud
 gateway.am.neda.divar.cloud
 gateway.divar.ir
 gateway.prom.afra.divar.cloud
+gateway.prom.k8s-bare.neda.divar.cloud
 gateway.prom.neda.divar.cloud
 gateway1.divar.ir
 gateway2.divar.ir
@@ -4885,6 +4930,7 @@ gis2.divar.ir
 gisfahan.divar.ir
 gisweb.divar.ir
 git-summercamp.divar.ir
+git-test.divar.cloud
 git.divar.cloud
 git.divar.ir
 git.hwb.divar.cloud
@@ -5083,7 +5129,10 @@ h5.divar.ir
 h6.divar.ir
 h7.divar.ir
 h8.divar.ir
+ha-proxy.am.afra.divar.cloud
+ha-proxy.am.k8s-bare.neda.divar.cloud
 ha-proxy.am.neda.divar.cloud
+ha-proxy.prom.k8s-bare.neda.divar.cloud
 ha-proxy.prom.neda.divar.cloud
 ha.pool.divar.ir
 habarovsk.divar.ir
@@ -5143,6 +5192,8 @@ happy.divar.ir
 happy123.divar.ir
 happylife.divar.ir
 happytime.divar.ir
+haproxy.am.neda.divar.cloud
+haproxy.prom.neda.divar.cloud
 hardcore.divar.ir
 hardware.divar.ir
 hardy.divar.ir
@@ -5207,10 +5258,15 @@ helios.divar.ir
 helium.divar.ir
 helix.divar.ir
 hell.divar.ir
+hello-app.neda.divar.cloud
 hello-data.test.neda.divar.cloud
+hello-kong.test.neda.divar.cloud
 hello.divar.ir
 hello.test.afra.divar.cloud
+hello.test.data.divar.cloud
+hello.test.k8s-bare.hwb.divar.cloud
 hello.test.k8s-bare.neda.divar.cloud
+hello.test.k8s-bear.neda.divar.cloud
 hello.test.neda.divar.cloud
 hellocdn.divar.cloud
 hellokitty.divar.ir
@@ -5682,6 +5738,7 @@ im2.divar.ir
 im3.divar.ir
 ima.divar.ir
 image.am.afra.divar.cloud
+image.am.k8s-bare.neda.divar.cloud
 image.prom.afra.divar.cloud
 image1.divar.ir
 image2.divar.ir
@@ -5822,12 +5879,15 @@ infra2.divar.ir
 ing.divar.ir
 ingenieria.divar.ir
 ingest.data.divar.cloud
+ingress-nginx.am.afra.divar.cloud
 ingress-nginx.am.data.neda.divar.cloud
+ingress-nginx.am.k8s-bare.neda.divar.cloud
 ingress-nginx.am.neda.divar.cloud
+ingress-nginx.prom.afra.divar.cloud
 ingress-nginx.prom.data.neda.divar.cloud
+ingress-nginx.prom.k8s-bare.neda.divar.cloud
 ingress-nginx.prom.neda.divar.cloud
 ingress-private.k8s-bare.neda.divar.cloud
-ingress.data.divar.cloud
 ingress.data.neda.divar.cloud
 ingress.k8s-bare.hwb.divar.cloud
 ingress.k8s-bare.neda.divar.cloud
@@ -5864,6 +5924,12 @@ interface.divar.ir
 interior.divar.ir
 intermapper.divar.ir
 intern.divar.ir
+internal-gateway.am.afra.divar.cloud
+internal-gateway.am.k8s-bare.neda.divar.cloud
+internal-gateway.am.neda.divar.cloud
+internal-gateway.prom.afra.divar.cloud
+internal-gateway.prom.k8s-bare.neda.divar.cloud
+internal-gateway.prom.neda.divar.cloud
 internal-jupyter.divar.ir
 internal.divar.ir
 international.divar.ir
@@ -5993,6 +6059,7 @@ istanbul.divar.ir
 istun.divar.ir
 it.am.k8s-bare.neda.divar.cloud
 it.am.neda.divar.cloud
+it.prom.k8s-bare.neda.divar.cloud
 it.prom.neda.divar.cloud
 it1.divar.ir
 ita.divar.ir
@@ -6048,6 +6115,7 @@ jackson.divar.ir
 jacksonville.divar.ir
 jacob.divar.ir
 jade.divar.ir
+jaeger.afra.divar.cloud
 jaeger.divar.ir
 jaeger.neda.divar.cloud
 jaguar.divar.ir
@@ -6114,6 +6182,7 @@ jeux.divar.ir
 jewel.divar.ir
 jewelry.divar.ir
 jf.divar.ir
+jfrog.do.divar.cloud
 jg.divar.ir
 jgdw.divar.ir
 jgxy.divar.ir
@@ -6216,6 +6285,7 @@ junk.divar.ir
 juno.divar.ir
 jupiter.divar.ir
 jupyter-legal.data.divar.cloud
+jupyter.data.bare.divar.cloud
 jupyter.data.divar.cloud
 jupyter.divar.ir
 jupyter.review.divar.dev
@@ -6246,6 +6316,8 @@ k1.divar.ir
 k2.divar.ir
 ka.divar.ir
 kafka-admin.data.divar.cloud
+kafka-admin.hwb.data.divar.cloud
+kafka.data.divar.cloud
 kafka.divar.ir
 kafka.search.divar.dev
 kage.divar.ir
@@ -6432,6 +6504,11 @@ kirakira.divar.ir
 kiran.divar.ir
 kirk.divar.ir
 kis.divar.ir
+kise-metrics.prom.k8s-bare.neda.divar.cloud
+kise-metrics.prom.neda.divar.cloud
+kise-nginx.am.afra.divar.cloud
+kise-nginx.prom.afra.divar.cloud
+kise-proxy.divar.cloud
 kish.divar.ir
 kish.konj.divar.ir
 kish.poshte.divar.ir
@@ -6485,11 +6562,14 @@ kong-admin.afra.divar.cloud
 kong-admin.neda.divar.cloud
 kong-test.am.afra.divar.cloud
 kong.am.afra.divar.cloud
+kong.am.k8s-bare.neda.divar.cloud
 kong.am.neda.divar.cloud
 kong.divar.ir
 kong.prom.afra.divar.cloud
+kong.prom.k8s-bare.neda.divar.cloud
 kong.prom.neda.divar.cloud
 kong.staging.divar.cloud
+kong1.prom.afra.divar.cloud
 kongi.am.afra.divar.cloud
 kongv2.divar.ir
 konj.divar.ir
@@ -6536,13 +6616,20 @@ ku.divar.ir
 kuba.divar.ir
 kuban.divar.ir
 kube-data.neda.divar.cloud
+kube-metrics-test.prom.data.neda.divar.cloud
+kube-metrics-test.prom.runners.neda.divar.cloud
 kube-metrics.am.data.neda.divar.cloud
 kube-metrics.am.k8s-bare.neda.divar.cloud
 kube-metrics.am.neda.divar.cloud
 kube-metrics.am.runners.neda.divar.cloud
 kube-metrics.prom.data.neda.divar.cloud
+kube-metrics.prom.k8s-bare.neda.divar.cloud
+kube-metrics.prom.neda.divar.cloud
+kube-metrics.prom.runners.neda.divar.cloud
 kube-teleport-proxy-alpn.android-interview.divar.dev
 kube.neda.divar.cloud
+kubectl.kube-auth.k8s-bear.neda.divar.cloud
+kubectl.kube-auth.k8s-dog.neda.divar.cloud
 kuku.divar.ir
 kultur.divar.ir
 kultura.divar.ir
@@ -6581,6 +6668,7 @@ l2tp.divar.ir
 la2.divar.ir
 lab1.divar.ir
 labe.divar.ir
+label-studio.divar.cloud
 label-studio.real-estate.divar.cloud
 label.divar.ir
 labo.divar.ir
@@ -6611,6 +6699,7 @@ landings-staging.web.divar.dev
 landscape.divar.ir
 lang.divar.ir
 langfuse.data.divar.cloud
+langfuse3.data.divar.cloud
 language.divar.ir
 languages.divar.ir
 lanka.divar.ir
@@ -6851,6 +6940,7 @@ lobby.divar.ir
 lobo.divar.ir
 local.api.divar.ir
 local.divar.ir
+local.registry.do.divar.cloud
 local.secure.divar.ir
 local.www.divar.ir
 localhost.blog.divar.ir
@@ -6865,6 +6955,7 @@ log1.divar.ir
 logan.divar.ir
 logbook.divar.ir
 logger.divar.ir
+logging-test.neda.divar.cloud
 logging.divar.cloud
 logging.divar.ir
 logic.divar.ir
@@ -6880,6 +6971,7 @@ logs.divar.ir
 logserver.divar.ir
 lojas.divar.ir
 loke.divar.ir
+loki-gateway.data.neda.divar.cloud
 loki.divar.ir
 loko.divar.ir
 lol.divar.ir
@@ -7279,7 +7371,11 @@ manuel.divar.ir
 manufacturing.divar.ir
 map-admin.divar.ir
 map-discovery.am.afra.divar.cloud
+map-discovery.am.k8s-bare.neda.divar.cloud
+map-discovery.am.neda.divar.cloud
 map-discovery.prom.afra.divar.cloud
+map-discovery.prom.k8s-bare.neda.divar.cloud
+map-discovery.prom.neda.divar.cloud
 map-staging.divar.ir
 map.divar.ir
 map.m.divar.ir
@@ -7622,6 +7718,7 @@ milo.divar.ir
 milton.divar.ir
 milwaukee.divar.ir
 mimi.divar.ir
+mimir-test.prom.neda.divar.cloud
 mimo.divar.ir
 mimosa.divar.ir
 min.divar.ir
@@ -7634,6 +7731,8 @@ minerva.divar.ir
 ming.divar.ir
 mini.divar.ir
 minio.data.divar.cloud
+minio.divar.cloud
+minio2.data.divar.cloud
 minmin.divar.ir
 minnesota.divar.ir
 minnie.divar.ir
@@ -8018,6 +8117,7 @@ myftp.divar.ir
 myhome.divar.ir
 myhost.divar.ir
 myinfo.divar.ir
+myip.divar.cloud
 myip.divar.ir
 myjob.divar.ir
 mylife.divar.ir
@@ -8272,6 +8372,7 @@ newyork.divar.ir
 nexgen.divar.ir
 next.divar.ir
 nexus.divar.ir
+nexus.do.divar.cloud
 neyshabur.divar.ir
 neyshabur.konj.divar.ir
 neyshabur.poshte.divar.ir
@@ -8316,6 +8417,8 @@ nikita.divar.ir
 niko.divar.ir
 nil.divar.ir
 nils.divar.ir
+nima-test-1.divar.cloud
+nima-test.neda.divar.cloud
 nimble.divar.ir
 nimbus.divar.ir
 nina.divar.ir
@@ -8692,6 +8795,7 @@ oklahoma.divar.ir
 oks.divar.ir
 olap.divar.ir
 old-www.divar.ir
+old.jupyter.data.divar.cloud
 old.prom.divar.ir
 old.rasad.divar.ir
 old1.divar.ir
@@ -8765,11 +8869,16 @@ opac.divar.ir
 opal.divar.ir
 opel.divar.ir
 open-platform-kafka-ui.divar.dev
+open-platform-marketing-media.divar.cloud
 open-platform-redirect.divar.ir
 open-platform-staging.divar.dev
 open-platform-staging.web.divar.dev
+open-platform.am.afra.divar.cloud
 open-platform.am.k8s-bare.neda.divar.cloud
 open-platform.am.neda.divar.cloud
+open-platform.prom.afra.divar.cloud
+open-platform.prom.k8s-bare.neda.divar.cloud
+open-platform.prom.neda.divar.cloud
 open.divar.ir
 openai-plugin.divar.dev
 opencart.divar.ir
@@ -9099,6 +9208,7 @@ penny.divar.ir
 pension.divar.ir
 penza.divar.ir
 people.agahpardazan.ir
+people.divar.cloud
 pepe.divar.ir
 pepito.divar.ir
 pepper.divar.ir
@@ -9135,6 +9245,7 @@ petrozavodsk.divar.ir
 peygir.agahpardazan.ir
 peygir.divar.ir
 peygirfata.agahpardazan.ir
+peyk.prom.afra.divar.cloud
 pf.divar.ir
 pf1.divar.ir
 pg6.sip.divar.ir
@@ -9385,11 +9496,17 @@ poseidon.divar.ir
 poshte.divar.ir
 post-api.am.k8s-bare.neda.divar.cloud
 post-api.am.neda.divar.cloud
+post-api.prom.k8s-bare.neda.divar.cloud
 post-api.prom.neda.divar.cloud
 post-quality-fake-verification-manager.neda.divar.cloud
+post-quality-feedback.neda.divar.cloud
 post-storage-kafka-ui.divar.dev
 post-storage.am.afra.divar.cloud
 post-storage.am.k8s-bare.neda.divar.cloud
+post-storage.prom.afra.divar.cloud
+post-view.am.k8s-bare.neda.divar.cloud
+post-view.am.neda.divar.cloud
+post-view.prom.k8s-bare.neda.divar.cloud
 post-view.prom.neda.divar.cloud
 post.divar.ir
 posta.divar.ir
@@ -9399,6 +9516,7 @@ postfix.divar.ir
 postfixadmin.divar.ir
 postit.divar.ir
 postkhoone.chat.divar.ir
+postkhoone.test.afra.divar.cloud
 postman.divar.ir
 postmaster.divar.ir
 pow.divar.ir
@@ -9435,6 +9553,7 @@ prediction.divar.ir
 prefs.vip.divar.ir
 prelive.divar.ir
 premier.divar.ir
+premium-user.am.k8s-bare.neda.divar.cloud
 prensa.divar.ir
 prep.divar.ir
 prepaid.divar.ir
@@ -9522,8 +9641,12 @@ projekt.divar.ir
 projet.divar.ir
 projetos.divar.ir
 projets.divar.ir
+prom.do.divar.cloud
 prom.do.divar.dev
+prometheus-divar-infra.prom.data.neda.divar.cloud
 prometheus-divar-infra.prom.divar.ir
+prometheus-ingress-nginx.prom.data.neda.divar.cloud
+prometheus-kube-metrics.prom.data.neda.divar.cloud
 prometheus.divar.ir
 promo.divar.ir
 promos.divar.ir
@@ -9690,6 +9813,10 @@ qt.divar.ir
 quack.divar.ir
 quad.divar.ir
 quake.divar.ir
+quality-essential.am.afra.divar.cloud
+quality-essential.am.k8s-bare.neda.divar.cloud
+quality-essential.prom.afra.divar.cloud
+quality-post-publish.am.afra.divar.cloud
 quality-post-publish.am.k8s-bare.neda.divar.cloud
 quantum.divar.ir
 quarantine.divar.ir
@@ -9721,6 +9848,7 @@ qwe.divar.ir
 qweasd.divar.ir
 qwerty.divar.ir
 qwertyuiop.divar.ir
+r-admin.divar.cloud
 r.divar.cloud
 r.divar.ir
 r0.divar.ir
@@ -9860,8 +9988,11 @@ real-estate-feedback.divar.ir
 real-estate-sparrow-admin.divar.ir
 real-estate.am.afra.divar.cloud
 real-estate.am.k8s-bare.neda.divar.cloud
+real-estate.am.neda.divar.cloud
 real-estate.divar.ir
 real-estate.prom.afra.divar.cloud
+real-estate.prom.k8s-bare.neda.divar.cloud
+real-estate.prom.neda.divar.cloud
 real.divar.ir
 realestate-videos.divar.ir
 realestate.divar.ir
@@ -9932,8 +10063,10 @@ regist.divar.ir
 registrar.divar.ir
 registro.divar.ir
 registry-interview.divar.cloud
+registry-test.divar.cloud
 registry.divar.cloud
 registry.divar.ir
+registry.do.divar.cloud
 registry.git-summercamp.divar.ir
 registry.hwb.divar.cloud
 regulus.divar.ir
@@ -9994,6 +10127,7 @@ reports.divar.ir
 reports2.divar.ir
 repos.divar.cloud
 repos.divar.ir
+repos.hwb.divar.cloud
 repositorio.divar.ir
 repository.divar.ir
 reps.divar.ir
@@ -10004,6 +10138,7 @@ res1.divar.ir
 res2.divar.ir
 rescue.divar.ir
 research1.divar.ir
+researcher-bot.divar.cloud
 researcher.divar.ir
 reseller.divar.ir
 reseller2.divar.ir
@@ -10026,6 +10161,7 @@ respina.agahpardazan.ir
 response.divar.ir
 responsive.divar.ir
 ressources.divar.ir
+rest-gateway.prom.afra.divar.cloud
 rest.divar.ir
 restaurant.divar.ir
 restore.divar.ir
@@ -10654,11 +10790,16 @@ seal.divar.ir
 sean.divar.ir
 search-arman.prom.neda.divar.cloud
 search-assistant.divar.dev
+search-data.am.k8s-bare.neda.divar.cloud
+search-data.am.neda.divar.cloud
+search-data.prom.k8s-bare.neda.divar.cloud
+search-data.prom.neda.divar.cloud
 search.am.afra.divar.cloud
 search.am.k8s-bare.neda.divar.cloud
 search.am.neda.divar.cloud
 search.divar.ir
 search.prom.afra.divar.cloud
+search.prom.k8s-bare.neda.divar.cloud
 search.prom.neda.divar.cloud
 search1.divar.ir
 search2.divar.ir
@@ -10740,11 +10881,14 @@ senior.divar.ir
 sensor.divar.ir
 sentinel.divar.ir
 sentinelle.divar.ir
+sentry-admin.divar.cloud
 sentry-new.divar.ir
 sentry-test.divar.cloud
+sentry.am.k8s-bare.neda.divar.cloud
 sentry.am.neda.divar.cloud
 sentry.divar.cloud
 sentry.divar.ir
+sentry.prom.k8s-bare.neda.divar.cloud
 sentry.prom.neda.divar.cloud
 seo-canary.divar.ir
 seo.divar.cloud
@@ -11546,6 +11690,7 @@ stocks.divar.ir
 stone.divar.ir
 stop.divar.ir
 stor1.divar.ir
+storage-vms.am.k8s-bare.neda.divar.cloud
 storage.agahpardazan.ir
 storage.divar.ir
 storage1.divar.ir
@@ -11906,6 +12051,7 @@ teleservices.divar.ir
 telewebion.com7.divar.ir
 teleworker.divar.ir
 telnet.divar.ir
+temp-ads-api.neda.divar.cloud
 temp01.divar.ir
 temp1.divar.ir
 temp2.divar.ir
@@ -11946,6 +12092,7 @@ test-car.divar.ir
 test-car.web.divar.dev
 test-careers.divar.dev
 test-careers.divar.ir
+test-certificate.divar.cloud
 test-chart.prom.divar.ir
 test-e2e.divar.dev
 test-e2e.divar.ir
@@ -11974,7 +12121,10 @@ test-submit-warning.divar.dev
 test-submit-warning.divar.ir
 test-wallboard.agahpardazan.ir
 test-www.divar.ir
+test.am.afra.divar.cloud
 test.am.data.neda.divar.cloud
+test.am.neda.divar.cloud
+test.cert.manager.data.divar.cloud
 test.chat.divar.ir
 test.divar.dev
 test.kashef.divar.dev
@@ -12031,6 +12181,7 @@ test19.divar.dev
 test19.divar.ir
 test19.web.divar.dev
 test2-submit-warning.divar.ir
+test2.am.data.neda.divar.cloud
 test2.divar.dev
 test2.users.divar.ir
 test2.web.divar.dev
@@ -12129,6 +12280,7 @@ thanos-front.prom.divar.ir
 thanos-new.prom.divar.ir
 thanos-query.prom.afra.divar.cloud
 thanos-ruler.prom.afra.divar.cloud
+thanos-ruler.prom.data.divar.cloud
 thanos-ruler.prom.data.neda.divar.cloud
 thanos-ruler.prom.divar.ir
 thanos-ruler.prom.k8s-bare.neda.divar.cloud
@@ -12137,9 +12289,11 @@ thanos-sidecar.prom.divar.ir
 thanos.prom.data.divar.cloud
 thanos.prom.data.neda.divar.cloud
 thanos.prom.divar.ir
+thanos.prom.k8s-bare.neda.divar.cloud
 thanos.prom.neda.divar.cloud
 thayer.divar.ir
 thc.divar.ir
+the-wall-staging-1585.staging.divar.cloud
 the-wall-staging-546.staging.divar.cloud
 the-wall.staging.divar.cloud
 the.divar.ir
@@ -12424,10 +12578,13 @@ truba.divar.ir
 true.divar.ir
 trust-blacklist.neda.divar.cloud
 trust-reports.neda.divar.cloud
+trust.am.afra.divar.cloud
 trust.am.k8s-bare.neda.divar.cloud
+trust.am.neda.divar.cloud
 trust.divar.ir
 trust.prom.afra.divar.cloud
 trust.prom.k8s-bare.neda.divar.cloud
+trust.prom.neda.divar.cloud
 truyen.divar.ir
 try.divar.ir
 ts.fef.divar.ir
@@ -12582,12 +12739,17 @@ unity.divar.ir
 unitycatalog.data.divar.cloud
 univ.divar.ir
 univer.divar.ir
+universal-alert-test.am.neda.divar.cloud
+universal-alert-test.prom.neda.divar.cloud
 universal-alert.am.divar.ir
 universal-alerts.am.afra.divar.cloud
 universal-alerts.am.data.neda.divar.cloud
 universal-alerts.am.divar.ir
+universal-alerts.am.k8s-bare.neda.divar.cloud
 universal-alerts.am.neda.divar.cloud
+universal-test.am.neda.divar.cloud
 universal.divar.ir
+universalalerts-namespace.am.neda.divar.cloud
 universe.divar.ir
 university.divar.ir
 universum.divar.ir
@@ -12665,6 +12827,8 @@ uxr3.divar.ir
 uxr4.divar.ir
 uxs1r.divar.ir
 uxs2r.divar.ir
+uz-proxy.divar.cloud
+uz-stage-01-proxy.divar.cloud
 uz1.divar.ir
 uz2.divar.ir
 uz3.divar.ir
@@ -12736,6 +12900,8 @@ vcm.divar.ir
 vcon.divar.ir
 vconf.divar.ir
 vcs.divar.ir
+vcsa.hwb.divar.cloud
+vcsa01.divar.cloud
 vcse.divar.ir
 vd.divar.ir
 vdc.divar.ir
@@ -12800,10 +12966,13 @@ victoria-metrics-long-term.vm.afra.divar.cloud
 victoria-metrics-sre-long-term.vm.k8s-bare.neda.divar.cloud
 victoria-metrics.data.divar.cloud
 victoria-metrics.vm.afra.divar.cloud
+victoria-metrics.vm.k8s-bare.hwb.divar.cloud
 victoria-metrics.vm.k8s-bare.neda.divar.cloud
+victoria-metrics.vm.k8s-dog.neda.divar.cloud
 victoria-metrics.vm.neda.divar.cloud
 victoria-metrics.vm.runners.neda.divar.cloud
 victoria.divar.ir
+victorias.metrics.vm.k8s-bare.hwb.divar.cloud
 victory.divar.ir
 vid.divar.ir
 vidar.divar.ir
@@ -12885,7 +13054,10 @@ vladivostok.divar.ir
 vlc.divar.ir
 vle.divar.ir
 vlg.divar.ir
+vllm.k8s-gpu.data.divar.cloud
+vllm.neda.data.divar.cloud
 vm.divar.ir
+vm.k8s-bare.hwb.divar.cloud
 vm0.divar.ir
 vm01.divar.ir
 vm02.divar.ir
@@ -12903,6 +13075,7 @@ vmailin01mx.divar.ir
 vmailin02mx.divar.ir
 vmc.divar.ir
 vmlogs-test.divar.cloud
+vms.am.k8s-bare.neda.divar.cloud
 vms.am.neda.divar.cloud
 vms.divar.ir
 vms.prom.k8s-bare.neda.divar.cloud
@@ -12925,6 +13098,8 @@ voice.divar.ir
 voicemail.divar.ir
 void.divar.ir
 voip-internal.divar.ir
+voip.divar.ir
+voip1.divar.ir
 voip2.divar.ir
 voip750101.pg6.sip.divar.ir
 voipa010.divar.ir
@@ -18821,6 +18996,7 @@ www.sb.divar.ir
 www.se.divar.ir
 www.secret.divar.ir
 www.security.divar.ir
+www.sentry.divar.cloud
 www.seo.divar.ir
 www.server.divar.ir
 www.service.divar.ir
@@ -19203,6 +19379,7 @@ zeppeli-realestate.divar.ir
 zeppeli-review.divar.ir
 zeppeli-search.divar.ir
 zeppeli-test.divar.ir
+zeppeli.data.divar.cloud
 zeppeli.divar.ir
 zeppelin-attar.divar.ir
 zeppelin-bi-summercamp.divar.ir

@@ -574,6 +574,7 @@ anakin.divar.ir
 anal.divar.ir
 analog.divar.ir
 analysis.divar.ir
+analytics.divar.ir
 anand.divar.ir
 ananke.divar.ir
 anarchy.divar.ir
@@ -672,6 +673,7 @@ api-dev-grpc.divar.ir
 api-dev.divar.ir
 api-dev2.divar.ir
 api-internal-k8s-bare-neda.divar.ir
+api-neda.divar.ir
 api-test.divar.ir
 api.dev.divar.ir
 api.divar.ir
@@ -12298,6 +12300,8 @@ voice.divar.ir
 voicemail.divar.ir
 void.divar.ir
 voip-internal.divar.ir
+voip.divar.ir
+voip1.divar.ir
 voip2.divar.ir
 voip750101.pg6.sip.divar.ir
 voipa010.divar.ir
