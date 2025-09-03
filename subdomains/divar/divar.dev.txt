@@ -151,6 +151,7 @@ staging1.review.divar.dev
 staging2.review.divar.dev
 staging3.review.divar.dev
 staging4.review.divar.dev
+submit-livekit-event-proxy.divar.dev
 support-staging.divar.dev
 support-staging.web.divar.dev
 tele.divar.dev
