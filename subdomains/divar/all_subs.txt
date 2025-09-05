@@ -331,7 +331,6 @@ adc.divar.ir
 add.divar.ir
 adder.divar.ir
 addicted.divar.ir
-addondomaintest.divar.ir
 addons.divar.ir
 adds.divar.ir
 adel.divar.ir
@@ -645,7 +644,6 @@ anakin.divar.ir
 anal.divar.ir
 analog.divar.ir
 analysis.divar.ir
-analytics.divar.ir
 anand.divar.ir
 ananke.divar.ir
 anarchy.divar.ir
@@ -749,7 +747,6 @@ api-dev.divar.ir
 api-dev2.divar.ir
 api-healthcheck.neda.divar.cloud
 api-internal-k8s-bare-neda.divar.ir
-api-neda.divar.ir
 api-test.afra.divar.cloud
 api-test.divar.ir
 api-test.neda.divar.cloud
@@ -766,6 +763,7 @@ api.flags.divar.dev
 api.int.divar.ir
 api.internal.k8s-bare.neda.divar.ir
 api.k8s-bare.neda.divar.cloud
+api.k8s-dog.neda.divar.cloud
 api.map.m.divar.ir
 api.norisk.divar.ir
 api.shopping-assistant.divar.dev
@@ -3133,6 +3131,7 @@ dbd.divar.ir
 dbs.divar.ir
 dbs1.divar.ir
 dbserver.divar.ir
+dc-local.kube.neda.divar.cloud
 dc-local.shared.afra.divar.cloud
 dc1.divar.ir
 dc3.divar.ir
@@ -3257,7 +3256,6 @@ deti.divar.ir
 detox.divar.ir
 detroit.divar.ir
 deuce.divar.ir
-dev-addondomaintest.divar.ir
 dev-admin.divar.ir
 dev-api.divar.ir
 dev-www.divar.ir
@@ -4889,6 +4887,7 @@ gisweb.divar.ir
 git-summercamp.divar.ir
 git.divar.cloud
 git.divar.ir
+git.hwb.divar.cloud
 gitlab.am.k8s-bare.neda.divar.cloud
 gitlab.divar.ir
 giving.divar.ir
@@ -5827,9 +5826,8 @@ ingress-nginx.am.data.neda.divar.cloud
 ingress-nginx.am.neda.divar.cloud
 ingress-nginx.prom.data.neda.divar.cloud
 ingress-nginx.prom.neda.divar.cloud
-ingress-private.k8s-bare.neda.divar.cloud
+ingress.data.divar.cloud
 ingress.data.neda.divar.cloud
-ingress.k8s-bare.hwb.divar.cloud
 ingress.k8s-bare.neda.divar.cloud
 ingress.k8s-bear.nebius.divar.io
 ingress.neda.divar.cloud
@@ -9672,7 +9670,6 @@ qazvin.poshte.divar.ir
 qazwsx.divar.ir
 qb.divar.ir
 qc.divar.ir
-qc.support.divar.ir
 qeshm.divar.ir
 qh.divar.ir
 qhazvin.divar.ir
@@ -9935,6 +9932,7 @@ registry-interview.divar.cloud
 registry.divar.cloud
 registry.divar.ir
 registry.git-summercamp.divar.ir
+registry.hwb.divar.cloud
 regulus.divar.ir
 rehab.divar.ir
 reiki.divar.ir
@@ -11323,6 +11321,7 @@ spl.divar.ir
 splash.divar.ir
 splayer.divar.ir
 splunk.divar.ir
+splunk.hwb.divar.cloud
 splunk.neda.divar.cloud
 spm.divar.ir
 spo.divar.ir
@@ -12482,6 +12481,7 @@ turing.divar.ir
 turismo.divar.ir
 turizm.divar.ir
 turkey.divar.ir
+turn.divar.cloud
 turner.divar.ir
 turtle.divar.ir
 turystyka.divar.ir
@@ -12716,7 +12716,11 @@ varzesh3.com3.digikala.com4.aparat.com5.shaparak.ir6.mihanblog.com7.bankmellat.i
 varzesh3.com4.shaparak.ir5.namnak.com6.telewebion.com7.divar.ir
 vas.divar.ir
 vasco.divar.ir
+vault-1.neda.divar.cloud
+vault-2.neda.divar.cloud
+vault-3.neda.divar.cloud
 vault.divar.ir
+vault.neda.divar.cloud
 vb.divar.ir
 vbox.divar.ir
 vbulletin.divar.ir
@@ -12919,8 +12923,6 @@ voice.divar.ir
 voicemail.divar.ir
 void.divar.ir
 voip-internal.divar.ir
-voip.divar.ir
-voip1.divar.ir
 voip2.divar.ir
 voip750101.pg6.sip.divar.ir
 voipa010.divar.ir
@@ -18109,6 +18111,7 @@ wha.divar.ir
 whale.divar.ir
 whatever.divar.ir
 whatsup.divar.ir
+whip.divar.cloud
 whisky.divar.ir
 whisper.divar.ir
 white.divar.ir
@@ -18784,7 +18787,6 @@ www.pruebas.divar.ir
 www.pt.divar.ir
 www.qazvin.divar.ir
 www.qom.divar.ir
-www.qom.konj.divar.ir
 www.quality.divar.ir
 www.rasht.divar.ir
 www.rd.divar.ir
@@ -19151,6 +19153,7 @@ zabawki.divar.ir
 zabbix.afra.agahpardazan.ir
 zabbix.hwb.divar.cloud
 zabbix.jrdn.agahpardazan.ir
+zabbix.neda.divar.cloud
 zabbix2.divar.ir
 zabol.divar.ir
 zahedan.divar.ir

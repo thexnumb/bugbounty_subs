@@ -295,7 +295,6 @@ adc.divar.ir
 add.divar.ir
 adder.divar.ir
 addicted.divar.ir
-addondomaintest.divar.ir
 addons.divar.ir
 adds.divar.ir
 adel.divar.ir
@@ -574,7 +573,6 @@ anakin.divar.ir
 anal.divar.ir
 analog.divar.ir
 analysis.divar.ir
-analytics.divar.ir
 anand.divar.ir
 ananke.divar.ir
 anarchy.divar.ir
@@ -673,7 +671,6 @@ api-dev-grpc.divar.ir
 api-dev.divar.ir
 api-dev2.divar.ir
 api-internal-k8s-bare-neda.divar.ir
-api-neda.divar.ir
 api-test.divar.ir
 api.dev.divar.ir
 api.divar.ir
@@ -3091,7 +3088,6 @@ deti.divar.ir
 detox.divar.ir
 detroit.divar.ir
 deuce.divar.ir
-dev-addondomaintest.divar.ir
 dev-admin.divar.ir
 dev-api.divar.ir
 dev-www.divar.ir
@@ -9252,7 +9248,6 @@ qazvin.poshte.divar.ir
 qazwsx.divar.ir
 qb.divar.ir
 qc.divar.ir
-qc.support.divar.ir
 qeshm.divar.ir
 qh.divar.ir
 qhazvin.divar.ir
@@ -12300,8 +12295,6 @@ voice.divar.ir
 voicemail.divar.ir
 void.divar.ir
 voip-internal.divar.ir
-voip.divar.ir
-voip1.divar.ir
 voip2.divar.ir
 voip750101.pg6.sip.divar.ir
 voipa010.divar.ir
@@ -18146,7 +18139,6 @@ www.pruebas.divar.ir
 www.pt.divar.ir
 www.qazvin.divar.ir
 www.qom.divar.ir
-www.qom.konj.divar.ir
 www.quality.divar.ir
 www.rasht.divar.ir
 www.rd.divar.ir
