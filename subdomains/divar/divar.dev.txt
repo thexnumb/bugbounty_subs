@@ -80,6 +80,7 @@ beta.web.divar.dev
 canary.divar.dev
 canary.web.divar.dev
 chatbot.demo.divar.dev
+chatyar-evaluation.divar.dev
 chatyar-staging.divar.dev
 cloud-sandboxing.divar.dev
 codesearch.divar.dev
