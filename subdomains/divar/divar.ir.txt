@@ -84,9 +84,7 @@ api-dev.divar.ir
 api-dev2.divar.ir
 api-neda.divar.ir
 api.divar.ir
-api.internal.k8s-bare.neda.divar.ir
 api.map.m.divar.ir
-api.norisk.divar.ir
 apis.divar.ir
 arak.divar.ir
 archive.divar.ir
@@ -124,7 +122,6 @@ canaryupload.divar.ir
 canvas.divar.ir
 car-auction.divar.ir
 car-inspection.divar.ir
-car-panel.divar.ir
 car-suggestion-store2.divar.ir
 car.divar.ir
 cardetails.divar.ir
@@ -1088,6 +1085,7 @@ thanos-query.prom.divar.ir
 thanos-ruler.prom.divar.ir
 thanos-sidecar.prom.divar.ir
 thanos.prom.divar.ir
+tighehftbahram-margerapefarswww.divar.ir
 tim.divar.ir
 to-prevent-delete.divar.ir
 tomato.divar.ir
